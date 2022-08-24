@@ -1,0 +1,34 @@
+{
+  "builds": {
+    "reven": {
+      "brandNames": [],
+      "isAue": false,
+      "pushRecoveries": {
+        "103": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14816.99.0_reven_recovery_stable-channel_mp-v2.bin.zip"
+      },
+      "servingBeta": {
+        "chromeVersion": "105.0.5195.42",
+        "comparedToMostCommon": 0,
+        "version": "14989.59.0"
+      },
+      "servingCanary": {
+        "chromeVersion": "106.0.5242.0",
+        "comparedToMostCommon": 0,
+        "version": "15053.0.0"
+      },
+      "servingDev": {
+        "chromeVersion": "106.0.5242.0",
+        "comparedToMostCommon": 0,
+        "version": "15053.0.0"
+      },
+      "servingStable": {
+        "chromeVersion": "104.0.5112.105",
+        "comparedToMostCommon": 0,
+        "version": "14909.124.0"
+      }
+    }
+  },
+  "creationDate": "2022-08-24",
+  "creationTime": "06:12 PT",
+  "enterprisePins": []
+}
