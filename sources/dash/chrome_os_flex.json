@@ -4,31 +4,33 @@
       "brandNames": [],
       "isAue": false,
       "pushRecoveries": {
-        "103": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14816.99.0_reven_recovery_stable-channel_mp-v2.bin.zip"
+        "103": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14816.99.0_reven_recovery_stable-channel_mp-v2.bin.zip",
+        "104": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14909.132.0_reven_recovery_stable-channel_mp-v2.bin.zip",
+        "105": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14989.86.0_reven_recovery_stable-channel_mp-v2.bin.zip"
       },
       "servingBeta": {
-        "chromeVersion": "105.0.5195.42",
+        "chromeVersion": "107.0.5304.22",
         "comparedToMostCommon": 0,
-        "version": "14989.59.0"
+        "version": "15117.28.0"
       },
       "servingCanary": {
-        "chromeVersion": "106.0.5242.0",
+        "chromeVersion": "108.0.5344.0",
         "comparedToMostCommon": 0,
-        "version": "15053.0.0"
+        "version": "15173.0.0"
       },
       "servingDev": {
-        "chromeVersion": "106.0.5242.0",
+        "chromeVersion": "108.0.5335.0",
         "comparedToMostCommon": 0,
-        "version": "15053.0.0"
+        "version": "15156.0.0"
       },
       "servingStable": {
-        "chromeVersion": "104.0.5112.105",
+        "chromeVersion": "105.0.5195.134",
         "comparedToMostCommon": 0,
-        "version": "14909.124.0"
+        "version": "14989.108.0"
       }
     }
   },
-  "creationDate": "2022-08-24",
-  "creationTime": "06:12 PT",
+  "creationDate": "2022-10-10",
+  "creationTime": "08:12 PT",
   "enterprisePins": []
 }
