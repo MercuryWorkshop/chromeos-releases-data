@@ -9,28 +9,28 @@
         "105": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14989.86.0_reven_recovery_stable-channel_mp-v2.bin.zip"
       },
       "servingBeta": {
-        "chromeVersion": "107.0.5304.22",
+        "chromeVersion": "107.0.5304.51",
         "comparedToMostCommon": 0,
-        "version": "15117.28.0"
+        "version": "15117.67.0"
       },
       "servingCanary": {
-        "chromeVersion": "108.0.5344.0",
+        "chromeVersion": "109.0.5370.0",
         "comparedToMostCommon": 0,
-        "version": "15173.0.0"
+        "version": "15205.0.0"
       },
       "servingDev": {
-        "chromeVersion": "108.0.5335.0",
+        "chromeVersion": "108.0.5359.6",
         "comparedToMostCommon": 0,
-        "version": "15156.0.0"
+        "version": "15183.8.0"
       },
       "servingStable": {
-        "chromeVersion": "105.0.5195.134",
+        "chromeVersion": "106.0.5249.134",
         "comparedToMostCommon": 0,
-        "version": "14989.108.0"
+        "version": "15054.115.0"
       }
     }
   },
-  "creationDate": "2022-10-10",
-  "creationTime": "08:12 PT",
+  "creationDate": "2022-10-23",
+  "creationTime": "06:12 PT",
   "enterprisePins": []
 }
