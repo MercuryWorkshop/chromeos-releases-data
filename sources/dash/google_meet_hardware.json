@@ -3,111 +3,144 @@
     "ambassador": {
       "models": {
         "ambassador": {
+          "aueDate": "2028-06",
           "brandNames": [
-            "ASUS Meet Compute System (Intel 10th Gen)",
+            "Meet Compute System (Intel 10th Gen)",
             "CTL Meet Compute System (Intel 10th Gen)",
-            "Meet Compute System (Intel 10th Gen)"
+            "ASUS Meet Compute System (Intel 10th Gen)"
           ],
           "isAue": false,
+          "isExperimental": false,
+          "pushRecoveries": {
+            "103": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14816.84.43_ambassador_recovery_stable-channel_mp-v6.bin.zip",
+            "108": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15183.82.33_ambassador_recovery_stable-channel_mp-v6.bin.zip"
+          },
           "servingBeta": {
-            "chromeVersion": "96.0.4664.85",
+            "chromeVersion": "114.0.5735.291",
             "comparedToMostCommon": 0,
-            "version": "14268.52.13"
+            "version": "15437.59.21"
           },
           "servingCanary": {
-            "chromeVersion": "103.0.5038.0",
+            "chromeVersion": "121.0.6138.0",
             "comparedToMostCommon": 0,
-            "version": "14770.0.0"
+            "version": "15687.0.0"
           },
           "servingDev": {
-            "chromeVersion": "101.0.4951.27",
+            "chromeVersion": "108.0.5359.193",
             "comparedToMostCommon": 0,
-            "version": "14588.43.0"
-          },
-          "servingStable": {
-            "chromeVersion": "92.0.4515.149",
-            "comparedToMostCommon": 0,
-            "version": "13982.70.16"
+            "version": "15183.82.47"
           }
         },
         "genesis": {
+          "aueDate": "2028-06",
           "brandNames": [
             "Meet Compute System - Series One (Intel 10th Gen)"
           ],
           "isAue": false,
+          "isExperimental": false,
+          "pushRecoveries": {
+            "103": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14816.84.43_ambassador_recovery_stable-channel_mp-v6.bin.zip",
+            "108": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15183.82.33_ambassador_recovery_stable-channel_mp-v6.bin.zip"
+          },
           "servingBeta": {
-            "chromeVersion": "96.0.4664.85",
+            "chromeVersion": "114.0.5735.291",
             "comparedToMostCommon": 0,
-            "version": "14268.52.13"
+            "version": "15437.59.21"
           },
           "servingCanary": {
-            "chromeVersion": "103.0.5038.0",
+            "chromeVersion": "121.0.6138.0",
             "comparedToMostCommon": 0,
-            "version": "14770.0.0"
+            "version": "15687.0.0"
           },
           "servingDev": {
-            "chromeVersion": "101.0.4951.27",
+            "chromeVersion": "108.0.5359.193",
             "comparedToMostCommon": 0,
-            "version": "14588.43.0"
+            "version": "15183.82.47"
+          }
+        },
+        "moonbuggy": {
+          "aueDate": "2028-06",
+          "brandNames": [
+            "Series One Board 65"
+          ],
+          "isAue": false,
+          "isExperimental": false,
+          "pushRecoveries": {
+            "103": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14816.84.43_ambassador_recovery_stable-channel_mp-v6.bin.zip",
+            "108": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15183.82.33_ambassador_recovery_stable-channel_mp-v6.bin.zip"
           },
-          "servingStable": {
-            "chromeVersion": "92.0.4515.149",
+          "servingBeta": {
+            "chromeVersion": "114.0.5735.291",
             "comparedToMostCommon": 0,
-            "version": "13982.70.16"
+            "version": "15437.59.21"
+          },
+          "servingCanary": {
+            "chromeVersion": "121.0.6138.0",
+            "comparedToMostCommon": 0,
+            "version": "15687.0.0"
+          },
+          "servingDev": {
+            "chromeVersion": "108.0.5359.193",
+            "comparedToMostCommon": 0,
+            "version": "15183.82.47"
           }
         },
         "scout": {
+          "aueDate": "2028-06",
           "brandNames": [
             "Series One Desk 27"
           ],
           "isAue": false,
+          "isExperimental": false,
+          "pushRecoveries": {
+            "103": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14816.84.43_ambassador_recovery_stable-channel_mp-v6.bin.zip",
+            "108": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15183.82.33_ambassador_recovery_stable-channel_mp-v6.bin.zip"
+          },
           "servingBeta": {
-            "chromeVersion": "96.0.4664.148",
-            "comparedToMostCommon": 2,
-            "version": "14268.43.30"
+            "chromeVersion": "114.0.5735.291",
+            "comparedToMostCommon": 0,
+            "version": "15437.59.21"
           },
           "servingCanary": {
-            "chromeVersion": "103.0.5038.0",
+            "chromeVersion": "121.0.6138.0",
             "comparedToMostCommon": 0,
-            "version": "14770.0.0"
+            "version": "15687.0.0"
           },
           "servingDev": {
-            "chromeVersion": "96.0.4664.148",
-            "comparedToMostCommon": 3,
-            "version": "14268.43.30"
-          },
-          "servingStable": {
-            "chromeVersion": "96.0.4664.148",
-            "comparedToMostCommon": 1,
-            "version": "14268.43.30"
+            "chromeVersion": "108.0.5359.193",
+            "comparedToMostCommon": 0,
+            "version": "15183.82.47"
           }
         }
-      },
-      "pushRecoveries": {
-        "92": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13982.70.16_ambassador_recovery_stable-channel_mp-v6.bin.zip",
-        "96": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14268.43.26_ambassador_recovery_stable-channel_mp-v6.bin.zip"
       }
     },
     "buddy-cfm": {
-      "77": {
-        "chromeVersion": "77.0.3865.120",
+      "84": {
+        "chromeVersion": "84.0.4147.142",
         "comparedToMostCommon": 0,
-        "version": "12371.89.1"
+        "version": "13099.72.33"
       },
-      "78": {
-        "chromeVersion": "78.0.3904.106",
+      "86": {
+        "chromeVersion": "86.0.4240.87",
         "comparedToMostCommon": 0,
-        "version": "12499.66.0"
+        "version": "13421.53.5"
       },
-      "79": {
-        "chromeVersion": "79.0.3945.86",
+      "88": {
+        "chromeVersion": "88.0.4324.171",
         "comparedToMostCommon": 0,
-        "version": "12607.58.0"
+        "version": "13597.67.13"
       },
+      "90": {
+        "chromeVersion": "90.0.4430.106",
+        "comparedToMostCommon": 0,
+        "version": "13816.63.21"
+      },
+      "aueDate": "2021-05",
       "brandNames": [
         "Acer Chromebase 24"
       ],
       "isAue": true,
+      "isExperimental": false,
       "pushRecoveries": {
         "86": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13421.53.5_buddy-cfm_recovery_stable-channel_buddy-mp-v2.bin.zip",
         "88": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.67.5_buddy-cfm_recovery_stable-channel_buddy-mp-v2.bin.zip",
@@ -130,186 +163,158 @@
       },
       "servingStable": {
         "chromeVersion": "90.0.4430.106",
-        "comparedToMostCommon": 3,
+        "comparedToMostCommon": 0,
         "version": "13816.63.21"
       }
     },
     "endeavour": {
       "models": {
         "endeavour": {
+          "aueDate": "2028-06",
           "brandNames": [
             "Meet Compute System - Series One"
           ],
-          "isAue": true,
+          "isAue": false,
+          "isExperimental": false,
+          "pushRecoveries": {
+            "103": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14816.84.43_endeavour_recovery_stable-channel_mp.bin.zip",
+            "108": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15183.82.33_endeavour_recovery_stable-channel_mp.bin.zip"
+          },
           "servingBeta": {
-            "chromeVersion": "96.0.4664.85",
+            "chromeVersion": "114.0.5735.291",
             "comparedToMostCommon": 0,
-            "version": "14268.52.13"
+            "version": "15437.59.21"
           },
           "servingCanary": {
-            "chromeVersion": "103.0.5038.0",
+            "chromeVersion": "121.0.6138.0",
             "comparedToMostCommon": 0,
-            "version": "14770.0.0"
+            "version": "15687.0.0"
           },
           "servingDev": {
-            "chromeVersion": "101.0.4951.27",
+            "chromeVersion": "108.0.5359.193",
             "comparedToMostCommon": 0,
-            "version": "14588.43.0"
-          },
-          "servingStable": {
-            "chromeVersion": "92.0.4515.149",
-            "comparedToMostCommon": 0,
-            "version": "13982.70.16"
+            "version": "15183.82.47"
           }
         }
-      },
-      "pushRecoveries": {
-        "84": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13099.72.62_endeavour_recovery_stable-channel_mp.bin.zip",
-        "88": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.67.10_endeavour_recovery_stable-channel_mp.bin.zip",
-        "90": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13816.63.21_endeavour_recovery_stable-channel_mp.bin.zip",
-        "92": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13982.70.16_endeavour_recovery_stable-channel_mp.bin.zip"
       }
     },
     "excelsior": {
       "models": {
         "excelsior": {
+          "aueDate": "2028-06",
           "brandNames": [
             "ASUS Meet Compute System",
             "CTL Meet Compute System"
           ],
-          "isAue": true,
+          "isAue": false,
+          "isExperimental": false,
+          "pushRecoveries": {
+            "103": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14816.84.43_excelsior_recovery_stable-channel_mp-v3.bin.zip",
+            "108": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15183.82.33_excelsior_recovery_stable-channel_mp-v3.bin.zip"
+          },
           "servingBeta": {
-            "chromeVersion": "96.0.4664.85",
+            "chromeVersion": "114.0.5735.291",
             "comparedToMostCommon": 0,
-            "version": "14268.52.13"
+            "version": "15437.59.21"
           },
           "servingCanary": {
-            "chromeVersion": "103.0.5038.0",
+            "chromeVersion": "121.0.6138.0",
             "comparedToMostCommon": 0,
-            "version": "14770.0.0"
+            "version": "15687.0.0"
           },
           "servingDev": {
-            "chromeVersion": "101.0.4951.27",
+            "chromeVersion": "108.0.5359.193",
             "comparedToMostCommon": 0,
-            "version": "14588.43.0"
-          },
-          "servingStable": {
-            "chromeVersion": "92.0.4515.149",
-            "comparedToMostCommon": 0,
-            "version": "13982.70.16"
+            "version": "15183.82.47"
           }
         }
-      },
-      "pushRecoveries": {
-        "84": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13099.72.33_excelsior_recovery_stable-channel_mp-v3.bin.zip",
-        "86": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13421.53.5_excelsior_recovery_stable-channel_mp-v3.bin.zip",
-        "88": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.67.5_excelsior_recovery_stable-channel_mp-v3.bin.zip",
-        "90": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13816.63.21_excelsior_recovery_stable-channel_mp-v3.bin.zip",
-        "92": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13982.70.16_excelsior_recovery_stable-channel_mp-v3.bin.zip"
       }
     },
     "fizz-cfm": {
       "models": {
         "teemo": {
-          "78": {
-            "chromeVersion": "78.0.3904.106",
-            "comparedToMostCommon": 0,
-            "version": "12499.66.0"
-          },
-          "79": {
-            "chromeVersion": "79.0.3945.86",
-            "comparedToMostCommon": 0,
-            "version": "12607.58.0"
-          },
+          "aueDate": "2028-06",
           "brandNames": [
             "ASUS Chromebox 3 (CN65)"
           ],
           "isAue": false,
+          "isExperimental": false,
+          "pushRecoveries": {
+            "103": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14816.84.43_fizz-cfm_recovery_stable-channel_fizz-mp-v13.bin.zip",
+            "108": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15183.82.33_fizz-cfm_recovery_stable-channel_fizz-mp-v13.bin.zip"
+          },
           "servingBeta": {
-            "chromeVersion": "96.0.4664.85",
+            "chromeVersion": "114.0.5735.291",
             "comparedToMostCommon": 0,
-            "version": "14268.52.13"
+            "version": "15437.59.21"
           },
           "servingCanary": {
-            "chromeVersion": "103.0.5038.0",
+            "chromeVersion": "121.0.6138.0",
             "comparedToMostCommon": 0,
-            "version": "14770.0.0"
+            "version": "15687.0.0"
           },
           "servingDev": {
-            "chromeVersion": "101.0.4951.27",
+            "chromeVersion": "108.0.5359.193",
             "comparedToMostCommon": 0,
-            "version": "14588.43.0"
-          },
-          "servingStable": {
-            "chromeVersion": "92.0.4515.149",
-            "comparedToMostCommon": 0,
-            "version": "13982.70.16"
+            "version": "15183.82.47"
           }
         },
         "wukong": {
-          "78": {
-            "chromeVersion": "78.0.3904.106",
-            "comparedToMostCommon": 0,
-            "version": "12499.66.0"
-          },
-          "79": {
-            "chromeVersion": "79.0.3945.86",
-            "comparedToMostCommon": 0,
-            "version": "12607.58.0"
-          },
+          "aueDate": "2028-06",
           "brandNames": [
             "CTL Chromebox CBx1"
           ],
           "isAue": false,
+          "isExperimental": false,
+          "pushRecoveries": {
+            "103": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14816.84.43_fizz-cfm_recovery_stable-channel_fizz-mp-v13.bin.zip",
+            "108": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15183.82.33_fizz-cfm_recovery_stable-channel_fizz-mp-v13.bin.zip"
+          },
           "servingBeta": {
-            "chromeVersion": "96.0.4664.85",
+            "chromeVersion": "114.0.5735.291",
             "comparedToMostCommon": 0,
-            "version": "14268.52.13"
+            "version": "15437.59.21"
           },
           "servingCanary": {
-            "chromeVersion": "103.0.5038.0",
+            "chromeVersion": "121.0.6138.0",
             "comparedToMostCommon": 0,
-            "version": "14770.0.0"
+            "version": "15687.0.0"
           },
           "servingDev": {
-            "chromeVersion": "101.0.4951.27",
+            "chromeVersion": "108.0.5359.193",
             "comparedToMostCommon": 0,
-            "version": "14588.43.0"
-          },
-          "servingStable": {
-            "chromeVersion": "92.0.4515.149",
-            "comparedToMostCommon": 0,
-            "version": "13982.70.16"
+            "version": "15183.82.47"
           }
         }
-      },
-      "pushRecoveries": {
-        "86": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13421.53.5_fizz-cfm_recovery_stable-channel_fizz-mp-v13.bin.zip",
-        "88": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.67.5_fizz-cfm_recovery_stable-channel_fizz-mp-v13.bin.zip",
-        "90": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13816.63.21_fizz-cfm_recovery_stable-channel_fizz-mp-v13.bin.zip",
-        "92": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13982.70.16_fizz-cfm_recovery_stable-channel_fizz-mp-v13.bin.zip"
       }
     },
     "guado-cfm": {
-      "77": {
-        "chromeVersion": "77.0.3865.120",
+      "84": {
+        "chromeVersion": "84.0.4147.142",
         "comparedToMostCommon": 0,
-        "version": "12371.89.1"
+        "version": "13099.72.33"
       },
-      "78": {
-        "chromeVersion": "78.0.3904.106",
+      "86": {
+        "chromeVersion": "86.0.4240.87",
         "comparedToMostCommon": 0,
-        "version": "12499.66.0"
+        "version": "13421.53.5"
       },
-      "79": {
-        "chromeVersion": "79.0.3945.86",
+      "88": {
+        "chromeVersion": "88.0.4324.171",
         "comparedToMostCommon": 0,
-        "version": "12607.58.0"
+        "version": "13597.67.13"
       },
+      "90": {
+        "chromeVersion": "90.0.4430.106",
+        "comparedToMostCommon": 0,
+        "version": "13816.63.21"
+      },
+      "aueDate": "2021-05",
       "brandNames": [
         "ASUS Chromebox 2 (CN62)"
       ],
       "isAue": true,
+      "isExperimental": false,
       "pushRecoveries": {
         "86": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13421.53.5_guado-cfm_recovery_stable-channel_guado-mp-v2.bin.zip",
         "88": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.67.5_guado-cfm_recovery_stable-channel_guado-mp-v2.bin.zip",
@@ -332,61 +337,68 @@
       },
       "servingStable": {
         "chromeVersion": "90.0.4430.106",
-        "comparedToMostCommon": 3,
+        "comparedToMostCommon": 0,
         "version": "13816.63.21"
       }
     },
     "kalista-cfm": {
       "models": {
         "karma": {
-          "79": {
-            "chromeVersion": "79.0.3945.86",
-            "comparedToMostCommon": 0,
-            "version": "12607.58.0"
-          },
+          "aueDate": "2028-05",
           "brandNames": [
             "Acer Chromebase CA24I2"
           ],
           "isAue": false,
+          "isExperimental": false,
+          "pushRecoveries": {
+            "103": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14816.84.43_kalista-cfm_recovery_stable-channel_kalista-mp-v2.bin.zip",
+            "108": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15183.82.33_kalista-cfm_recovery_stable-channel_kalista-mp-v2.bin.zip"
+          },
           "servingBeta": {
-            "chromeVersion": "96.0.4664.85",
+            "chromeVersion": "114.0.5735.291",
             "comparedToMostCommon": 0,
-            "version": "14268.52.13"
+            "version": "15437.59.21"
           },
           "servingCanary": {
-            "chromeVersion": "103.0.5038.0",
+            "chromeVersion": "121.0.6138.0",
             "comparedToMostCommon": 0,
-            "version": "14770.0.0"
+            "version": "15687.0.0"
           },
           "servingDev": {
-            "chromeVersion": "101.0.4951.27",
+            "chromeVersion": "108.0.5359.193",
             "comparedToMostCommon": 0,
-            "version": "14588.43.0"
-          },
-          "servingStable": {
-            "chromeVersion": "92.0.4515.149",
-            "comparedToMostCommon": 0,
-            "version": "13982.70.16"
+            "version": "15183.82.47"
           }
         }
-      },
-      "pushRecoveries": {
-        "86": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13421.53.5_kalista-cfm_recovery_stable-channel_kalista-mp-v2.bin.zip",
-        "88": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.67.5_kalista-cfm_recovery_stable-channel_kalista-mp-v2.bin.zip",
-        "90": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13816.63.21_kalista-cfm_recovery_stable-channel_kalista-mp-v2.bin.zip",
-        "92": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13982.70.16_kalista-cfm_recovery_stable-channel_kalista-mp-v2.bin.zip"
       }
     },
     "rikku-cfm": {
-      "79": {
-        "chromeVersion": "79.0.3945.86",
+      "84": {
+        "chromeVersion": "84.0.4147.142",
         "comparedToMostCommon": 0,
-        "version": "12607.58.0"
+        "version": "13099.72.33"
       },
+      "86": {
+        "chromeVersion": "86.0.4240.87",
+        "comparedToMostCommon": 0,
+        "version": "13421.53.5"
+      },
+      "88": {
+        "chromeVersion": "88.0.4324.171",
+        "comparedToMostCommon": 0,
+        "version": "13597.67.13"
+      },
+      "90": {
+        "chromeVersion": "90.0.4430.106",
+        "comparedToMostCommon": 0,
+        "version": "13816.63.21"
+      },
+      "aueDate": "2021-05",
       "brandNames": [
         "Acer Chromebox CXI2 / CXV2"
       ],
       "isAue": true,
+      "isExperimental": false,
       "pushRecoveries": {
         "86": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13421.53.5_rikku-cfm_recovery_stable-channel_rikku-mp-v2.bin.zip",
         "88": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.67.5_rikku-cfm_recovery_stable-channel_rikku-mp-v2.bin.zip",
@@ -409,16 +421,17 @@
       },
       "servingStable": {
         "chromeVersion": "90.0.4430.106",
-        "comparedToMostCommon": 3,
+        "comparedToMostCommon": 0,
         "version": "13816.63.21"
       }
     }
   },
-  "creationDate": "2022-05-04",
-  "creationTime": "17:01 PT",
+  "creationDate": "2023-11-23",
+  "creationTime": "13:18 PT",
   "enterprisePins": [
-    79,
-    78,
-    77
+    90,
+    88,
+    86,
+    84
   ]
 }
