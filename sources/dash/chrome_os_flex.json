@@ -1,37 +1,88 @@
 {
   "builds": {
     "reven": {
-      "brandNames": [],
+      "117": {
+        "chromeVersion": "117.0.5938.157",
+        "comparedToMostCommon": 0,
+        "version": "15572.63.0"
+      },
+      "118": {
+        "chromeVersion": "118.0.5993.124",
+        "comparedToMostCommon": 0,
+        "version": "15604.57.0"
+      },
+      "119": {
+        "chromeVersion": "119.0.6045.214",
+        "comparedToMostCommon": 0,
+        "version": "15633.72.0"
+      },
+      "120": {
+        "chromeVersion": "120.0.6099.272",
+        "comparedToMostCommon": 0,
+        "version": "15662.88.0"
+      },
+      "aueDate": "-",
+      "brandNameToFormattedDeviceMap": {
+        "ChromeOS Flex": {
+          "kernel": "5.15.147"
+        }
+      },
+      "brandNames": [
+        "ChromeOS Flex"
+      ],
+      "fsiMilestoneNumber": "-",
       "isAue": false,
+      "isExperimental": false,
       "pushRecoveries": {
-        "103": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14816.99.0_reven_recovery_stable-channel_mp-v2.bin.zip",
-        "104": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14909.132.0_reven_recovery_stable-channel_mp-v2.bin.zip",
-        "105": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14989.86.0_reven_recovery_stable-channel_mp-v2.bin.zip",
-        "106": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15054.115.0_reven_recovery_stable-channel_mp-v2.bin.zip"
+        "111": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15329.61.0_reven_recovery_stable-channel_mp-v2.bin.zip",
+        "112": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15359.58.0_reven_recovery_stable-channel_mp-v2.bin.zip",
+        "113": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15393.58.0_reven_recovery_stable-channel_mp-v2.bin.zip",
+        "114": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15437.63.0_reven_recovery_stable-channel_mp-v2.bin.zip",
+        "115": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15474.84.0_reven_recovery_stable-channel_mp-v2.bin.zip",
+        "116": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15509.81.0_reven_recovery_stable-channel_mp-v2.bin.zip",
+        "117": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15572.63.0_reven_recovery_stable-channel_mp-v2.bin.zip",
+        "118": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15604.57.0_reven_recovery_stable-channel_mp-v2.bin.zip",
+        "119": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15633.72.0_reven_recovery_stable-channel_mp-v2.bin.zip",
+        "120": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15662.88.0_reven_recovery_stable-channel_mp-v3.bin.zip"
       },
       "servingBeta": {
-        "chromeVersion": "108.0.5359.24",
+        "chromeVersion": "121.0.6167.155",
         "comparedToMostCommon": 0,
-        "version": "15183.28.0"
+        "version": "15699.54.0"
       },
       "servingCanary": {
-        "chromeVersion": "109.0.5399.0",
+        "chromeVersion": "116.0.5802.0",
         "comparedToMostCommon": 0,
-        "version": "15232.0.0"
+        "version": "15483.0.0"
       },
       "servingDev": {
-        "chromeVersion": "109.0.5391.0",
+        "chromeVersion": "122.0.6261.13",
         "comparedToMostCommon": 0,
-        "version": "15229.0.0"
+        "version": "15753.10.0"
+      },
+      "servingLtc": {
+        "chromeVersion": "120.0.6099.272",
+        "comparedToMostCommon": 0,
+        "version": "15662.88.0"
+      },
+      "servingLtr": {
+        "chromeVersion": "114.0.5735.350",
+        "comparedToMostCommon": 0,
+        "version": "15437.90.0"
       },
       "servingStable": {
-        "chromeVersion": "107.0.5304.92",
+        "chromeVersion": "120.0.6099.272",
         "comparedToMostCommon": 0,
-        "version": "15117.87.0"
+        "version": "15662.88.0"
       }
     }
   },
-  "creationDate": "2022-11-10",
-  "creationTime": "05:12 PT",
-  "enterprisePins": []
+  "creationDate": "2024-02-05",
+  "creationTime": "19:55 PT",
+  "enterprisePins": [
+    120,
+    119,
+    118,
+    117
+  ]
 }
