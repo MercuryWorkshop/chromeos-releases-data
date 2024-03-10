@@ -1,16 +1,6 @@
 {
   "builds": {
     "reven": {
-      "116": {
-        "chromeVersion": "116.0.5845.210",
-        "comparedToMostCommon": 0,
-        "version": "15509.81.0"
-      },
-      "117": {
-        "chromeVersion": "117.0.5938.157",
-        "comparedToMostCommon": 0,
-        "version": "15572.63.0"
-      },
       "118": {
         "chromeVersion": "118.0.5993.124",
         "comparedToMostCommon": 0,
@@ -21,10 +11,20 @@
         "comparedToMostCommon": 0,
         "version": "15633.72.0"
       },
+      "120": {
+        "chromeVersion": "120.0.6099.275",
+        "comparedToMostCommon": 0,
+        "version": "15662.93.0"
+      },
+      "121": {
+        "chromeVersion": "121.0.6167.212",
+        "comparedToMostCommon": 0,
+        "version": "15699.72.0"
+      },
       "aueDate": "-",
       "brandNameToFormattedDeviceMap": {
         "ChromeOS Flex": {
-          "kernel": "5.15.146"
+          "kernel": "5.15.150"
         }
       },
       "brandNames": [
@@ -34,8 +34,6 @@
       "isAue": false,
       "isExperimental": false,
       "pushRecoveries": {
-        "110": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15278.64.0_reven_recovery_stable-channel_mp-v2.bin.zip",
-        "111": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15329.61.0_reven_recovery_stable-channel_mp-v2.bin.zip",
         "112": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15359.58.0_reven_recovery_stable-channel_mp-v2.bin.zip",
         "113": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15393.58.0_reven_recovery_stable-channel_mp-v2.bin.zip",
         "114": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15437.63.0_reven_recovery_stable-channel_mp-v2.bin.zip",
@@ -43,12 +41,14 @@
         "116": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15509.81.0_reven_recovery_stable-channel_mp-v2.bin.zip",
         "117": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15572.63.0_reven_recovery_stable-channel_mp-v2.bin.zip",
         "118": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15604.57.0_reven_recovery_stable-channel_mp-v2.bin.zip",
-        "119": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15633.72.0_reven_recovery_stable-channel_mp-v2.bin.zip"
+        "119": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15633.72.0_reven_recovery_stable-channel_mp-v2.bin.zip",
+        "120": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15662.93.0_reven_recovery_stable-channel_mp-v3.bin.zip",
+        "121": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15699.72.0_reven_recovery_stable-channel_mp-v3.bin.zip"
       },
       "servingBeta": {
-        "chromeVersion": "121.0.6167.49",
+        "chromeVersion": "123.0.6312.32",
         "comparedToMostCommon": 0,
-        "version": "15699.29.0"
+        "version": "15786.18.0"
       },
       "servingCanary": {
         "chromeVersion": "116.0.5802.0",
@@ -56,28 +56,33 @@
         "version": "15483.0.0"
       },
       "servingDev": {
-        "chromeVersion": "121.0.6167.40",
+        "chromeVersion": "124.0.6340.0",
         "comparedToMostCommon": 0,
-        "version": "15699.25.0"
+        "version": "15810.0.0"
+      },
+      "servingLtc": {
+        "chromeVersion": "120.0.6099.301",
+        "comparedToMostCommon": 0,
+        "version": "15662.96.0"
       },
       "servingLtr": {
-        "chromeVersion": "114.0.5735.346",
+        "chromeVersion": "114.0.5735.355",
         "comparedToMostCommon": 0,
-        "version": "15437.84.0"
+        "version": "15437.95.0"
       },
       "servingStable": {
-        "chromeVersion": "120.0.6099.203",
+        "chromeVersion": "122.0.6261.100",
         "comparedToMostCommon": 0,
-        "version": "15662.64.0"
+        "version": "15753.38.0"
       }
     }
   },
-  "creationDate": "2024-01-10",
-  "creationTime": "15:55 PT",
+  "creationDate": "2024-03-10",
+  "creationTime": "08:55 PT",
   "enterprisePins": [
+    121,
+    120,
     119,
-    118,
-    117,
-    116
+    118
   ]
 }
