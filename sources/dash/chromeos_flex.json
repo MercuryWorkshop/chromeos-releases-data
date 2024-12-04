@@ -1,16 +1,6 @@
 {
   "builds": {
     "reven": {
-      "125": {
-        "chromeVersion": "125.0.6422.197",
-        "comparedToMostCommon": 0,
-        "version": "15853.67.0"
-      },
-      "126": {
-        "chromeVersion": "126.0.6478.222",
-        "comparedToMostCommon": 0,
-        "version": "15886.74.0"
-      },
       "127": {
         "chromeVersion": "127.0.6533.138",
         "comparedToMostCommon": 0,
@@ -21,9 +11,19 @@
         "comparedToMostCommon": 0,
         "version": "15964.59.0"
       },
+      "129": {
+        "chromeVersion": "129.0.6668.112",
+        "comparedToMostCommon": 0,
+        "version": "16002.60.0"
+      },
+      "130": {
+        "chromeVersion": "130.0.6723.126",
+        "comparedToMostCommon": 0,
+        "version": "16033.58.0"
+      },
       "brandNameToFormattedDeviceMap": {
         "ChromeOS Flex": {
-          "kernel": "6.6.52"
+          "kernel": "6.6.63"
         }
       },
       "brandNames": [
@@ -33,8 +33,6 @@
       "isAue": false,
       "isExperimental": false,
       "pushRecoveries": {
-        "119": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15633.72.0_reven_recovery_stable-channel_mp-v2.bin.zip",
-        "120": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15662.93.0_reven_recovery_stable-channel_mp-v3.bin.zip",
         "121": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15699.72.0_reven_recovery_stable-channel_mp-v3.bin.zip",
         "122": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15753.55.0_reven_recovery_stable-channel_mp-v3.bin.zip",
         "123": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15786.60.0_reven_recovery_stable-channel_mp-v3.bin.zip",
@@ -42,12 +40,14 @@
         "125": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15853.67.0_reven_recovery_stable-channel_mp-v6.bin.zip",
         "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.74.0_reven_recovery_stable-channel_mp-v6.bin.zip",
         "127": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15917.78.0_reven_recovery_stable-channel_mp-v6.bin.zip",
-        "128": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15964.59.0_reven_recovery_stable-channel_mp-v6.bin.zip"
+        "128": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15964.59.0_reven_recovery_stable-channel_mp-v6.bin.zip",
+        "129": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16002.60.0_reven_recovery_stable-channel_mp-v6.bin.zip",
+        "130": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16033.58.0_reven_recovery_stable-channel_mp-v6.bin.zip"
       },
       "servingBeta": {
-        "chromeVersion": "129.0.6668.74",
+        "chromeVersion": "131.0.6778.96",
         "comparedToMostCommon": 0,
-        "version": "16002.38.0"
+        "version": "16063.45.0"
       },
       "servingCanary": {
         "chromeVersion": "116.0.5802.0",
@@ -55,33 +55,33 @@
         "version": "15483.0.0"
       },
       "servingDev": {
-        "chromeVersion": "130.0.6723.19",
+        "chromeVersion": "132.0.6834.21",
         "comparedToMostCommon": 0,
-        "version": "16033.11.0"
+        "version": "16093.17.0"
       },
       "servingLtc": {
-        "chromeVersion": "126.0.6478.253",
+        "chromeVersion": "126.0.6478.258",
         "comparedToMostCommon": 0,
-        "version": "15886.78.0"
+        "version": "15886.83.0"
       },
       "servingLtr": {
-        "chromeVersion": "120.0.6099.321",
+        "chromeVersion": "126.0.6478.258",
         "comparedToMostCommon": 0,
-        "version": "15662.115.4"
+        "version": "15886.83.0"
       },
       "servingStable": {
-        "chromeVersion": "128.0.6613.163",
+        "chromeVersion": "130.0.6723.126",
         "comparedToMostCommon": 0,
-        "version": "15964.59.0"
+        "version": "16033.58.0"
       }
     }
   },
-  "creationDate": "2024-09-28",
-  "creationTime": "09:52 PT",
+  "creationDate": "2024-12-03",
+  "creationTime": "21:12 PT",
   "enterprisePins": [
+    130,
+    129,
     128,
-    127,
-    126,
-    125
+    127
   ]
 }
