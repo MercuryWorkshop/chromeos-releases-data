@@ -107,9 +107,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_asurada_recovery_stable-channel_AsuradaMPKeys-v7.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -185,9 +185,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_asurada_recovery_stable-channel_AsuradaMPKeys-v7.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -267,9 +267,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_atlas_recovery_stable-channel_AtlasMPKeys-v7.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -623,9 +623,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brask_recovery_stable-channel_BraskMPKeys-v22.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -696,8 +696,8 @@
           },
           "brandNames": [
             "AOPEN Chromebox OPS / AOPEN Chromebox Enterprise OPS",
-            "Bujia Development Product",
-            "Satsuki Chromebox OPS / Satsuki Chromebox Enterprise OPS"
+            "Satsuki Chromebox OPS / Satsuki Chromebox Enterprise OPS",
+            "Bujia Development Product"
           ],
           "fsiMilestoneNumber": "M130",
           "isAue": false,
@@ -708,9 +708,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brask_recovery_stable-channel_BraskMPKeys-v22.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -786,9 +786,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brask_recovery_stable-channel_BraskMPKeys-v22.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -864,9 +864,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brask_recovery_stable-channel_BraskMPKeys-v22.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -930,8 +930,8 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebox 5a, ASUS Chromebox Enterprise 5a",
-            "ASUS Chromebox 5 (CN67), ASUS Chromebox Enterprise 5 (CN67)"
+            "ASUS Chromebox 5 (CN67), ASUS Chromebox Enterprise 5 (CN67)",
+            "ASUS Chromebox 5a, ASUS Chromebox Enterprise 5a"
           ],
           "fsiMilestoneNumber": "M111",
           "isAue": false,
@@ -949,9 +949,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brask_recovery_stable-channel_BraskMPKeys-v22.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -1021,9 +1021,9 @@
             }
           },
           "brandNames": [
+            "CTL Chromebox CBx3 / CTL Chromebox Enterprise CBx3",
             "Lisbon Development Product",
-            "Centerm Chromebox D661 / Centerm Chromebox Enterprise D661",
-            "CTL Chromebox CBx3 / CTL Chromebox Enterprise CBx3"
+            "Centerm Chromebox D661 / Centerm Chromebox Enterprise D661"
           ],
           "fsiMilestoneNumber": "M114",
           "isAue": false,
@@ -1041,9 +1041,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brask_recovery_stable-channel_BraskMPKeys-v22.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -1119,9 +1119,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brask_recovery_stable-channel_BraskMPKeys-v22.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -1187,9 +1187,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brox_recovery_stable-channel_BroxMPKeys-v5.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -1252,9 +1252,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brox_recovery_stable-channel_BroxMPKeys-v5.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -1317,9 +1317,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brox_recovery_stable-channel_BroxMPKeys-v5.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -1399,9 +1399,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -1477,9 +1477,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -1555,9 +1555,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -1633,9 +1633,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -1711,9 +1711,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -1789,9 +1789,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -1874,9 +1874,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -1959,9 +1959,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -2044,9 +2044,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -2110,8 +2110,8 @@
             }
           },
           "brandNames": [
-            "Asus Chromebook Vibe CX34 Flip (CX3401) / Asus Chromebook Vibe CX34 Flip (CX3401FBA)",
-            "ASUS Chromebook CX34 Flip (CX3401) / ASUS Chromebook CX34 Flip (CX3401FBA) / ASUS Chromebook Enterprise CB34 Flip (CB3401) /  ASUS Chromebook Enterprise CX34 Flip (CX3401)"
+            "ASUS Chromebook CX34 Flip (CX3401) / ASUS Chromebook CX34 Flip (CX3401FBA) / ASUS Chromebook Enterprise CB34 Flip (CB3401) /  ASUS Chromebook Enterprise CX34 Flip (CX3401)",
+            "Asus Chromebook Vibe CX34 Flip (CX3401) / Asus Chromebook Vibe CX34 Flip (CX3401FBA)"
           ],
           "fsiMilestoneNumber": "M106",
           "isAue": false,
@@ -2129,9 +2129,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -2207,9 +2207,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -2285,9 +2285,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -2370,9 +2370,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -2448,9 +2448,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -2526,9 +2526,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -2604,10 +2604,10 @@
             }
           },
           "brandNames": [
-            "Lenovo Flex 5i Chromebook 14\"/IdeaPad Flex 5i Chromebook (14\", 7)",
             "Lenovo Flex 5i Chromebook (14\", 7)",
-            "Lenovo 5i Chromebook 16\"/IdeaPad 5i Chromebook (16\", 7)",
-            "IdeaPad Flex 5i Chromebook Plus (14\", 7)"
+            "Lenovo Flex 5i Chromebook 14\"/IdeaPad Flex 5i Chromebook (14\", 7)",
+            "IdeaPad Flex 5i Chromebook Plus (14\", 7)",
+            "Lenovo 5i Chromebook 16\"/IdeaPad 5i Chromebook (16\", 7)"
           ],
           "fsiMilestoneNumber": "M100",
           "isAue": false,
@@ -2625,9 +2625,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -2703,9 +2703,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -2781,9 +2781,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -2859,9 +2859,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -2934,9 +2934,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -3012,9 +3012,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_brya_recovery_stable-channel_mp-v20.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -3472,9 +3472,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_cherry_recovery_stable-channel_CherryMPKeys-v7.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -3550,9 +3550,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_cherry_recovery_stable-channel_CherryMPKeys-v7.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -3658,9 +3658,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_coral_recovery_stable-channel_mp-v23.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -3699,8 +3699,8 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebook CX1100CNA",
-            "ASUS Chromebook C223"
+            "ASUS Chromebook C223",
+            "ASUS Chromebook CX1100CNA"
           ],
           "fsiMilestoneNumber": "M67",
           "isAue": false,
@@ -3717,9 +3717,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_coral_recovery_stable-channel_mp-v23.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -3776,9 +3776,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_coral_recovery_stable-channel_mp-v23.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -3836,9 +3836,9 @@
           },
           "brandNames": [
             "Edxis Chromebook 11",
-            "CTL chromebook NL7",
-            "Positivo Chromebook N2110",
             "Lanix Chromebook C116",
+            "Positivo Chromebook N2110",
+            "CTL chromebook NL7",
             "Multilaser Chromebook M11C-PC912"
           ],
           "fsiMilestoneNumber": "M66",
@@ -3856,9 +3856,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_coral_recovery_stable-channel_mp-v23.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -3921,12 +3921,12 @@
             }
           },
           "brandNames": [
-            "Edxis Chromebook X11",
             "CTL Chromebook NL7 / NL7T-360 / NL7TW-360",
+            "Viglen Chromebook 360C",
+            "Edxis Chromebook X11",
             "Positivo Chromebook N2112",
             "Lanix Chromebook C116",
-            "Multilaser Chromebook M11HC-PC911",
-            "Viglen Chromebook 360C"
+            "Multilaser Chromebook M11HC-PC911"
           ],
           "fsiMilestoneNumber": "M67",
           "isAue": false,
@@ -3943,9 +3943,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_coral_recovery_stable-channel_mp-v23.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -3995,9 +3995,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_coral_recovery_stable-channel_mp-v23.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -4047,9 +4047,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_coral_recovery_stable-channel_mp-v23.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -4099,9 +4099,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_coral_recovery_stable-channel_mp-v23.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -4151,9 +4151,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_coral_recovery_stable-channel_mp-v23.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -4203,9 +4203,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_coral_recovery_stable-channel_mp-v23.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -4255,9 +4255,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_coral_recovery_stable-channel_mp-v23.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -4307,9 +4307,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_coral_recovery_stable-channel_mp-v23.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -4354,8 +4354,8 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebook C423",
             "ASUS Chromebook C403",
+            "ASUS Chromebook C423",
             "ASUS Chromebook CX1400CNA"
           ],
           "fsiMilestoneNumber": "M68",
@@ -4373,9 +4373,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_coral_recovery_stable-channel_mp-v23.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -4425,9 +4425,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_coral_recovery_stable-channel_mp-v23.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -4477,9 +4477,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_coral_recovery_stable-channel_mp-v23.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -4529,9 +4529,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_coral_recovery_stable-channel_mp-v23.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -4588,9 +4588,9 @@
             }
           },
           "brandNames": [
+            "Prowise Chromebook Eduline",
             "CTL Chromebook J41 / J41T",
             "Sector 5 E3 Chromebook",
-            "Prowise Chromebook Eduline",
             "PCmerge Chromebook AL116",
             "Viglen Chromebook 11C"
           ],
@@ -4609,9 +4609,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_coral_recovery_stable-channel_mp-v23.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -4686,9 +4686,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_corsola_recovery_stable-channel_CorsolaMPKeys-v21.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -4764,9 +4764,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_corsola_recovery_stable-channel_CorsolaMPKeys-v21.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -4835,9 +4835,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_corsola_recovery_stable-channel_CorsolaMPKeys-v21.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -4906,9 +4906,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_corsola_recovery_stable-channel_CorsolaMPKeys-v21.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -4984,9 +4984,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_corsola_recovery_stable-channel_CorsolaMPKeys-v21.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -5062,9 +5062,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_corsola_recovery_stable-channel_CorsolaMPKeys-v21.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -5132,9 +5132,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_corsola_recovery_stable-channel_CorsolaMPKeys-v21.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -5206,9 +5206,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_corsola_recovery_stable-channel_CorsolaMPKeys-v21.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -5266,9 +5266,9 @@
             "131": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16063.68.0_corsola_recovery_stable-channel_CorsolaMPKeys-v16.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -5344,9 +5344,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_corsola_recovery_stable-channel_CorsolaMPKeys-v21.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -5422,9 +5422,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_corsola_recovery_stable-channel_CorsolaMPKeys-v21.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -5493,9 +5493,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_corsola_recovery_stable-channel_CorsolaMPKeys-v21.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -5571,9 +5571,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_corsola_recovery_stable-channel_CorsolaMPKeys-v21.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -5830,9 +5830,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -5895,9 +5895,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -5967,9 +5967,9 @@
             }
           },
           "brandNames": [
-            "Allied Chromebook 11 N5100EO-864180 /  Allied Chromebook 11 N4500EO-432180 /  Allied Chromebook 11 N5100EO-432180",
             "DINATECH Gen1 Chromebook  SG20JL1C",
-            "Multilaser Chromebook M11C-PC919"
+            "Multilaser Chromebook M11C-PC919",
+            "Allied Chromebook 11 N5100EO-864180 /  Allied Chromebook 11 N4500EO-432180 /  Allied Chromebook 11 N5100EO-432180"
           ],
           "fsiMilestoneNumber": "M105",
           "isAue": false,
@@ -5987,9 +5987,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -6065,9 +6065,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -6143,9 +6143,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -6228,9 +6228,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -6313,9 +6313,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -6391,9 +6391,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -6469,9 +6469,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -6547,9 +6547,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -6625,9 +6625,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -6703,9 +6703,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -6788,9 +6788,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -6873,9 +6873,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -6951,9 +6951,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -7029,9 +7029,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -7107,9 +7107,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -7185,9 +7185,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -7263,9 +7263,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -7341,9 +7341,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -7419,9 +7419,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -7497,9 +7497,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -7575,9 +7575,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -7653,9 +7653,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -7756,13 +7756,13 @@
           },
           "brandNames": [
             "Multilaser Chromebook M11HC-PC916 (clamshell) / Multilaser Chromebook M11HC-PC917 (convertible)",
-            "Centerm Chromebook M610",
-            "CTL Chromebook NL72",
-            "Edxis Chromebook 11 (S30-C) / Edxis Chromebook 11 (S30-CT)",
             "Poin2 Chromebook 11B",
+            "Centerm Chromebook M610",
+            "ADVAN Chromebook 116J",
+            "CTL Chromebook NL72",
             "Zyrex Chromebook M432-64/Zyrex Chromebook M432-11",
             "Positivo Chromebook N2310",
-            "ADVAN Chromebook 116J"
+            "Edxis Chromebook 11 (S30-C) / Edxis Chromebook 11 (S30-CT)"
           ],
           "fsiMilestoneNumber": "M93",
           "isAue": false,
@@ -7780,9 +7780,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -7858,10 +7858,10 @@
             }
           },
           "brandNames": [
-            "Positivo Chromebook N2312",
-            "LG Chromebook 11TC50Q/11TQ50Q",
             "Poin2 Chromebook 11E",
-            "CTL Chromebook NL72T"
+            "LG Chromebook 11TC50Q/11TQ50Q",
+            "CTL Chromebook NL72T",
+            "Positivo Chromebook N2312"
           ],
           "fsiMilestoneNumber": "M94",
           "isAue": false,
@@ -7879,9 +7879,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -7957,9 +7957,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -8035,9 +8035,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -8113,9 +8113,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -8191,9 +8191,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -8269,9 +8269,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -8347,9 +8347,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -8425,9 +8425,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -8503,9 +8503,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -8581,9 +8581,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -8653,8 +8653,8 @@
             }
           },
           "brandNames": [
-            "Packard Bell Chromebook 314",
             "Acer Chromebook 314 (CB314-3H , CB314-3HT, C934, C934T)",
+            "Packard Bell Chromebook 314",
             "Packard Bell Chromebook 314(PCB314-2 , PCB314-2T)"
           ],
           "fsiMilestoneNumber": "M99",
@@ -8673,9 +8673,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -8751,9 +8751,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -8829,9 +8829,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -8907,9 +8907,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -8995,9 +8995,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -9080,9 +9080,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -9176,13 +9176,13 @@
             }
           },
           "brandNames": [
-            "Gateway Chromebook 311",
-            "Edxis E-Lite Chromebook 11",
-            "Multilaser Chromebook M11C-PC924",
-            "CA11J2 45Wh",
-            "Acer Chromebook 311(CO731)",
             "CA11J2",
-            "CTL Chromebook PX11EG"
+            "Acer Chromebook 311(CO731)",
+            "CA11J2 45Wh",
+            "Multilaser Chromebook M11C-PC924",
+            "Edxis E-Lite Chromebook 11",
+            "CTL Chromebook PX11EG",
+            "Gateway Chromebook 311"
           ],
           "fsiMilestoneNumber": "M119",
           "isAue": false,
@@ -9200,9 +9200,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -9278,10 +9278,10 @@
             }
           },
           "brandNames": [
-            "Zyrex Chromebook M432-2",
             "CTL Chromebook PX11E",
+            "Axioo Chromebook P11/Axioo Chromebook P432",
             "SPC Chromebook Z1 Mini",
-            "Axioo Chromebook P11/Axioo Chromebook P432"
+            "Zyrex Chromebook M432-2"
           ],
           "fsiMilestoneNumber": "M92",
           "isAue": false,
@@ -9299,9 +9299,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -9386,8 +9386,8 @@
             "Edxis E-Lite Chromebook 14",
             "CTL Chromebook Enterprise/PX14E/PX14EX/PX14EXT",
             "Axioo Chromebook P14",
-            "Gateway Chromebook 14",
-            "Arai Nimbus S1 Chromebook Enterprise / Arai Nimbus S2 Chromebook Enterprise"
+            "Arai Nimbus S1 Chromebook Enterprise / Arai Nimbus S2 Chromebook Enterprise",
+            "Gateway Chromebook 14"
           ],
           "fsiMilestoneNumber": "M98",
           "isAue": false,
@@ -9405,9 +9405,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -9483,9 +9483,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -9561,9 +9561,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -9639,9 +9639,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -9717,9 +9717,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -9795,9 +9795,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_dedede_recovery_stable-channel_DededeMPKeys-v54.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -9877,9 +9877,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_drallion_recovery_stable-channel_DrallionMPKeys-v7.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -9955,9 +9955,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_drallion_recovery_stable-channel_DrallionMPKeys-v7.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -10087,9 +10087,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_elm_recovery_stable-channel_mp-v6.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "135.0.7044.0",
@@ -10196,19 +10196,19 @@
         }
       },
       "brandNames": [
-        "RGS Education Chromebook",
-        "True IDC Chromebook",
+        "Crambo Chromebook",
+        "Education Chromebook",
+        "eduGear Chromebook R",
         "Lenovo N21 Chromebook",
+        "M&A Chromebook",
+        "JP Sa Couto Chromebook",
+        "Videonet Chromebook",
         "ASI Chromebook",
         "Edxis Education Chromebook (NL6)",
-        "M&A Chromebook",
-        "Videonet Chromebook",
-        "Education Chromebook",
-        "Crambo Chromebook",
-        "Senkatel C1101 Chromebook",
-        "eduGear Chromebook R",
         "CTL N6 Education Chromebook",
-        "JP Sa Couto Chromebook"
+        "True IDC Chromebook",
+        "RGS Education Chromebook",
+        "Senkatel C1101 Chromebook"
       ],
       "fsiMilestoneNumber": "M35",
       "isAue": true,
@@ -10279,9 +10279,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_eve_recovery_stable-channel_mp-v5.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -10334,9 +10334,9 @@
         }
       },
       "brandNames": [
-        "Consumer Chromebook",
         "Bobicus Chromebook 11",
         "Edxis Chromebook",
+        "Consumer Chromebook",
         "HEXA Chromebook Pi"
       ],
       "fsiMilestoneNumber": "M36",
@@ -10483,9 +10483,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_fizz_recovery_stable-channel_FizzMPKeys-v18.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -10561,9 +10561,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_fizz_recovery_stable-channel_FizzMPKeys-v18.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -10639,9 +10639,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_fizz_recovery_stable-channel_FizzMPKeys-v18.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -10711,9 +10711,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_fizz_recovery_stable-channel_FizzMPKeys-v18.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -10796,10 +10796,10 @@
           },
           "brandNames": [
             "Promethean Chromebox",
-            "ViewSonic NMP660 Chromebox",
             "CTL Chromebox CBx1",
+            "SMART Chromebox G3",
             "OWG",
-            "SMART Chromebox G3"
+            "ViewSonic NMP660 Chromebox"
           ],
           "fsiMilestoneNumber": "M65",
           "isAue": false,
@@ -10817,9 +10817,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_fizz_recovery_stable-channel_FizzMPKeys-v18.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -10977,9 +10977,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_geralt_recovery_stable-channel_GeraltMPKeys-v5.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "136.0.7052.0",
@@ -11072,8 +11072,8 @@
         }
       },
       "brandNames": [
-        "Acer Chromebook 11 (CB3-131, C735)",
-        "Acer Chromebook 11 (CB3-111, C730, C730E)"
+        "Acer Chromebook 11 (CB3-111, C730, C730E)",
+        "Acer Chromebook 11 (CB3-131, C735)"
       ],
       "fsiMilestoneNumber": "M36",
       "isAue": true,
@@ -11165,9 +11165,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_grunt_recovery_stable-channel_GruntMPKeys-v11.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -11231,8 +11231,8 @@
             }
           },
           "brandNames": [
-            "HP Chromebook 11A G6 EE / HP Chromebook 11A G8 EE",
-            "HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE"
+            "HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE",
+            "HP Chromebook 11A G6 EE / HP Chromebook 11A G8 EE"
           ],
           "fsiMilestoneNumber": "M71",
           "isAue": false,
@@ -11250,9 +11250,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_grunt_recovery_stable-channel_GruntMPKeys-v11.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -11328,9 +11328,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_grunt_recovery_stable-channel_GruntMPKeys-v11.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -11406,9 +11406,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_grunt_recovery_stable-channel_GruntMPKeys-v11.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -11484,9 +11484,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_grunt_recovery_stable-channel_GruntMPKeys-v11.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -11562,9 +11562,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_grunt_recovery_stable-channel_GruntMPKeys-v11.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -11647,9 +11647,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_grunt_recovery_stable-channel_GruntMPKeys-v11.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -11713,8 +11713,8 @@
             }
           },
           "brandNames": [
-            "Lenovo 300e Gen 2 AST",
-            "NEC Chromebook Y1 Gen2A"
+            "NEC Chromebook Y1 Gen2A",
+            "Lenovo 300e Gen 2 AST"
           ],
           "fsiMilestoneNumber": "M80",
           "isAue": false,
@@ -11732,9 +11732,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_grunt_recovery_stable-channel_GruntMPKeys-v11.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -11859,9 +11859,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_guybrush_recovery_stable-channel_GuybrushMPKeys-v9.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -11937,9 +11937,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_guybrush_recovery_stable-channel_GuybrushMPKeys-v9.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -12019,9 +12019,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_hana_recovery_stable-channel_HanaMPKeys-v13.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -12091,9 +12091,9 @@
             }
           },
           "brandNames": [
+            "Lenovo 300e/N23 Yoga/Flex 11 Chromebook",
             "Poin2 Chromebook 11C",
-            "Prowise Chromebook Eduline / Prowise Chromebook Eduline 360",
-            "Lenovo 300e/N23 Yoga/Flex 11 Chromebook"
+            "Prowise Chromebook Eduline / Prowise Chromebook Eduline 360"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -12111,9 +12111,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_hana_recovery_stable-channel_HanaMPKeys-v13.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -12189,9 +12189,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_hana_recovery_stable-channel_HanaMPKeys-v13.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -12267,9 +12267,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_hana_recovery_stable-channel_HanaMPKeys-v13.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -12345,9 +12345,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_hana_recovery_stable-channel_HanaMPKeys-v13.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -12423,9 +12423,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_hana_recovery_stable-channel_HanaMPKeys-v13.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -12501,9 +12501,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_hana_recovery_stable-channel_HanaMPKeys-v13.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -12583,9 +12583,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_hatch_recovery_stable-channel_HatchMPKeys-v11.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -12661,9 +12661,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_hatch_recovery_stable-channel_HatchMPKeys-v11.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -12739,9 +12739,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_hatch_recovery_stable-channel_HatchMPKeys-v11.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -12817,9 +12817,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_hatch_recovery_stable-channel_HatchMPKeys-v11.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -12895,9 +12895,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_hatch_recovery_stable-channel_HatchMPKeys-v11.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -12973,9 +12973,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_hatch_recovery_stable-channel_HatchMPKeys-v11.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -13051,9 +13051,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_hatch_recovery_stable-channel_HatchMPKeys-v11.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -13129,9 +13129,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_hatch_recovery_stable-channel_HatchMPKeys-v11.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -13207,9 +13207,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_hatch_recovery_stable-channel_HatchMPKeys-v11.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -13341,9 +13341,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_jacuzzi_recovery_stable-channel_JacuzziMPKeys-v18.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -13419,9 +13419,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_jacuzzi_recovery_stable-channel_JacuzziMPKeys-v18.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -13497,9 +13497,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_jacuzzi_recovery_stable-channel_JacuzziMPKeys-v18.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -13575,9 +13575,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_jacuzzi_recovery_stable-channel_JacuzziMPKeys-v18.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -13653,9 +13653,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_jacuzzi_recovery_stable-channel_JacuzziMPKeys-v18.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -13731,9 +13731,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_jacuzzi_recovery_stable-channel_JacuzziMPKeys-v18.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -13809,9 +13809,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_jacuzzi_recovery_stable-channel_JacuzziMPKeys-v18.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -13894,9 +13894,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_jacuzzi_recovery_stable-channel_JacuzziMPKeys-v18.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -13972,9 +13972,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_jacuzzi_recovery_stable-channel_JacuzziMPKeys-v18.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -14050,9 +14050,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_jacuzzi_recovery_stable-channel_JacuzziMPKeys-v18.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -14128,9 +14128,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_jacuzzi_recovery_stable-channel_JacuzziMPKeys-v18.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -14206,9 +14206,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_jacuzzi_recovery_stable-channel_JacuzziMPKeys-v18.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -14288,9 +14288,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_kalista_recovery_stable-channel_KalistaMPKeys-v7.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -14336,8 +14336,8 @@
         }
       },
       "brandNames": [
-        "Dell Chromebook 11 2-in-1 (3189)",
-        "Dell Chromebook 11 (3180)"
+        "Dell Chromebook 11 (3180)",
+        "Dell Chromebook 11 2-in-1 (3189)"
       ],
       "fsiMilestoneNumber": "M55",
       "isAue": true,
@@ -14561,9 +14561,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_kukui_recovery_stable-channel_KukuiMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -14639,9 +14639,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_kukui_recovery_stable-channel_KukuiMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -14717,9 +14717,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_kukui_recovery_stable-channel_KukuiMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -14795,9 +14795,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_kukui_recovery_stable-channel_KukuiMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -15199,8 +15199,8 @@
         }
       },
       "brandNames": [
-        "LG Chromebase (22CV241)",
-        "LG Chromebase (22CB25S)"
+        "LG Chromebase (22CB25S)",
+        "LG Chromebase (22CV241)"
       ],
       "fsiMilestoneNumber": "M34",
       "isAue": true,
@@ -15287,9 +15287,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nami_recovery_stable-channel_NamiMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -15365,9 +15365,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nami_recovery_stable-channel_NamiMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -15443,9 +15443,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nami_recovery_stable-channel_NamiMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -15521,9 +15521,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nami_recovery_stable-channel_NamiMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -15587,8 +15587,8 @@
             }
           },
           "brandNames": [
-            "Lenovo Yoga C630 Chromebook",
-            "Lenovo C340-15 Chromebook"
+            "Lenovo C340-15 Chromebook",
+            "Lenovo Yoga C630 Chromebook"
           ],
           "fsiMilestoneNumber": "M68",
           "isAue": false,
@@ -15606,9 +15606,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nami_recovery_stable-channel_NamiMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -15684,9 +15684,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nami_recovery_stable-channel_NamiMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -15762,9 +15762,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nami_recovery_stable-channel_NamiMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -15840,9 +15840,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nami_recovery_stable-channel_NamiMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -15901,9 +15901,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_nautilus_recovery_stable-channel_mp-v5.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -15953,9 +15953,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_nautilus_recovery_stable-channel_mp-v5.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -16081,9 +16081,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -16159,9 +16159,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -16237,9 +16237,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -16315,9 +16315,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -16393,9 +16393,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -16471,9 +16471,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -16549,9 +16549,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -16621,8 +16621,8 @@
             }
           },
           "brandNames": [
-            "Acer Chromebook 314(C936 /C936T /C936-TCO /C936T-TCO)",
             "Acer Chromebook 314(CB314-4H / CB314-4HT)",
+            "Acer Chromebook 314(C936 /C936T /C936-TCO /C936T-TCO)",
             "Acer Chromebook Plus 514(CB514-4H / CB514-4HT)"
           ],
           "fsiMilestoneNumber": "M114",
@@ -16641,9 +16641,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -16718,9 +16718,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -16788,9 +16788,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -16858,9 +16858,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -16928,9 +16928,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -17006,9 +17006,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -17096,9 +17096,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -17174,10 +17174,10 @@
             }
           },
           "brandNames": [
+            "Multi Chromebook M11HC-PC925",
             "aiwa Chromebook S11",
             "Centerm Chromebook M612B",
-            "Gothrax",
-            "Multi Chromebook M11HC-PC925"
+            "Gothrax"
           ],
           "fsiMilestoneNumber": "M120",
           "isAue": false,
@@ -17191,9 +17191,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -17216,9 +17216,9 @@
             "version": "16093.96.0"
           },
           "servingStable": {
-            "chromeVersion": "134.0.6998.183",
-            "comparedToMostCommon": 2,
-            "version": "16181.54.0"
+            "chromeVersion": "134.0.6998.198",
+            "comparedToMostCommon": 0,
+            "version": "16181.61.0"
           }
         },
         "gothraxcs": {
@@ -17263,8 +17263,8 @@
             }
           },
           "brandNames": [
-            "Centerm Chromebook M612A",
             "GothraxCS",
+            "Centerm Chromebook M612A",
             "Multi Chromebook M11C-PC926"
           ],
           "fsiMilestoneNumber": "M123",
@@ -17279,9 +17279,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -17358,9 +17358,9 @@
           },
           "brandNames": [
             "Hideo CBX Development Project",
+            "Centerm Chromebook M621 / Centerm Chromebook Enterprise M621",
             "Centerm Chromebook Plus M621 / Centerm Chromebook Plus Enterprise M621",
-            "Hideo non-CBX Development Project",
-            "Centerm Chromebook M621 / Centerm Chromebook Enterprise M621"
+            "Hideo non-CBX Development Project"
           ],
           "fsiMilestoneNumber": "M124",
           "isAue": false,
@@ -17376,9 +17376,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -17454,10 +17454,10 @@
             }
           },
           "brandNames": [
+            "HP Chromebook Plus x360 14b-cc0",
             "HP Chromebook x360 14b-cd0",
             "HP Chromebook x360 14b-cc0",
-            "HP Chromebook Plus x360 14b-cd0",
-            "HP Chromebook Plus x360 14b-cc0"
+            "HP Chromebook Plus x360 14b-cd0"
           ],
           "fsiMilestoneNumber": "M120",
           "isAue": false,
@@ -17475,9 +17475,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -17541,8 +17541,8 @@
             }
           },
           "brandNames": [
-            "Lenovo 500e Yoga Chromebook Gen 4",
-            "Lenovo Flex 3i Chromebook 12\"/IdeaPad Flex 3i Chromebook (12\", 8)"
+            "Lenovo Flex 3i Chromebook 12\"/IdeaPad Flex 3i Chromebook (12\", 8)",
+            "Lenovo 500e Yoga Chromebook Gen 4"
           ],
           "fsiMilestoneNumber": "M110",
           "isAue": false,
@@ -17560,9 +17560,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -17638,9 +17638,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -17711,9 +17711,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -17771,9 +17771,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -17839,10 +17839,10 @@
             }
           },
           "brandNames": [
+            "IdeaPad Slim 3i Chromebook Plus (14\\\" Intel)",
             "Lenovo 14e Chromebook Gen 3/Lenovo Slim 3i Chromebook 14\\\"",
             "Lenovo 14e Chromebook Gen 3",
-            "Lenovo 14e Chromebook Gen 3 CB 5",
-            "IdeaPad Slim 3i Chromebook Plus (14\\\" Intel)"
+            "Lenovo 14e Chromebook Gen 3 CB 5"
           ],
           "fsiMilestoneNumber": "M110",
           "isAue": false,
@@ -17860,9 +17860,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -17932,9 +17932,9 @@
             }
           },
           "brandNames": [
+            "Edxis Chromebook 11 (S30-C25)",
             "LI7A",
-            "CTL Chromebook NL73",
-            "Edxis Chromebook 11 (S30-C25)"
+            "CTL Chromebook NL73"
           ],
           "fsiMilestoneNumber": "M121",
           "isAue": false,
@@ -17952,9 +17952,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -18030,10 +18030,10 @@
             }
           },
           "brandNames": [
-            "CTL Chromebook NL73T/CTL Chromebook NL73TW",
-            "Edxis Chromebook 11 (S30-X25)",
             "LI7B",
-            "mouse Chromebook U1-DAU01GY-A"
+            "Edxis Chromebook 11 (S30-X25)",
+            "mouse Chromebook U1-DAU01GY-A",
+            "CTL Chromebook NL73T/CTL Chromebook NL73TW"
           ],
           "fsiMilestoneNumber": "M121",
           "isAue": false,
@@ -18051,9 +18051,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -18121,9 +18121,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -18192,9 +18192,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -18262,9 +18262,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -18332,9 +18332,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -18403,9 +18403,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -18474,9 +18474,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -18530,8 +18530,8 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebook CX14 (CX1405CTA) / ASUS Chromebook Enterprise CX14 (CX1405CTA) / ASUS Chromebook CB14 (CB1405CTA)",
-            "ASUS Chromebook Plus CX14 (CX1405CTA) / ASUS Chromebook Plus Enterprise CX14 (CX1405CTA) / ASUS Chromebook Plus CB14 (CB1405CTA)"
+            "ASUS Chromebook Plus CX14 (CX1405CTA) / ASUS Chromebook Plus Enterprise CX14 (CX1405CTA) / ASUS Chromebook Plus CB14 (CB1405CTA)",
+            "ASUS Chromebook CX14 (CX1405CTA) / ASUS Chromebook Enterprise CX14 (CX1405CTA) / ASUS Chromebook CB14 (CB1405CTA)"
           ],
           "fsiMilestoneNumber": "M133",
           "isAue": false,
@@ -18540,9 +18540,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -18608,9 +18608,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -18686,9 +18686,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -18764,9 +18764,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -18842,9 +18842,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -18927,9 +18927,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -19005,9 +19005,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -19077,9 +19077,9 @@
             }
           },
           "brandNames": [
+            "HP Chromebook Plus 15",
             "HP Chromebook 15.6\"",
-            "HP Chromebook 15.6\" 15w",
-            "HP Chromebook Plus 15"
+            "HP Chromebook 15.6\" 15w"
           ],
           "fsiMilestoneNumber": "M111",
           "isAue": false,
@@ -19097,9 +19097,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -19175,9 +19175,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -19253,9 +19253,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nissa_recovery_stable-channel_NissaMPKeys-v40.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -19335,9 +19335,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_nocturne_recovery_stable-channel_NocturneMPKeys-v6.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -19557,9 +19557,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -19635,9 +19635,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -19713,9 +19713,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -19791,9 +19791,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -19869,9 +19869,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -19935,8 +19935,8 @@
             }
           },
           "brandNames": [
-            "Chromebook x360 14a-ca0",
-            "Chromebook x360 14b-ca0"
+            "Chromebook x360 14b-ca0",
+            "Chromebook x360 14a-ca0"
           ],
           "fsiMilestoneNumber": "M77",
           "isAue": false,
@@ -19954,9 +19954,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -20032,9 +20032,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -20110,9 +20110,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -20195,9 +20195,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -20261,8 +20261,8 @@
             }
           },
           "brandNames": [
-            "Acer Chromebook Spin 311 (CP311-2H, CP311-2HN)",
-            "Acer Chromebook Spin 511 (R752T, R752TN)"
+            "Acer Chromebook Spin 511 (R752T, R752TN)",
+            "Acer Chromebook Spin 311 (CP311-2H, CP311-2HN)"
           ],
           "fsiMilestoneNumber": "M72",
           "isAue": false,
@@ -20280,9 +20280,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -20358,9 +20358,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -20436,9 +20436,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -20514,9 +20514,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -20586,9 +20586,9 @@
             }
           },
           "brandNames": [
-            "Acer Chromebook 314 (CB314)",
+            "Packard Bell Chromebook 314 (PCB314)",
             "Acer Chromebook 314 (C933L/LT)",
-            "Packard Bell Chromebook 314 (PCB314)"
+            "Acer Chromebook 314 (CB314)"
           ],
           "fsiMilestoneNumber": "M76",
           "isAue": false,
@@ -20606,9 +20606,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -20691,9 +20691,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -20776,9 +20776,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -20842,8 +20842,8 @@
             }
           },
           "brandNames": [
-            "Poin2 Chromebook 11P",
-            "CTL Chromebook VX11T"
+            "CTL Chromebook VX11T",
+            "Poin2 Chromebook 11P"
           ],
           "fsiMilestoneNumber": "M83",
           "isAue": false,
@@ -20861,9 +20861,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -20939,9 +20939,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -21089,22 +21089,22 @@
             }
           },
           "brandNames": [
-            "ADVAN Chromebook 116",
-            "SPC Chromebook X1 Mini",
-            "EVERCOSS Chromebook CB1/CB1A",
-            "XO Chromebook",
-            "Sector 5 E4 LTE Chromebook",
-            "Multilaser Chromebook M11C-PC914",
+            "Pixart Rxart Chromebook",
             "Zyrex Chromebook M432-1/M432-128/Zyrex Chromebook 360-1",
-            "JOI Chromebook C100",
             "Axioo Chromebook",
+            "Multilaser Chromebook M11C-PC914",
+            "XO Chromebook",
             "Poin2 Chromebook 11A",
+            "Edxis Chromebook 11 (S20-C)",
+            "JOI Chromebook C100",
+            "Positivo Chromebook N2210",
+            "ADVAN Chromebook 116",
+            "Sector 5 E4 LTE Chromebook",
+            "Baicells Chromebook BB01",
+            "EVERCOSS Chromebook CB1/CB1A",
             "CTL Chromebook NL71/CT/LTE",
             "WS Chromebook A101",
-            "Baicells Chromebook BB01",
-            "Positivo Chromebook N2210",
-            "Pixart Rxart Chromebook",
-            "Edxis Chromebook 11 (S20-C)"
+            "SPC Chromebook X1 Mini"
           ],
           "fsiMilestoneNumber": "M83",
           "isAue": false,
@@ -21122,9 +21122,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -21266,21 +21266,21 @@
             }
           },
           "brandNames": [
-            "Pixart Rxart Chromebook",
-            "Positivo Chromebook N2212",
-            "Ascon Chromebook 11A",
-            "Zyrex Chromebook 360",
-            "Baicells Chromebook BB01",
-            "EVERCOSS Chromebook CB1A",
-            "WS Chromebook A101",
-            "SPC Chromebook X1 Mini",
             "CTL Chromebook NL71T/TW/TWB",
+            "EVERCOSS Chromebook CB1A",
+            "SPC Chromebook X1 Mini",
             "Poin2 Chromebook 11A",
-            "Multilaser Chromebook M11HC-PC915",
-            "Axioo Chromebook 360",
+            "Ascon Chromebook 11A",
+            "Positivo Chromebook N2212",
+            "Zyrex Chromebook 360",
+            "Pixart Rxart Chromebook",
+            "JOI Chromebook C100",
             "Edxis Chromebook 11 (S20-X)",
-            "ADVAN Chromebook 116",
-            "JOI Chromebook C100"
+            "Axioo Chromebook 360",
+            "Multilaser Chromebook M11HC-PC915",
+            "Baicells Chromebook BB01",
+            "WS Chromebook A101",
+            "ADVAN Chromebook 116"
           ],
           "fsiMilestoneNumber": "M83",
           "isAue": false,
@@ -21298,9 +21298,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -21364,8 +21364,8 @@
             }
           },
           "brandNames": [
-            "Lenovo Chromebook S340-14 and Lenovo Chromebook S340-14 Touch",
-            "IdeaPad 3 CB 14IGL05"
+            "IdeaPad 3 CB 14IGL05",
+            "Lenovo Chromebook S340-14 and Lenovo Chromebook S340-14 Touch"
           ],
           "fsiMilestoneNumber": "M74",
           "isAue": false,
@@ -21383,9 +21383,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -21461,9 +21461,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -21539,9 +21539,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -21617,9 +21617,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -21695,9 +21695,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -21773,9 +21773,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -21851,9 +21851,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -21935,11 +21935,11 @@
             }
           },
           "brandNames": [
-            "IdeaPad Flex 3 CB 11IGL05",
-            "NEC Chromebook Y1 Gen 2",
-            "NEC Chromebook Y1",
             "Lenovo 300e/500e Chromebook 2nd Gen",
-            "Lenovo Chromebook C340-11/300e/500e Chromebook 2nd Gen"
+            "IdeaPad Flex 3 CB 11IGL05",
+            "NEC Chromebook Y1",
+            "Lenovo Chromebook C340-11/300e/500e Chromebook 2nd Gen",
+            "NEC Chromebook Y1 Gen 2"
           ],
           "fsiMilestoneNumber": "M72",
           "isAue": false,
@@ -21957,9 +21957,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -22035,9 +22035,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -22113,9 +22113,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -22191,9 +22191,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -22269,9 +22269,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_octopus_recovery_stable-channel_OctopusMPKeys-v36.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -22638,9 +22638,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_puff_recovery_stable-channel_PuffMPKeys-v16.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -22716,9 +22716,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_puff_recovery_stable-channel_PuffMPKeys-v16.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -22794,9 +22794,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_puff_recovery_stable-channel_PuffMPKeys-v16.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -22871,9 +22871,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_puff_recovery_stable-channel_PuffMPKeys-v16.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -22948,9 +22948,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_puff_recovery_stable-channel_PuffMPKeys-v16.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -23027,9 +23027,9 @@
           },
           "brandNames": [
             "Promethean Chromebox 2",
-            "Wyvern MobLab",
+            "CTL Chromebox CBx2/Enterprise CBx2",
             "ViewSonic NMP760 Chromebox",
-            "CTL Chromebox CBx2/Enterprise CBx2"
+            "Wyvern MobLab"
           ],
           "fsiMilestoneNumber": "M86",
           "isAue": false,
@@ -23047,9 +23047,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_puff_recovery_stable-channel_PuffMPKeys-v16.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -23108,9 +23108,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_pyro_recovery_stable-channel_mp-v4.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -23232,9 +23232,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_rammus_recovery_stable-channel_RammusMPKeys-v7.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -23317,9 +23317,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_rammus_recovery_stable-channel_RammusMPKeys-v7.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -23378,9 +23378,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_reef_recovery_stable-channel_mp-v6.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -23430,9 +23430,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_reef_recovery_stable-channel_mp-v6.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -23486,8 +23486,8 @@
       },
       "brandNames": [
         "Lenovo N23 Chromebook",
-        "Lenovo N42 Chromebook",
         "Lenovo N22 Chromebook",
+        "Lenovo N42 Chromebook",
         "Lenovo N23 Chromebook (Touch)"
       ],
       "fsiMilestoneNumber": "M48",
@@ -23588,13 +23588,13 @@
       },
       "brandNames": [
         "Edxis Education Chromebook (NL6D)",
-        "Positivo Chromebook C216B",
         "EduGear Chromebook R",
         "Acer Chromebook 11 N7 (C731, C731T)",
-        "HP Chromebook 11 G5 EE",
+        "CTL NL61 Chromebook",
+        "Positivo Chromebook C216B",
         "Mecer V2 Chromebook",
         "N/A",
-        "CTL NL61 Chromebook"
+        "HP Chromebook 11 G5 EE"
       ],
       "fsiMilestoneNumber": "M52",
       "isAue": true,
@@ -23683,9 +23683,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_rex_recovery_stable-channel_RexMPKeys-v5.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -23754,9 +23754,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_rex_recovery_stable-channel_RexMPKeys-v5.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -23912,9 +23912,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_sand_recovery_stable-channel_mp-v4.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -23989,9 +23989,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_sarien_recovery_stable-channel_SarienMPKeys-v8.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -24067,9 +24067,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_sarien_recovery_stable-channel_SarienMPKeys-v8.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -24175,8 +24175,8 @@
             }
           },
           "brandNames": [
-            "CTL Chromebook Tablet Tx1 for Education",
-            "AOpen Chromebook Commercial Tab"
+            "AOpen Chromebook Commercial Tab",
+            "CTL Chromebook Tablet Tx1 for Education"
           ],
           "fsiMilestoneNumber": "M72",
           "isAue": true,
@@ -24439,8 +24439,8 @@
             }
           },
           "brandNames": [
-            "SPC Chromebook V1",
-            "Crystaldrift Development Product"
+            "Crystaldrift Development Product",
+            "SPC Chromebook V1"
           ],
           "fsiMilestoneNumber": "M117",
           "isAue": false,
@@ -24450,9 +24450,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_skyrim_recovery_stable-channel_SkyrimMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -24535,9 +24535,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_skyrim_recovery_stable-channel_SkyrimMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -24613,9 +24613,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_skyrim_recovery_stable-channel_SkyrimMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -24691,9 +24691,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_skyrim_recovery_stable-channel_SkyrimMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -24912,9 +24912,9 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_soraka_recovery_stable-channel_mp-v4.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -25024,8 +25024,8 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebook CM30",
-            "ASUS Chromebook CM3001"
+            "ASUS Chromebook CM3001",
+            "ASUS Chromebook CM30"
           ],
           "fsiMilestoneNumber": "M118",
           "isAue": false,
@@ -25043,9 +25043,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_staryu_recovery_stable-channel_StaryuMPKeys-v7.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -25116,9 +25116,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_staryu_recovery_stable-channel_StaryuMPKeys-v7.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -25245,9 +25245,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_strongbad_recovery_stable-channel_StrongbadMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -25323,9 +25323,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_strongbad_recovery_stable-channel_StrongbadMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -25401,9 +25401,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_strongbad_recovery_stable-channel_StrongbadMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -25479,9 +25479,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_strongbad_recovery_stable-channel_StrongbadMPKeys-v10.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -25866,9 +25866,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_trogdor_recovery_stable-channel_TrogdorMPKeys-v16.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -25944,9 +25944,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_trogdor_recovery_stable-channel_TrogdorMPKeys-v16.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -26022,9 +26022,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_trogdor_recovery_stable-channel_TrogdorMPKeys-v16.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -26107,9 +26107,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_trogdor_recovery_stable-channel_TrogdorMPKeys-v16.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -26185,9 +26185,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_trogdor_recovery_stable-channel_TrogdorMPKeys-v16.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -26263,9 +26263,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_trogdor_recovery_stable-channel_TrogdorMPKeys-v16.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -26438,9 +26438,9 @@
       },
       "brandNames": [
         "Medion Chromebook Akoya S2013",
-        "True IDC Chromebook 11",
+        "Haier Chromebook 11",
         "Lava Xolo Chromebook",
-        "Haier Chromebook 11"
+        "True IDC Chromebook 11"
       ],
       "fsiMilestoneNumber": "M41",
       "isAue": true,
@@ -26535,15 +26535,15 @@
         }
       },
       "brandNames": [
-        "CTL J2 / J4 Chromebook",
-        "Epik 11.6\" Chromebook  ELB1101",
-        "NComputing Chromebook CX100",
-        "VideoNet Chromebook BL10",
-        "EduGear Chromebook K",
-        "Positivo Chromebook CH1190",
         "Poin2 Chromebook 11",
         "Mecer Chromebook",
-        "HiSense Chromebook 11"
+        "Epik 11.6\" Chromebook  ELB1101",
+        "Positivo Chromebook CH1190",
+        "EduGear Chromebook K",
+        "CTL J2 / J4 Chromebook",
+        "HiSense Chromebook 11",
+        "VideoNet Chromebook BL10",
+        "NComputing Chromebook CX100"
       ],
       "fsiMilestoneNumber": "M41",
       "isAue": true,
@@ -26683,15 +26683,15 @@
         }
       },
       "brandNames": [
-        "EduGear Chromebook M",
-        "Lumos Education Chromebook",
-        "PCMerge Chromebook PCM-116E/PCM-116EB",
-        "Prowise Chromebook Entryline",
-        "Nexian Chromebook 11.6\"",
         "Sector 5 E1 Rugged Chromebook",
-        "Viglen Chromebook 11",
+        "Prowise Chromebook Entryline",
+        "PCMerge Chromebook PCM-116E/PCM-116EB",
+        "Lumos Education Chromebook",
+        "Nexian Chromebook 11.6\"",
         "Haier Chromebook 11e",
-        "MEDION Chromebook S2015"
+        "EduGear Chromebook M",
+        "MEDION Chromebook S2015",
+        "Viglen Chromebook 11"
       ],
       "fsiMilestoneNumber": "M41",
       "isAue": true,
@@ -26928,9 +26928,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_volteer_recovery_stable-channel_VolteerMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -27006,9 +27006,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_volteer_recovery_stable-channel_VolteerMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -27084,9 +27084,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_volteer_recovery_stable-channel_VolteerMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -27169,9 +27169,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_volteer_recovery_stable-channel_VolteerMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -27247,9 +27247,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_volteer_recovery_stable-channel_VolteerMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -27325,9 +27325,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_volteer_recovery_stable-channel_VolteerMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -27403,9 +27403,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_volteer_recovery_stable-channel_VolteerMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -27481,9 +27481,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_volteer_recovery_stable-channel_VolteerMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -27566,9 +27566,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_volteer_recovery_stable-channel_VolteerMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -27644,9 +27644,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_volteer_recovery_stable-channel_VolteerMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -27722,9 +27722,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_volteer_recovery_stable-channel_VolteerMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -27800,9 +27800,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_volteer_recovery_stable-channel_VolteerMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -27878,9 +27878,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_volteer_recovery_stable-channel_VolteerMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -28008,12 +28008,12 @@
       },
       "brandNames": [
         "Multilaser Chromebook M11C",
-        "PCMerge Chromebook PCM-116T-432B",
+        "Haier Chromebook 11 C",
         "Edugear CMT Chromebook",
-        "Viglen Chromebook 360",
-        "Prowise Chromebook Proline",
+        "PCMerge Chromebook PCM-116T-432B",
         "CTL J5 Chromebook",
-        "Haier Chromebook 11 C"
+        "Prowise Chromebook Proline",
+        "Viglen Chromebook 360"
       ],
       "fsiMilestoneNumber": "M52",
       "isAue": true,
@@ -28323,9 +28323,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_zork_recovery_stable-channel_ZorkMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -28401,9 +28401,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_zork_recovery_stable-channel_ZorkMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -28479,9 +28479,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_zork_recovery_stable-channel_ZorkMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -28557,9 +28557,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_zork_recovery_stable-channel_ZorkMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -28635,9 +28635,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_zork_recovery_stable-channel_ZorkMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -28713,9 +28713,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_zork_recovery_stable-channel_ZorkMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -28791,9 +28791,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_zork_recovery_stable-channel_ZorkMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -28869,9 +28869,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_zork_recovery_stable-channel_ZorkMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -28954,9 +28954,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_zork_recovery_stable-channel_ZorkMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -29032,9 +29032,9 @@
             "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.54.0_zork_recovery_stable-channel_ZorkMPKeys-v12.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "135.0.7049.51",
+            "chromeVersion": "135.0.7049.90",
             "comparedToMostCommon": 0,
-            "version": "16209.34.0"
+            "version": "16209.44.0"
           },
           "servingCanary": {
             "chromeVersion": "137.0.7113.0",
@@ -29065,8 +29065,8 @@
       }
     }
   },
-  "creationDate": "2025-04-10",
-  "creationTime": "17:34 PT",
+  "creationDate": "2025-04-11",
+  "creationTime": "17:48 PT",
   "enterprisePins": [
     134,
     133,
