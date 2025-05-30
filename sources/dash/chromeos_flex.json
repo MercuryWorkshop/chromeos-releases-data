@@ -1,11 +1,6 @@
 {
   "builds": {
     "reven": {
-      "131": {
-        "chromeVersion": "131.0.6778.241",
-        "comparedToMostCommon": 0,
-        "version": "16063.68.0"
-      },
       "132": {
         "chromeVersion": "132.0.6834.208",
         "comparedToMostCommon": 0,
@@ -17,9 +12,14 @@
         "version": "16151.61.0"
       },
       "134": {
-        "chromeVersion": "134.0.6998.130",
+        "chromeVersion": "134.0.6998.198",
         "comparedToMostCommon": 0,
-        "version": "16181.47.0"
+        "version": "16181.61.0"
+      },
+      "136": {
+        "chromeVersion": "136.0.7103.142",
+        "comparedToMostCommon": 0,
+        "version": "16238.54.0"
       },
       "brandNameToFormattedDeviceMap": {
         "ChromeOS Flex": {
@@ -33,8 +33,6 @@
       "isAue": false,
       "isExperimental": false,
       "pushRecoveries": {
-        "125": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15853.67.0_reven_recovery_stable-channel_mp-v6.bin.zip",
-        "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.74.0_reven_recovery_stable-channel_mp-v6.bin.zip",
         "127": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15917.78.0_reven_recovery_stable-channel_mp-v6.bin.zip",
         "128": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15964.59.0_reven_recovery_stable-channel_mp-v6.bin.zip",
         "129": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16002.60.0_reven_recovery_stable-channel_mp-v6.bin.zip",
@@ -42,12 +40,14 @@
         "131": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16063.68.0_reven_recovery_stable-channel_mp-v6.bin.zip",
         "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.92.0_reven_recovery_stable-channel_mp-v7.bin.zip",
         "133": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16151.61.0_reven_recovery_stable-channel_mp-v7.bin.zip",
-        "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.47.0_reven_recovery_stable-channel_mp-v7.bin.zip"
+        "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.61.0_reven_recovery_stable-channel_mp-v7.bin.zip",
+        "135": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16209.67.0_reven_recovery_stable-channel_mp-v7.bin.zip",
+        "136": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16238.54.0_reven_recovery_stable-channel_mp-v7.bin.zip"
       },
       "servingBeta": {
-        "chromeVersion": "135.0.7049.34",
+        "chromeVersion": "137.0.7151.65",
         "comparedToMostCommon": 0,
-        "version": "16209.28.0"
+        "version": "16267.31.0"
       },
       "servingCanary": {
         "chromeVersion": "116.0.5802.0",
@@ -55,33 +55,33 @@
         "version": "15483.0.0"
       },
       "servingDev": {
-        "chromeVersion": "136.0.7088.0",
+        "chromeVersion": "138.0.7188.0",
         "comparedToMostCommon": 0,
-        "version": "16232.0.0"
+        "version": "16290.0.0"
       },
       "servingLtc": {
-        "chromeVersion": "132.0.6834.214",
+        "chromeVersion": "132.0.6834.224",
         "comparedToMostCommon": 0,
-        "version": "16093.96.0"
+        "version": "16093.106.0"
       },
       "servingLtr": {
-        "chromeVersion": "126.0.6478.266",
+        "chromeVersion": "132.0.6834.224",
         "comparedToMostCommon": 0,
-        "version": "15886.91.0"
+        "version": "16093.106.0"
       },
       "servingStable": {
-        "chromeVersion": "134.0.6998.183",
+        "chromeVersion": "136.0.7103.150",
         "comparedToMostCommon": 0,
-        "version": "16181.54.0"
+        "version": "16238.62.0"
       }
     }
   },
-  "creationDate": "2025-03-31",
-  "creationTime": "19:08 PT",
+  "creationDate": "2025-05-30",
+  "creationTime": "13:08 PT",
   "enterprisePins": [
+    136,
     134,
     133,
-    132,
-    131
+    132
   ]
 }
