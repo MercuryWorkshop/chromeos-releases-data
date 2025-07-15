@@ -17,13 +17,13 @@
         "version": "16181.61.0"
       },
       "136": {
-        "chromeVersion": "136.0.7103.142",
+        "chromeVersion": "136.0.7103.158",
         "comparedToMostCommon": 0,
-        "version": "16238.54.0"
+        "version": "16238.64.0"
       },
       "brandNameToFormattedDeviceMap": {
         "ChromeOS Flex": {
-          "kernel": "6.6.76"
+          "kernel": "6.6.88"
         }
       },
       "brandNames": [
@@ -42,12 +42,12 @@
         "133": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16151.61.0_reven_recovery_stable-channel_mp-v7.bin.zip",
         "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.61.0_reven_recovery_stable-channel_mp-v7.bin.zip",
         "135": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16209.67.0_reven_recovery_stable-channel_mp-v7.bin.zip",
-        "136": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16238.54.0_reven_recovery_stable-channel_mp-v7.bin.zip"
+        "136": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16238.64.0_reven_recovery_stable-channel_mp-v7.bin.zip"
       },
       "servingBeta": {
-        "chromeVersion": "137.0.7151.65",
+        "chromeVersion": "138.0.7204.148",
         "comparedToMostCommon": 0,
-        "version": "16267.31.0"
+        "version": "16295.44.0"
       },
       "servingCanary": {
         "chromeVersion": "116.0.5802.0",
@@ -55,29 +55,29 @@
         "version": "15483.0.0"
       },
       "servingDev": {
-        "chromeVersion": "138.0.7188.0",
+        "chromeVersion": "139.0.7258.33",
         "comparedToMostCommon": 0,
-        "version": "16290.0.0"
+        "version": "16328.18.0"
       },
       "servingLtc": {
-        "chromeVersion": "132.0.6834.224",
+        "chromeVersion": "132.0.6834.227",
         "comparedToMostCommon": 0,
-        "version": "16093.106.0"
+        "version": "16093.109.0"
       },
       "servingLtr": {
-        "chromeVersion": "132.0.6834.224",
+        "chromeVersion": "132.0.6834.227",
         "comparedToMostCommon": 0,
-        "version": "16093.106.0"
+        "version": "16093.109.0"
       },
       "servingStable": {
-        "chromeVersion": "136.0.7103.150",
+        "chromeVersion": "137.0.7151.137",
         "comparedToMostCommon": 0,
-        "version": "16238.62.0"
+        "version": "16267.66.0"
       }
     }
   },
-  "creationDate": "2025-05-30",
-  "creationTime": "13:08 PT",
+  "creationDate": "2025-07-14",
+  "creationTime": "17:32 PT",
   "enterprisePins": [
     136,
     134,
