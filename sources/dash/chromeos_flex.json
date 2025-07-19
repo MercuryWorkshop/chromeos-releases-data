@@ -1,11 +1,6 @@
 {
   "builds": {
     "reven": {
-      "132": {
-        "chromeVersion": "132.0.6834.208",
-        "comparedToMostCommon": 0,
-        "version": "16093.92.0"
-      },
       "133": {
         "chromeVersion": "133.0.6943.184",
         "comparedToMostCommon": 0,
@@ -21,6 +16,11 @@
         "comparedToMostCommon": 0,
         "version": "16238.64.0"
       },
+      "137": {
+        "chromeVersion": "137.0.7151.137",
+        "comparedToMostCommon": 0,
+        "version": "16267.66.0"
+      },
       "brandNameToFormattedDeviceMap": {
         "ChromeOS Flex": {
           "kernel": "6.6.88"
@@ -33,7 +33,6 @@
       "isAue": false,
       "isExperimental": false,
       "pushRecoveries": {
-        "127": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15917.78.0_reven_recovery_stable-channel_mp-v6.bin.zip",
         "128": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15964.59.0_reven_recovery_stable-channel_mp-v6.bin.zip",
         "129": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16002.60.0_reven_recovery_stable-channel_mp-v6.bin.zip",
         "130": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16033.58.0_reven_recovery_stable-channel_mp-v6.bin.zip",
@@ -42,7 +41,8 @@
         "133": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16151.61.0_reven_recovery_stable-channel_mp-v7.bin.zip",
         "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.61.0_reven_recovery_stable-channel_mp-v7.bin.zip",
         "135": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16209.67.0_reven_recovery_stable-channel_mp-v7.bin.zip",
-        "136": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16238.64.0_reven_recovery_stable-channel_mp-v7.bin.zip"
+        "136": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16238.64.0_reven_recovery_stable-channel_mp-v7.bin.zip",
+        "137": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16267.66.0_reven_recovery_stable-channel_mp-v7.bin.zip"
       },
       "servingBeta": {
         "chromeVersion": "138.0.7204.155",
@@ -55,9 +55,9 @@
         "version": "15483.0.0"
       },
       "servingDev": {
-        "chromeVersion": "139.0.7258.33",
+        "chromeVersion": "139.0.7258.43",
         "comparedToMostCommon": 0,
-        "version": "16328.18.0"
+        "version": "16328.25.0"
       },
       "servingLtc": {
         "chromeVersion": "132.0.6834.227",
@@ -76,12 +76,12 @@
       }
     }
   },
-  "creationDate": "2025-07-17",
+  "creationDate": "2025-07-18",
   "creationTime": "17:32 PT",
   "enterprisePins": [
+    137,
     136,
     134,
-    133,
-    132
+    133
   ]
 }
