@@ -10,4 +10,4 @@ https://cdn.jsdelivr.net/gh/MercuryWorkshop/chromeos-releases-data/data.json
 
 ## License
 
-This repository is licensed under the Creative Commons Attribution license. If you use this database for your own projects, you must give credit and link to this repository. 
+This repository is licensed under the Creative Commons Attribution license. If you use this database for your own projects, you must give credit and link to this repository. The attribution must be visible in the application's user interface.  
