@@ -77,7 +77,7 @@
           },
           "138": {
             "chromeVersion": "138.0.7204.163",
-            "comparedToMostCommon": 0,
+            "comparedToMostCommon": 2,
             "version": "16295.54.0"
           },
           "brandNameToFormattedDeviceMap": {
@@ -155,7 +155,7 @@
           },
           "138": {
             "chromeVersion": "138.0.7204.163",
-            "comparedToMostCommon": 0,
+            "comparedToMostCommon": 2,
             "version": "16295.54.0"
           },
           "brandNameToFormattedDeviceMap": {
@@ -236,9 +236,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Google Pixelbook Go": {
@@ -592,9 +592,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "AOpen Chromebox Commercial 3": {
@@ -670,9 +670,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "AOPEN Chromebox OPS / AOPEN Chromebox Enterprise OPS": {
@@ -707,11 +707,11 @@
             }
           },
           "brandNames": [
-            "Satsuki Chromebox OPS / Satsuki Chromebox Enterprise OPS",
-            "ViewSonic Bujia",
-            "IMAGO Chromebox OPS",
             "Bujia Development Product",
-            "AOPEN Chromebox OPS / AOPEN Chromebox Enterprise OPS"
+            "AOPEN Chromebox OPS / AOPEN Chromebox Enterprise OPS",
+            "Satsuki Chromebox OPS / Satsuki Chromebox Enterprise OPS",
+            "IMAGO Chromebox OPS",
+            "ViewSonic Bujia"
           ],
           "fsiMilestoneNumber": "M130",
           "isAue": false,
@@ -773,9 +773,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Chromebox Enterprise G4": {
@@ -850,6 +850,11 @@
             "comparedToMostCommon": 0,
             "version": "16267.66.0"
           },
+          "138": {
+            "chromeVersion": "138.0.7204.178",
+            "comparedToMostCommon": 0,
+            "version": "16295.65.0"
+          },
           "brandNameToFormattedDeviceMap": {
             "Lenovo ThinkCentre M60q Chromebox": {
               "architecture": "X86_64",
@@ -921,6 +926,11 @@
             "comparedToMostCommon": 0,
             "version": "16267.66.0"
           },
+          "138": {
+            "chromeVersion": "138.0.7204.178",
+            "comparedToMostCommon": 0,
+            "version": "16295.65.0"
+          },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebox 5 (CN67), ASUS Chromebox Enterprise 5 (CN67)": {
               "architecture": "X86_64",
@@ -936,8 +946,8 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebox 5a, ASUS Chromebox Enterprise 5a",
-            "ASUS Chromebox 5 (CN67), ASUS Chromebox Enterprise 5 (CN67)"
+            "ASUS Chromebox 5 (CN67), ASUS Chromebox Enterprise 5 (CN67)",
+            "ASUS Chromebox 5a, ASUS Chromebox Enterprise 5a"
           ],
           "fsiMilestoneNumber": "M111",
           "isAue": false,
@@ -1000,9 +1010,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CTL Chromebox CBx3 / CTL Chromebox Enterprise CBx3": {
@@ -1031,9 +1041,9 @@
             }
           },
           "brandNames": [
-            "Lisbon Development Product",
-            "Promethean Chromebox 3",
             "Centerm Chromebox D661 / Centerm Chromebox Enterprise D661",
+            "Promethean Chromebox 3",
+            "Lisbon Development Product",
             "CTL Chromebox CBx3 / CTL Chromebox Enterprise CBx3"
           ],
           "fsiMilestoneNumber": "M114",
@@ -1097,6 +1107,11 @@
             "chromeVersion": "137.0.7151.137",
             "comparedToMostCommon": 0,
             "version": "16267.66.0"
+          },
+          "138": {
+            "chromeVersion": "138.0.7204.178",
+            "comparedToMostCommon": 0,
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebox CXI5": {
@@ -1174,9 +1189,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Chromebook Plus 514(CB514-5H,CB514-5HT, CBE594-2,CBE594-2T,CBE594-2-TCO,CBE594-2T-TCO,CBE594-2L-TCO,CBE594-2LT-TCO),Chromebook Plus Enterprise 514(CBE594-2,CBE594-2T,CBE594-2-TCO,CBE594-2T-TCO,CBE594-2L-TCO,CBE594-2LT-TCO)": {
@@ -1247,9 +1262,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Plus 516 (CB516-1H,CB516-1HT)": {
@@ -1321,9 +1336,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo Chromebook Plus 2-in-1 (14\", 10)": {
@@ -1398,9 +1413,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Elite c640 14 inch G3 Chromebook": {
@@ -1476,9 +1491,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Framework Laptop Chromebook Edition": {
@@ -1554,9 +1569,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Dell Latitude 5430 Chromebook": {
@@ -1631,9 +1646,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Dell Latitude 5430 2-in-1 Chromebook": {
@@ -1709,9 +1724,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Plus Spin 514 (CP514-4HN, CPE594-1N, CPE594-1N)": {
@@ -1787,9 +1802,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook Flip CX5(CX5601), ASUS Chromebook Enterprise Flip CX5(CX5601)": {
@@ -1865,9 +1880,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Chromebook x360 14c-cd0": {
@@ -1884,8 +1899,8 @@
             }
           },
           "brandNames": [
-            "HP Chromebook Plus X360 14",
-            "Chromebook x360 14c-cd0"
+            "Chromebook x360 14c-cd0",
+            "HP Chromebook Plus X360 14"
           ],
           "fsiMilestoneNumber": "M102",
           "isAue": false,
@@ -1950,9 +1965,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 714  -- CP714-1WN / Acer Chromebook Enterprise Spin 714 -- CP714-1WN": {
@@ -2035,9 +2050,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook Plus CX34 CX3402CBA": {
@@ -2120,9 +2135,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook CX34 Flip (CX3401) / ASUS Chromebook CX34 Flip (CX3401FBA) / ASUS Chromebook Enterprise CB34 Flip (CB3401) /  ASUS Chromebook Enterprise CX34 Flip (CX3401)": {
@@ -2205,9 +2220,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Plus 515 (CB515-2H, CB515-2HT)": {
@@ -2283,9 +2298,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Plus Enterprise 515 (CBE595-2/CBE595-2T)": {
@@ -2361,9 +2376,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 516 GE (CBG516-1H)": {
@@ -2380,8 +2395,8 @@
             }
           },
           "brandNames": [
-            "Acer Chromebook 516 GE (CBG516-1H)",
-            "Acer Chromebook Plus 516 GE (CBG516-2H)"
+            "Acer Chromebook Plus 516 GE (CBG516-2H)",
+            "Acer Chromebook 516 GE (CBG516-1H)"
           ],
           "fsiMilestoneNumber": "M105",
           "isAue": false,
@@ -2446,9 +2461,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ThinkPad C14 Gen 1 Chromebook": {
@@ -2524,9 +2539,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Elite Dragonfly Chromebook": {
@@ -2602,9 +2617,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "IdeaPad Flex 5i Chromebook Plus (14\", 7)": {
@@ -2633,10 +2648,10 @@
             }
           },
           "brandNames": [
-            "Lenovo Flex 5i Chromebook 14\"/IdeaPad Flex 5i Chromebook (14\", 7)",
-            "Lenovo 5i Chromebook 16\"/IdeaPad 5i Chromebook (16\", 7)",
             "IdeaPad Flex 5i Chromebook Plus (14\", 7)",
-            "Lenovo Flex 5i Chromebook (14\", 7)"
+            "Lenovo 5i Chromebook 16\"/IdeaPad 5i Chromebook (16\", 7)",
+            "Lenovo Flex 5i Chromebook (14\", 7)",
+            "Lenovo Flex 5i Chromebook 14\"/IdeaPad Flex 5i Chromebook (14\", 7)"
           ],
           "fsiMilestoneNumber": "M100",
           "isAue": false,
@@ -2701,9 +2716,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "IdeaPad Gaming Chromebook 16": {
@@ -2779,9 +2794,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Dragonfly Pro Chromebook": {
@@ -2857,9 +2872,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Vero 514": {
@@ -2935,9 +2950,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Galaxy Chromebook Plus": {
@@ -3011,6 +3026,11 @@
             "chromeVersion": "137.0.7151.137",
             "comparedToMostCommon": 0,
             "version": "16267.66.0"
+          },
+          "138": {
+            "chromeVersion": "138.0.7204.178",
+            "comparedToMostCommon": 0,
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Vero 712 (CV872, CV872T)": {
@@ -3466,9 +3486,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Chromebook x360 13b-ca0": {
@@ -3544,9 +3564,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ACER Chromebook Spin 513 (CP513-2H), Acer Chromebook Enterprise Spin 513 (CP513-2H)": {
@@ -3724,8 +3744,8 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebook C223",
-            "ASUS Chromebook CX1100CNA"
+            "ASUS Chromebook CX1100CNA",
+            "ASUS Chromebook C223"
           ],
           "fsiMilestoneNumber": "M67",
           "isAue": false,
@@ -3860,11 +3880,11 @@
             }
           },
           "brandNames": [
+            "Lanix Chromebook C116",
             "CTL chromebook NL7",
-            "Edxis Chromebook 11",
-            "Positivo Chromebook N2110",
             "Multilaser Chromebook M11C-PC912",
-            "Lanix Chromebook C116"
+            "Edxis Chromebook 11",
+            "Positivo Chromebook N2110"
           ],
           "fsiMilestoneNumber": "M66",
           "isAue": false,
@@ -3946,12 +3966,12 @@
             }
           },
           "brandNames": [
-            "Viglen Chromebook 360C",
-            "Positivo Chromebook N2112",
             "Multilaser Chromebook M11HC-PC911",
+            "CTL Chromebook NL7 / NL7T-360 / NL7TW-360",
             "Lanix Chromebook C116",
             "Edxis Chromebook X11",
-            "CTL Chromebook NL7 / NL7T-360 / NL7TW-360"
+            "Positivo Chromebook N2112",
+            "Viglen Chromebook 360C"
           ],
           "fsiMilestoneNumber": "M67",
           "isAue": false,
@@ -4379,9 +4399,9 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebook CX1400CNA",
+            "ASUS Chromebook C423",
             "ASUS Chromebook C403",
-            "ASUS Chromebook C423"
+            "ASUS Chromebook CX1400CNA"
           ],
           "fsiMilestoneNumber": "M68",
           "isAue": false,
@@ -4614,8 +4634,8 @@
           },
           "brandNames": [
             "Prowise Chromebook Eduline",
-            "PCmerge Chromebook AL116",
             "Sector 5 E3 Chromebook",
+            "PCmerge Chromebook AL116",
             "CTL Chromebook J41 / J41T",
             "Viglen Chromebook 11C"
           ],
@@ -4680,9 +4700,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CZ1204CM2A CZ1104CM2A": {
@@ -4758,9 +4778,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CZ1104FM2A CZ1204FM2A": {
@@ -4836,9 +4856,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Fortis G1m 11 Chromebook / HP Fortis G1m 11 Chromebook Enterprise": {
@@ -4911,9 +4931,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "FMV Chromebook 11K/11KG": {
@@ -4986,9 +5006,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "IP Slim 3 Chrome 14M868": {
@@ -5064,9 +5084,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo 100e Chromebook Gen 4": {
@@ -5142,9 +5162,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook G1m 11 inch": {
@@ -5216,9 +5236,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 311 (R724T/ R724T-TCO)": {
@@ -5293,9 +5313,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo 300e Yoga Chromebook Gen 4": {
@@ -5368,9 +5388,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook CM14 (CM1402C)": {
@@ -5446,9 +5466,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook CM14 Flip (CM1402F)": {
@@ -5524,9 +5544,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Fortis Flip G1m 11 Chromebook / HP Fortis Flip G1m 11 Chromebook Enterprise": {
@@ -5599,9 +5619,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 311(C723,C723-TCO,C723T,C723T-TCO)": {
@@ -5871,9 +5891,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS CX1505CKA CB1505CKA": {
@@ -5945,9 +5965,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS CX1405CKA CB1405CKA": {
@@ -6018,6 +6038,11 @@
             "comparedToMostCommon": 0,
             "version": "16267.66.0"
           },
+          "138": {
+            "chromeVersion": "138.0.7204.178",
+            "comparedToMostCommon": 0,
+            "version": "16295.65.0"
+          },
           "brandNameToFormattedDeviceMap": {
             "Allied Chromebook 11 N5100EO-864180 /  Allied Chromebook 11 N4500EO-432180 /  Allied Chromebook 11 N5100EO-432180": {
               "architecture": "X86_64",
@@ -6052,10 +6077,10 @@
           },
           "brandNames": [
             "DINATECH Gen1 Chromebook  SG20JL1C",
-            "Allied Chromebook 11 N5100EO-864180 /  Allied Chromebook 11 N4500EO-432180 /  Allied Chromebook 11 N5100EO-432180",
             "Evolve III Chromebook 11 E1",
-            "Positivo Chromebook N2320",
-            "Multilaser Chromebook M11C-PC919"
+            "Allied Chromebook 11 N5100EO-864180 /  Allied Chromebook 11 N4500EO-432180 /  Allied Chromebook 11 N5100EO-432180",
+            "Multilaser Chromebook M11C-PC919",
+            "Positivo Chromebook N2320"
           ],
           "fsiMilestoneNumber": "M105",
           "isAue": false,
@@ -6118,9 +6143,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo Flex 3i Chromebook 15 IdeaPad Flex 3i Chromebook (15, 7)": {
@@ -6196,9 +6221,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo 3i-15 Chromebook": {
@@ -6274,9 +6299,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo 100e Chromebook Gen 3 (Intel)": {
@@ -6293,8 +6318,8 @@
             }
           },
           "brandNames": [
-            "Lenovo Chromebook (11\", 9) / Lenovo Chrome 11IJL9",
-            "Lenovo 100e Chromebook Gen 3 (Intel)"
+            "Lenovo 100e Chromebook Gen 3 (Intel)",
+            "Lenovo Chromebook (11\", 9) / Lenovo Chrome 11IJL9"
           ],
           "fsiMilestoneNumber": "M99",
           "isAue": false,
@@ -6359,9 +6384,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo 500e Chromebook Gen 3": {
@@ -6444,9 +6469,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Chromebox Micro": {
@@ -6522,9 +6547,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Galaxy Chromebook 2 360": {
@@ -6600,9 +6625,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Dell Chromebook 3110": {
@@ -6678,9 +6703,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Dell Chromebook 3110 2-in-1": {
@@ -6756,9 +6781,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "AOPEN Chromebox Mini 2 / AOPEN Chromebox Enterprise Mini 2 / AOPEN Chromebox Education Mini 2": {
@@ -6834,9 +6859,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "AOPEN Chromebox P1 / AOPEN Chromebox Enterprise P1": {
@@ -6853,8 +6878,8 @@
             }
           },
           "brandNames": [
-            "AOPEN Chromebox P1 / AOPEN Chromebox Enterprise P1",
-            "Acer Chromebox Mini CXM1 / Acer Chromebox Mini Enterprise  CXM1"
+            "Acer Chromebox Mini CXM1 / Acer Chromebox Mini Enterprise  CXM1",
+            "AOPEN Chromebox P1 / AOPEN Chromebox Enterprise P1"
           ],
           "fsiMilestoneNumber": "M124",
           "isAue": false,
@@ -6919,9 +6944,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook x360 11 G4 EE": {
@@ -6938,8 +6963,8 @@
             }
           },
           "brandNames": [
-            "HP Fortis x360 11 G3 J Chromebook / HP Fortis x360 11 G3 J Chromebook Enterprise",
-            "HP Chromebook x360 11 G4 EE"
+            "HP Chromebook x360 11 G4 EE",
+            "HP Fortis x360 11 G3 J Chromebook / HP Fortis x360 11 G3 J Chromebook Enterprise"
           ],
           "fsiMilestoneNumber": "M88",
           "isAue": false,
@@ -7004,9 +7029,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook 11 G9 EE": {
@@ -7082,9 +7107,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook 14 G7": {
@@ -7167,9 +7192,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Fortis 14 G10 Chromebook": {
@@ -7245,9 +7270,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook CX1500CKA": {
@@ -7323,9 +7348,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CX1500FKA": {
@@ -7401,9 +7426,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook CX1700CKA": {
@@ -7479,9 +7504,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook CX1 CX1102": {
@@ -7557,9 +7582,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook Flip CX1 CX1102": {
@@ -7635,9 +7660,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook CX1400CKA": {
@@ -7713,9 +7738,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CX1400FKA": {
@@ -7791,9 +7816,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ADVAN Chromebook 116J": {
@@ -7846,14 +7871,14 @@
             }
           },
           "brandNames": [
-            "ADVAN Chromebook 116J",
-            "Centerm Chromebook M610",
-            "Zyrex Chromebook M432-64/Zyrex Chromebook M432-11",
-            "CTL Chromebook NL72",
+            "Poin2 Chromebook 11B",
             "Edxis Chromebook 11 (S30-C) / Edxis Chromebook 11 (S30-CT)",
-            "Multilaser Chromebook M11HC-PC916 (clamshell) / Multilaser Chromebook M11HC-PC917 (convertible)",
             "Positivo Chromebook N2310",
-            "Poin2 Chromebook 11B"
+            "Zyrex Chromebook M432-64/Zyrex Chromebook M432-11",
+            "ADVAN Chromebook 116J",
+            "CTL Chromebook NL72",
+            "Multilaser Chromebook M11HC-PC916 (clamshell) / Multilaser Chromebook M11HC-PC917 (convertible)",
+            "Centerm Chromebook M610"
           ],
           "fsiMilestoneNumber": "M93",
           "isAue": false,
@@ -7918,9 +7943,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CTL Chromebook NL72T": {
@@ -7950,9 +7975,9 @@
           },
           "brandNames": [
             "CTL Chromebook NL72T",
-            "Positivo Chromebook N2312",
             "LG Chromebook 11TC50Q/11TQ50Q",
-            "Poin2 Chromebook 11E"
+            "Poin2 Chromebook 11E",
+            "Positivo Chromebook N2312"
           ],
           "fsiMilestoneNumber": "M94",
           "isAue": false,
@@ -8015,6 +8040,11 @@
             "chromeVersion": "137.0.7151.137",
             "comparedToMostCommon": 0,
             "version": "16267.66.0"
+          },
+          "138": {
+            "chromeVersion": "138.0.7204.178",
+            "comparedToMostCommon": 0,
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook x360 14a-ca1": {
@@ -8086,6 +8116,11 @@
             "chromeVersion": "137.0.7151.137",
             "comparedToMostCommon": 0,
             "version": "16267.66.0"
+          },
+          "138": {
+            "chromeVersion": "138.0.7204.178",
+            "comparedToMostCommon": 0,
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook15a-na0/HP Chromebook 15.6\"": {
@@ -8159,9 +8194,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook 14a-na1": {
@@ -8237,9 +8272,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Chromebook x360 14b-cb0": {
@@ -8315,9 +8350,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 314 (CP314-1H, CP314-1HN)": {
@@ -8393,9 +8428,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 512 (C852)": {
@@ -8471,9 +8506,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 512 (R853TA) & Acer Chromebook spin 512 (R853TNA)": {
@@ -8549,9 +8584,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 511 (C734 , C734T, C733-R, C733T-R)": {
@@ -8627,9 +8662,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 315 (CB315-4H , CB315-4HT)": {
@@ -8705,9 +8740,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 314 (CB314-3H , CB314-3HT, C934, C934T)": {
@@ -8730,8 +8765,8 @@
             }
           },
           "brandNames": [
-            "Packard Bell Chromebook 314",
             "Acer Chromebook 314 (CB314-3H , CB314-3HT, C934, C934T)",
+            "Packard Bell Chromebook 314",
             "Packard Bell Chromebook 314(PCB314-2 , PCB314-2T)"
           ],
           "fsiMilestoneNumber": "M99",
@@ -8797,9 +8832,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 511 (R753T) & Acer Chromebook spin 511 (R753TN) & Acer Chromebook Spin 511(R752T-R)": {
@@ -8875,9 +8910,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 317": {
@@ -8953,9 +8988,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "NEC Chromebook Y3": {
@@ -9031,9 +9066,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 314 / Acer Chromebook 314 CBOA314-1H": {
@@ -9056,9 +9091,9 @@
             }
           },
           "brandNames": [
-            "Gateway Chromebook 314",
             "CA14J2",
-            "Acer Chromebook 314 / Acer Chromebook 314 CBOA314-1H"
+            "Acer Chromebook 314 / Acer Chromebook 314 CBOA314-1H",
+            "Gateway Chromebook 314"
           ],
           "fsiMilestoneNumber": "M122",
           "isAue": false,
@@ -9123,9 +9158,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Edxis E-Lite Chromebook 15": {
@@ -9208,9 +9243,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 311(CO731)": {
@@ -9263,14 +9298,14 @@
             }
           },
           "brandNames": [
-            "Multilaser Chromebook M11C-PC924",
-            "Zyrex Chromebook M432-2P / Zyrex Chromebook M432-2PT",
-            "CTL Chromebook PX11EG",
-            "Gateway Chromebook 311",
-            "CA11J2",
-            "Acer Chromebook 311(CO731)",
             "CA11J2 45Wh",
-            "Edxis E-Lite Chromebook 11"
+            "CTL Chromebook PX11EG",
+            "CA11J2",
+            "Edxis E-Lite Chromebook 11",
+            "Gateway Chromebook 311",
+            "Multilaser Chromebook M11C-PC924",
+            "Acer Chromebook 311(CO731)",
+            "Zyrex Chromebook M432-2P / Zyrex Chromebook M432-2PT"
           ],
           "fsiMilestoneNumber": "M119",
           "isAue": false,
@@ -9335,9 +9370,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Allied Chromebook 11 N5100P": {
@@ -9372,11 +9407,11 @@
             }
           },
           "brandNames": [
-            "Allied Chromebook 11 N5100P",
-            "SPC Chromebook Z1 Mini",
             "CTL Chromebook PX11E",
-            "Zyrex Chromebook M432-2",
-            "Axioo Chromebook P11/Axioo Chromebook P432"
+            "SPC Chromebook Z1 Mini",
+            "Allied Chromebook 11 N5100P",
+            "Axioo Chromebook P11/Axioo Chromebook P432",
+            "Zyrex Chromebook M432-2"
           ],
           "fsiMilestoneNumber": "M92",
           "isAue": false,
@@ -9441,9 +9476,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Arai Nimbus S1 Chromebook Enterprise / Arai Nimbus S2 Chromebook Enterprise": {
@@ -9478,11 +9513,11 @@
             }
           },
           "brandNames": [
-            "Edxis E-Lite Chromebook 14",
-            "CTL Chromebook Enterprise/PX14E/PX14EX/PX14EXT",
-            "Arai Nimbus S1 Chromebook Enterprise / Arai Nimbus S2 Chromebook Enterprise",
             "Gateway Chromebook 14",
-            "Axioo Chromebook P14"
+            "CTL Chromebook Enterprise/PX14E/PX14EX/PX14EXT",
+            "Axioo Chromebook P14",
+            "Edxis E-Lite Chromebook 14",
+            "Arai Nimbus S1 Chromebook Enterprise / Arai Nimbus S2 Chromebook Enterprise"
           ],
           "fsiMilestoneNumber": "M98",
           "isAue": false,
@@ -9547,9 +9582,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Galaxy Chromebook Go": {
@@ -9625,9 +9660,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Galaxy Chromebook Go 11": {
@@ -9703,9 +9738,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook CR1100CKA": {
@@ -9781,9 +9816,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook Flip CR1100FKA": {
@@ -9859,9 +9894,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Fanless Chromebox CF40, ASUS Fanless Chromebox Enterprise CF40": {
@@ -9941,9 +9976,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Dell Latitude 7410 Chromebook Enterprise": {
@@ -10019,9 +10054,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Dell Latitude 7410 Chromebook Enterprise": {
@@ -10277,19 +10312,19 @@
         }
       },
       "brandNames": [
-        "JP Sa Couto Chromebook",
-        "M&A Chromebook",
-        "RGS Education Chromebook",
-        "eduGear Chromebook R",
+        "Education Chromebook",
         "Videonet Chromebook",
         "Edxis Education Chromebook (NL6)",
+        "M&A Chromebook",
+        "JP Sa Couto Chromebook",
+        "eduGear Chromebook R",
+        "RGS Education Chromebook",
         "CTL N6 Education Chromebook",
-        "True IDC Chromebook",
+        "ASI Chromebook",
         "Lenovo N21 Chromebook",
         "Crambo Chromebook",
-        "Education Chromebook",
-        "ASI Chromebook",
-        "Senkatel C1101 Chromebook"
+        "Senkatel C1101 Chromebook",
+        "True IDC Chromebook"
       ],
       "fsiMilestoneNumber": "M35",
       "isAue": true,
@@ -10415,10 +10450,10 @@
         }
       },
       "brandNames": [
-        "Consumer Chromebook",
+        "Edxis Chromebook",
         "HEXA Chromebook Pi",
         "Bobicus Chromebook 11",
-        "Edxis Chromebook"
+        "Consumer Chromebook"
       ],
       "fsiMilestoneNumber": "M36",
       "isAue": true,
@@ -10836,11 +10871,11 @@
             }
           },
           "brandNames": [
-            "SMART Chromebox G3",
             "OWG",
+            "CTL Chromebox CBx1",
             "ViewSonic NMP660 Chromebox",
-            "Promethean Chromebox",
-            "CTL Chromebox CBx1"
+            "SMART Chromebox G3",
+            "Promethean Chromebox"
           ],
           "fsiMilestoneNumber": "M65",
           "isAue": false,
@@ -10956,9 +10991,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo Chromebook Duet (11\", 9)": {
@@ -11150,6 +11185,11 @@
             "comparedToMostCommon": 0,
             "version": "16267.66.0"
           },
+          "138": {
+            "chromeVersion": "138.0.7204.178",
+            "comparedToMostCommon": 0,
+            "version": "16295.65.0"
+          },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 315 (CB315-2H)": {
               "architecture": "X86_64",
@@ -11222,6 +11262,11 @@
             "chromeVersion": "137.0.7151.137",
             "comparedToMostCommon": 0,
             "version": "16267.66.0"
+          },
+          "138": {
+            "chromeVersion": "138.0.7204.178",
+            "comparedToMostCommon": 0,
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook 11A G6 EE / HP Chromebook 11A G8 EE": {
@@ -11303,6 +11348,11 @@
             "comparedToMostCommon": 0,
             "version": "16267.66.0"
           },
+          "138": {
+            "chromeVersion": "138.0.7204.178",
+            "comparedToMostCommon": 0,
+            "version": "16295.65.0"
+          },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook 14-db0/HP Chromebook 14A G5": {
               "architecture": "X86_64",
@@ -11375,6 +11425,11 @@
             "chromeVersion": "137.0.7151.137",
             "comparedToMostCommon": 0,
             "version": "16267.66.0"
+          },
+          "138": {
+            "chromeVersion": "138.0.7204.178",
+            "comparedToMostCommon": 0,
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 311 (C721)": {
@@ -11449,6 +11504,11 @@
             "comparedToMostCommon": 0,
             "version": "16267.66.0"
           },
+          "138": {
+            "chromeVersion": "138.0.7204.178",
+            "comparedToMostCommon": 0,
+            "version": "16295.65.0"
+          },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 311 (R721T)": {
               "architecture": "X86_64",
@@ -11521,6 +11581,11 @@
             "chromeVersion": "137.0.7151.137",
             "comparedToMostCommon": 0,
             "version": "16267.66.0"
+          },
+          "138": {
+            "chromeVersion": "138.0.7204.178",
+            "comparedToMostCommon": 0,
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo 14e Chromebook, Lenovo Chromebook S345-14": {
@@ -11595,6 +11660,11 @@
             "comparedToMostCommon": 0,
             "version": "16267.66.0"
           },
+          "138": {
+            "chromeVersion": "138.0.7204.178",
+            "comparedToMostCommon": 0,
+            "version": "16295.65.0"
+          },
           "brandNameToFormattedDeviceMap": {
             "100e Gen 2 AST": {
               "architecture": "X86_64",
@@ -11610,8 +11680,8 @@
             }
           },
           "brandNames": [
-            "IdeaPad 3 Chromebook (11\", 5)",
-            "100e Gen 2 AST"
+            "100e Gen 2 AST",
+            "IdeaPad 3 Chromebook (11\", 5)"
           ],
           "fsiMilestoneNumber": "M80",
           "isAue": false,
@@ -11674,6 +11744,11 @@
             "chromeVersion": "137.0.7151.137",
             "comparedToMostCommon": 0,
             "version": "16267.66.0"
+          },
+          "138": {
+            "chromeVersion": "138.0.7204.178",
+            "comparedToMostCommon": 0,
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo 300e Gen 2 AST": {
@@ -11805,9 +11880,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 514 [CP514-3H, CP514-3HH, CP514-3WH]": {
@@ -11883,9 +11958,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Elite c645 G2 Chromebook": {
@@ -12053,8 +12128,8 @@
             }
           },
           "brandNames": [
-            "Poin2 Chromebook 11C",
             "Lenovo 300e/N23 Yoga/Flex 11 Chromebook",
+            "Poin2 Chromebook 11C",
             "Prowise Chromebook Eduline / Prowise Chromebook Eduline 360"
           ],
           "fsiMilestoneNumber": "-",
@@ -12459,9 +12534,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "IdeaPad Flex 5i Chromebook (13\", 5)": {
@@ -12537,9 +12612,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Chromebook x360 14c-ca0": {
@@ -12615,9 +12690,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Pro c640 Chromebook/HP Pro c640 Chromebook Enterprise": {
@@ -12693,9 +12768,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook Flip C436FA": {
@@ -12771,9 +12846,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Chromebook x360 13c-ca0/Elite c1030/Elite c1030 Enterprise": {
@@ -12849,9 +12924,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 712 [C871]": {
@@ -12927,9 +13002,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 713 (CP713-2W)": {
@@ -13005,9 +13080,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Samsung Galaxy Chromebook": {
@@ -13083,9 +13158,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Samsung Galaxy Chromebook 2": {
@@ -13217,9 +13292,9 @@
             "version": "16267.51.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook x360 11MK G3 EE": {
@@ -13295,9 +13370,9 @@
             "version": "16267.51.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook  314 (CB314-2H/CB314-2HT)": {
@@ -13373,9 +13448,9 @@
             "version": "16267.51.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook Flip CM3200FVA": {
@@ -13451,9 +13526,9 @@
             "version": "16267.51.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook 11MK G9 EE": {
@@ -13529,9 +13604,9 @@
             "version": "16267.51.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "IdeaPad Flex 3 Chromebook": {
@@ -13607,9 +13682,9 @@
             "version": "16267.51.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "IdeaPad 3 Chromebook": {
@@ -13685,9 +13760,9 @@
             "version": "16267.51.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 311 (CP311-3H)": {
@@ -13763,9 +13838,9 @@
             "version": "16267.51.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook 11a na0": {
@@ -13848,9 +13923,9 @@
             "version": "16267.51.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 311 (CB311-11H/CB311-11HT)": {
@@ -13926,9 +14001,9 @@
             "version": "16267.51.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo 100e Gen 2": {
@@ -14004,9 +14079,9 @@
             "version": "16267.51.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 311 - R722T": {
@@ -14082,9 +14157,9 @@
             "version": "16267.51.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 311 (C722/C722T)": {
@@ -14364,9 +14439,9 @@
         }
       },
       "brandNames": [
+        "HP Chromebook 14 G4",
         "HP Chromebook 11 2100-2199 / HP Chromebook 11 G3",
-        "HP Chromebook 11 G3/G4/G4 EE",
-        "HP Chromebook 14 G4"
+        "HP Chromebook 11 G3/G4/G4 EE"
       ],
       "fsiMilestoneNumber": "M36",
       "isAue": true,
@@ -14427,9 +14502,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook Detachable CM3": {
@@ -14505,9 +14580,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook Detachable CZ1": {
@@ -14583,9 +14658,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo 10e Chromebook Tablet": {
@@ -14661,9 +14736,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo Chromebook Duet / Lenovo Ideapad Duet Chromebook": {
@@ -15096,8 +15171,8 @@
         }
       },
       "brandNames": [
-        "LG Chromebase (22CB25S)",
-        "LG Chromebase (22CV241)"
+        "LG Chromebase (22CV241)",
+        "LG Chromebase (22CB25S)"
       ],
       "fsiMilestoneNumber": "M34",
       "isAue": true,
@@ -15439,8 +15514,8 @@
             }
           },
           "brandNames": [
-            "Lenovo Yoga C630 Chromebook",
-            "Lenovo C340-15 Chromebook"
+            "Lenovo C340-15 Chromebook",
+            "Lenovo Yoga C630 Chromebook"
           ],
           "fsiMilestoneNumber": "M68",
           "isAue": false,
@@ -15867,9 +15942,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook CR12 CR1204C / ASUS Chromebook CR11 CR1104C": {
@@ -15944,9 +16019,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook CR12 flip CR1204F / ASUS Chromebook CR11 flip CR1104F": {
@@ -16022,9 +16097,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 512 (R856T R856T-TCO R856TN R856TN-TCO R856LT R856LT-TCO R856LTN R856LTN-TCO)": {
@@ -16100,9 +16175,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 311": {
@@ -16178,9 +16253,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 511 (R756T R756T-TCO R756TN R756TN-TCO R756LT R756LT-TCO R756LTN R756LTN-TCO)": {
@@ -16256,9 +16331,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 315 (CB315-5H, CB315-5HT)": {
@@ -16334,9 +16409,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 511( C736, C736T, C736L, C736LT )": {
@@ -16412,9 +16487,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 314(C936 /C936T /C936-TCO /C936T-TCO)": {
@@ -16504,9 +16579,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 314(CP314-2HN/CP314-2H)": {
@@ -16582,9 +16657,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Fortis G1i 11 Chromebook / HP Fortis G1i 11 Chromebook Enterprise": {
@@ -16656,9 +16731,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Fortis Flip G1i 11 Chromebook / HP Fortis Flip G1i 11 Chromebook Enterprise": {
@@ -16730,9 +16805,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Fortis G1i 14 Chromebook / HP Fortis G1i 14 Chromebook Enterprise": {
@@ -16799,9 +16874,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 311": {
@@ -16864,9 +16939,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CA21A": {
@@ -16883,8 +16958,8 @@
             }
           },
           "brandNames": [
-            "CTL Chromebook PX111E",
-            "CA21A"
+            "CA21A",
+            "CTL Chromebook PX111E"
           ],
           "fsiMilestoneNumber": "M128",
           "isAue": false,
@@ -16946,9 +17021,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CTL Chromebook Enterprise PX141E / CTL Chromebook Enterprise PX141EX / CTL Chromebook Enterprise PX141EXT / CTL Chromebook PX141E / CTL Chromebook PX141EX / CTL Chromebook PX141EXT": {
@@ -16983,11 +17058,11 @@
             }
           },
           "brandNames": [
-            "Poin2 Chromebook Plus 14, Poin2 Chromebook 14E",
             "CTL Chromebook Enterprise PX141E / CTL Chromebook Enterprise PX141EX / CTL Chromebook Enterprise PX141EXT / CTL Chromebook PX141E / CTL Chromebook PX141EX / CTL Chromebook PX141EXT",
             "Glassway Non-X - Development Project",
             "Glassway CBX - Development Project",
-            "CTL Chromebook Plus PX141GX / CTL Chromebook Plus PX141GXT / CTL Chromebook Plus Entreprise PX141GX / CTL Chromebook Plus Enterprise PX141GXT"
+            "CTL Chromebook Plus PX141GX / CTL Chromebook Plus PX141GXT / CTL Chromebook Plus Entreprise PX141GX / CTL Chromebook Plus Enterprise PX141GXT",
+            "Poin2 Chromebook Plus 14, Poin2 Chromebook 14E"
           ],
           "fsiMilestoneNumber": "M126",
           "isAue": false,
@@ -17052,9 +17127,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 311(ROA732LTN)": {
@@ -17095,12 +17170,12 @@
             }
           },
           "brandNames": [
-            "Gothrax",
             "Acer Chromebook Spin 311(ROA732LTN)",
+            "Multi Chromebook M11HC-PC925",
             "Positivo Chromebook N2422",
             "aiwa Chromebook S11",
             "Centerm Chromebook M612B",
-            "Multi Chromebook M11HC-PC925"
+            "Gothrax"
           ],
           "fsiMilestoneNumber": "M120",
           "isAue": false,
@@ -17165,9 +17240,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Centerm Chromebook M612A": {
@@ -17258,9 +17333,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CTL Chromebook PX121E": {
@@ -17277,8 +17352,8 @@
             }
           },
           "brandNames": [
-            "CTL Chromebook PX121E",
-            "Pegatron CA31T"
+            "Pegatron CA31T",
+            "CTL Chromebook PX121E"
           ],
           "fsiMilestoneNumber": "M136",
           "isAue": false,
@@ -17329,6 +17404,11 @@
             "comparedToMostCommon": 0,
             "version": "16267.66.0"
           },
+          "138": {
+            "chromeVersion": "138.0.7204.178",
+            "comparedToMostCommon": 0,
+            "version": "16295.65.0"
+          },
           "brandNameToFormattedDeviceMap": {
             "Centerm Chromebook M621 / Centerm Chromebook Enterprise M621": {
               "architecture": "X86_64",
@@ -17356,10 +17436,10 @@
             }
           },
           "brandNames": [
-            "Centerm Chromebook M621 / Centerm Chromebook Enterprise M621",
             "Hideo non-CBX Development Project",
-            "Hideo CBX Development Project",
-            "Centerm Chromebook Plus M621 / Centerm Chromebook Plus Enterprise M621"
+            "Centerm Chromebook Plus M621 / Centerm Chromebook Plus Enterprise M621",
+            "Centerm Chromebook M621 / Centerm Chromebook Enterprise M621",
+            "Hideo CBX Development Project"
           ],
           "fsiMilestoneNumber": "M124",
           "isAue": false,
@@ -17423,9 +17503,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook Plus x360 14b-cc0": {
@@ -17454,10 +17534,10 @@
             }
           },
           "brandNames": [
-            "HP Chromebook Plus x360 14b-cc0",
+            "HP Chromebook x360 14b-cd0",
             "HP Chromebook x360 14b-cc0",
-            "HP Chromebook Plus x360 14b-cd0",
-            "HP Chromebook x360 14b-cd0"
+            "HP Chromebook Plus x360 14b-cc0",
+            "HP Chromebook Plus x360 14b-cd0"
           ],
           "fsiMilestoneNumber": "M120",
           "isAue": false,
@@ -17522,9 +17602,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo 500e Yoga Chromebook Gen 4": {
@@ -17607,9 +17687,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo 100e Chromebook Gen 4 (Intel)": {
@@ -17685,9 +17765,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo 500e Chromebook Gen 4s": {
@@ -17762,9 +17842,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo 500e Chromebook Gen 4s (Intel-TWL-N)": {
@@ -17821,9 +17901,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo Chromebook 2-in-1 14ITN10": {
@@ -17892,9 +17972,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "IdeaPad Slim 3i Chromebook Plus (14\" Intel)": {
@@ -17923,10 +18003,10 @@
             }
           },
           "brandNames": [
-            "Lenovo 14e Chromebook Gen 3 CB 5",
-            "Lenovo 14e Chromebook Gen 3/Lenovo Slim 3i Chromebook 14\"",
+            "Lenovo 14e Chromebook Gen 3",
             "IdeaPad Slim 3i Chromebook Plus (14\" Intel)",
-            "Lenovo 14e Chromebook Gen 3"
+            "Lenovo 14e Chromebook Gen 3 CB 5",
+            "Lenovo 14e Chromebook Gen 3/Lenovo Slim 3i Chromebook 14\""
           ],
           "fsiMilestoneNumber": "M110",
           "isAue": false,
@@ -17991,9 +18071,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CTL Chromebook NL73": {
@@ -18017,8 +18097,8 @@
           },
           "brandNames": [
             "Edxis Chromebook 11 (S30-C25)",
-            "CTL Chromebook NL73",
-            "LI7A"
+            "LI7A",
+            "CTL Chromebook NL73"
           ],
           "fsiMilestoneNumber": "M121",
           "isAue": false,
@@ -18078,9 +18158,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CTL Chromebook NL73 Gen 2; CTL Chromebook NL73-8 Gen 2": {
@@ -18150,9 +18230,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CTL Chromebook NL73T/CTL Chromebook NL73TW": {
@@ -18181,10 +18261,10 @@
             }
           },
           "brandNames": [
-            "LI7B",
+            "Edxis Chromebook 11 (S30-X25)",
             "mouse Chromebook U1-DAU01GY-A",
-            "CTL Chromebook NL73T/CTL Chromebook NL73TW",
-            "Edxis Chromebook 11 (S30-X25)"
+            "LI7B",
+            "CTL Chromebook NL73T/CTL Chromebook NL73TW"
           ],
           "fsiMilestoneNumber": "M121",
           "isAue": false,
@@ -18244,9 +18324,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CTL Chromebook NL73T Gen 2, CTL Chromebook NL73TWB Gen 2, CTL Chromebook NL73TW Gen 2": {
@@ -18316,9 +18396,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 511(R757T/R757TN/R757LT/R757LTN/R757T-TCO/R757TN-TCO/R757LT-TCO/R757LTN-TCO)": {
@@ -18390,9 +18470,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Plus 514(CB514-6H/CB514-6HT)/Acer Chromebook Plus Enterprise 514 (CBE594-3/CBE594-3T/CBE594-3-TCO/CBE594-3T-TCO)": {
@@ -18456,9 +18536,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 512(R857T/R857TN/R857LT/R857LTN/R857T-TCO/R857TN-TCO/R857LT-TCO/R857LTN-TCO)": {
@@ -18531,9 +18611,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 315 (CB315-6H/CB315-6HT/CB315-6H-TCO/CB315-6HT-TCO)": {
@@ -18597,9 +18677,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 514 C937/C937T/C937-TCO/C937T-TCO": {
@@ -18665,9 +18745,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 511(C737/C737T/C737L/C737LT/C737-TCO/C737T-TCO/C737L-TCO/C737LT-TCO)": {
@@ -18739,9 +18819,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "NEC Chromebook Y4": {
@@ -18813,9 +18893,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook CR11 (CR1104CTA) / ASUS Chromebook CR12 (CR1204CTA)": {
@@ -18888,9 +18968,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook CR11 Flip (CR1104FTA) / ASUS Chromebook CR12 Flip (CR1204FTA)": {
@@ -18963,9 +19043,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook CX15 (CX1505CTA) / ASUS Chromebook Enterprise CX15 (CX1505CTA) / ASUS Chromebook CB15 (CB1505CTA)": {
@@ -19038,9 +19118,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook CX14 (CX1405CTA) / ASUS Chromebook Enterprise CX14 (CX1405CTA) / ASUS Chromebook CB14 (CB1405CTA)": {
@@ -19113,9 +19193,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Dell Chromebook 3120": {
@@ -19191,9 +19271,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Dell Chromebook 3120 2-in-1": {
@@ -19269,9 +19349,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CR1102C": {
@@ -19347,9 +19427,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CR1102F": {
@@ -19425,9 +19505,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook 14a-nf0xxx": {
@@ -19510,9 +19590,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Fortis 14 inch G11 Chromebook": {
@@ -19588,9 +19668,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook 15.6\"": {
@@ -19613,9 +19693,9 @@
             }
           },
           "brandNames": [
-            "HP Chromebook Plus 15",
+            "HP Chromebook 15.6\" 15w",
             "HP Chromebook 15.6\"",
-            "HP Chromebook 15.6\" 15w"
+            "HP Chromebook Plus 15"
           ],
           "fsiMilestoneNumber": "M111",
           "isAue": false,
@@ -19680,9 +19760,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Fortis 11 inch G10 Chromebook": {
@@ -19758,9 +19838,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Fortis x360 11 inch G5 Chromebook": {
@@ -19840,9 +19920,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Google Pixel Slate": {
@@ -20062,9 +20142,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook Flip C214 (EDU), ASUS Chromebook Flip C234 (CANADA CONSUMER)": {
@@ -20140,9 +20220,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook C204": {
@@ -20218,9 +20298,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CX1101CMA": {
@@ -20296,9 +20376,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Chromebook x360 12b-ca0": {
@@ -20374,9 +20454,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook 14a-na0": {
@@ -20452,9 +20532,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Chromebook x360 14a-ca0": {
@@ -20537,9 +20617,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 315 (CB315)": {
@@ -20615,9 +20695,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Samsung Chromebook 4": {
@@ -20693,9 +20773,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 311 (C733, C733U, C733T)": {
@@ -20778,9 +20858,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 311 (CP311-2H, CP311-2HN)": {
@@ -20797,8 +20877,8 @@
             }
           },
           "brandNames": [
-            "Acer Chromebook Spin 511 (R752T, R752TN)",
-            "Acer Chromebook Spin 311 (CP311-2H, CP311-2HN)"
+            "Acer Chromebook Spin 311 (CP311-2H, CP311-2HN)",
+            "Acer Chromebook Spin 511 (R752T, R752TN)"
           ],
           "fsiMilestoneNumber": "M72",
           "isAue": false,
@@ -20863,9 +20943,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Samsung Chromebook 4+": {
@@ -20941,9 +21021,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "NEC Chromebook Y2": {
@@ -21019,9 +21099,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Chromebook 14 G6": {
@@ -21097,9 +21177,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 314 (C933L/LT)": {
@@ -21122,9 +21202,9 @@
             }
           },
           "brandNames": [
-            "Acer Chromebook 314 (C933L/LT)",
+            "Packard Bell Chromebook 314 (PCB314)",
             "Acer Chromebook 314 (CB314)",
-            "Packard Bell Chromebook 314 (PCB314)"
+            "Acer Chromebook 314 (C933L/LT)"
           ],
           "fsiMilestoneNumber": "M76",
           "isAue": false,
@@ -21189,9 +21269,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Dell Chromebook 3100": {
@@ -21274,9 +21354,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CTL Chromebook VX11,  CTL Chromebook VX11T": {
@@ -21359,9 +21439,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CTL Chromebook VX11T": {
@@ -21444,9 +21524,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CTL Chromebook NL81/NL81T": {
@@ -21529,9 +21609,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ADVAN Chromebook 116": {
@@ -21632,22 +21712,22 @@
             }
           },
           "brandNames": [
-            "SPC Chromebook X1 Mini",
-            "Pixart Rxart Chromebook",
-            "JOI Chromebook C100",
-            "Zyrex Chromebook M432-1/M432-128/Zyrex Chromebook 360-1",
-            "CTL Chromebook NL71/CT/LTE",
-            "Sector 5 E4 LTE Chromebook",
-            "Baicells Chromebook BB01",
-            "Edxis Chromebook 11 (S20-C)",
-            "Positivo Chromebook N2210",
-            "ADVAN Chromebook 116",
-            "Axioo Chromebook",
-            "Poin2 Chromebook 11A",
             "WS Chromebook A101",
-            "EVERCOSS Chromebook CB1/CB1A",
+            "Zyrex Chromebook M432-1/M432-128/Zyrex Chromebook 360-1",
+            "ADVAN Chromebook 116",
+            "Pixart Rxart Chromebook",
+            "Sector 5 E4 LTE Chromebook",
+            "CTL Chromebook NL71/CT/LTE",
+            "XO Chromebook",
+            "Edxis Chromebook 11 (S20-C)",
             "Multilaser Chromebook M11C-PC914",
-            "XO Chromebook"
+            "EVERCOSS Chromebook CB1/CB1A",
+            "Poin2 Chromebook 11A",
+            "SPC Chromebook X1 Mini",
+            "Axioo Chromebook",
+            "Baicells Chromebook BB01",
+            "Positivo Chromebook N2210",
+            "JOI Chromebook C100"
           ],
           "fsiMilestoneNumber": "M83",
           "isAue": false,
@@ -21712,9 +21792,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ADVAN Chromebook 116": {
@@ -21809,21 +21889,21 @@
             }
           },
           "brandNames": [
-            "JOI Chromebook C100",
             "Ascon Chromebook 11A",
-            "Multilaser Chromebook M11HC-PC915",
-            "EVERCOSS Chromebook CB1A",
+            "Axioo Chromebook 360",
+            "JOI Chromebook C100",
+            "ADVAN Chromebook 116",
+            "Poin2 Chromebook 11A",
+            "Positivo Chromebook N2212",
             "Baicells Chromebook BB01",
             "SPC Chromebook X1 Mini",
             "Zyrex Chromebook 360",
-            "Edxis Chromebook 11 (S20-X)",
-            "ADVAN Chromebook 116",
+            "EVERCOSS Chromebook CB1A",
             "Pixart Rxart Chromebook",
-            "Axioo Chromebook 360",
-            "Poin2 Chromebook 11A",
-            "Positivo Chromebook N2212",
+            "WS Chromebook A101",
             "CTL Chromebook NL71T/TW/TWB",
-            "WS Chromebook A101"
+            "Edxis Chromebook 11 (S20-X)",
+            "Multilaser Chromebook M11HC-PC915"
           ],
           "fsiMilestoneNumber": "M83",
           "isAue": false,
@@ -21888,9 +21968,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "IdeaPad 3 CB 14IGL05": {
@@ -21907,8 +21987,8 @@
             }
           },
           "brandNames": [
-            "Lenovo Chromebook S340-14 and Lenovo Chromebook S340-14 Touch",
-            "IdeaPad 3 CB 14IGL05"
+            "IdeaPad 3 CB 14IGL05",
+            "Lenovo Chromebook S340-14 and Lenovo Chromebook S340-14 Touch"
           ],
           "fsiMilestoneNumber": "M74",
           "isAue": false,
@@ -21973,9 +22053,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Ideapad 3 Chromebook": {
@@ -22051,9 +22131,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook x360 11 G2 EE": {
@@ -22129,9 +22209,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook 11 G7 EE": {
@@ -22207,9 +22287,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook C424": {
@@ -22285,9 +22365,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Dell Chromebook 3400": {
@@ -22363,9 +22443,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo 100e Chromebook 2nd Gen": {
@@ -22441,9 +22521,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "IdeaPad Flex 3 CB 11IGL05": {
@@ -22478,11 +22558,11 @@
             }
           },
           "brandNames": [
-            "Lenovo 300e/500e Chromebook 2nd Gen",
-            "IdeaPad Flex 3 CB 11IGL05",
-            "NEC Chromebook Y1",
             "NEC Chromebook Y1 Gen 2",
-            "Lenovo Chromebook C340-11/300e/500e Chromebook 2nd Gen"
+            "NEC Chromebook Y1",
+            "Lenovo 300e/500e Chromebook 2nd Gen",
+            "Lenovo Chromebook C340-11/300e/500e Chromebook 2nd Gen",
+            "IdeaPad Flex 3 CB 11IGL05"
           ],
           "fsiMilestoneNumber": "M72",
           "isAue": false,
@@ -22547,9 +22627,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 512 (C851, C851T)": {
@@ -22625,9 +22705,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 512 (R851T, R851TN, R852T, R852TN)": {
@@ -22703,9 +22783,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Chromebook 11 G8 EE": {
@@ -22781,9 +22861,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Chromebook x360 11 G3 EE": {
@@ -23150,9 +23230,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebase 21.5 inch All-in-One Desktop": {
@@ -23228,9 +23308,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebox 4": {
@@ -23306,9 +23386,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Fanless Chromebox": {
@@ -23384,9 +23464,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebox CXI4": {
@@ -23461,9 +23541,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebox G3": {
@@ -23538,9 +23618,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "CTL Chromebox CBx2/Enterprise CBx2": {
@@ -23569,10 +23649,10 @@
             }
           },
           "brandNames": [
-            "Promethean Chromebox 2",
             "Wyvern MobLab",
+            "ViewSonic NMP760 Chromebox",
             "CTL Chromebox CBx2/Enterprise CBx2",
-            "ViewSonic NMP760 Chromebox"
+            "Promethean Chromebox 2"
           ],
           "fsiMilestoneNumber": "M86",
           "isAue": false,
@@ -23744,9 +23824,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook C425": {
@@ -23822,9 +23902,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook Flip C433": {
@@ -23911,9 +23991,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo Chromebook Plus (14\", 10)": {
@@ -24097,10 +24177,10 @@
         }
       },
       "brandNames": [
-        "Lenovo N22 Chromebook",
         "Lenovo N23 Chromebook (Touch)",
-        "Lenovo N23 Chromebook",
-        "Lenovo N42 Chromebook"
+        "Lenovo N42 Chromebook",
+        "Lenovo N22 Chromebook",
+        "Lenovo N23 Chromebook"
       ],
       "fsiMilestoneNumber": "M48",
       "isAue": true,
@@ -24199,14 +24279,14 @@
         }
       },
       "brandNames": [
+        "Acer Chromebook 11 N7 (C731, C731T)",
+        "HP Chromebook 11 G5 EE",
+        "Mecer V2 Chromebook",
+        "Edxis Education Chromebook (NL6D)",
+        "EduGear Chromebook R",
         "Positivo Chromebook C216B",
         "CTL NL61 Chromebook",
-        "HP Chromebook 11 G5 EE",
-        "N/A",
-        "Acer Chromebook 11 N7 (C731, C731T)",
-        "Edxis Education Chromebook (NL6D)",
-        "Mecer V2 Chromebook",
-        "EduGear Chromebook R"
+        "N/A"
       ],
       "fsiMilestoneNumber": "M52",
       "isAue": true,
@@ -24271,9 +24351,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Plus Spin 714 (CP714-1H, CP714-1HN), Acer Chromebook Plus Enterprise Spin 714 (CPE794-1, CPE794-1N)": {
@@ -24348,9 +24428,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS ExpertBook CX54 Chromebook Plus Enterprise (CX5403)": {
@@ -24582,9 +24662,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Dell Latitude 5300 2-in-1 Chromebook Enterprise": {
@@ -24660,9 +24740,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Dell Latitude 5400 Chromebook Enterprise": {
@@ -25044,9 +25124,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Crystaldrift Development Product": {
@@ -25063,8 +25143,8 @@
             }
           },
           "brandNames": [
-            "SPC Chromebook V1",
-            "Crystaldrift Development Product"
+            "Crystaldrift Development Product",
+            "SPC Chromebook V1"
           ],
           "fsiMilestoneNumber": "M117",
           "isAue": false,
@@ -25125,9 +25205,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook CM34 Flip": {
@@ -25210,9 +25290,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Plus 514 (CB514-3H, CB514-3HT)": {
@@ -25288,9 +25368,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Dell Latitude 3445 Chromebook": {
@@ -25633,9 +25713,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook CM30": {
@@ -25652,8 +25732,8 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebook CM3001",
-            "ASUS Chromebook CM30"
+            "ASUS Chromebook CM30",
+            "ASUS Chromebook CM3001"
           ],
           "fsiMilestoneNumber": "M118",
           "isAue": false,
@@ -25718,9 +25798,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Dynabook Chromebook C70": {
@@ -25795,9 +25875,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Tab 311, Acer Chromebook Enterprise Tab  311": {
@@ -25814,8 +25894,8 @@
             }
           },
           "brandNames": [
-            "NB7605A",
-            "Acer Chromebook Tab 311, Acer Chromebook Enterprise Tab  311"
+            "Acer Chromebook Tab 311, Acer Chromebook Enterprise Tab  311",
+            "NB7605A"
           ],
           "fsiMilestoneNumber": "M134",
           "isAue": false,
@@ -25919,9 +25999,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Chromebook x2 11-da0": {
@@ -25997,9 +26077,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo Chromebook Duet 5 / IdeaPad Duet 5 Chromebook": {
@@ -26075,9 +26155,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Tab 510 / Enterprise Tab 510": {
@@ -26153,9 +26233,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo Chromebook Duet 3 / IdeaPad Duet 3 Chromebook / Lenovo Duet Chromebook Education Edition": {
@@ -26381,8 +26461,8 @@
         }
       },
       "brandNames": [
-        "ASUS Chromebook C202SA",
-        "ASUS Chromebook C300SA / C301SA"
+        "ASUS Chromebook C300SA / C301SA",
+        "ASUS Chromebook C202SA"
       ],
       "fsiMilestoneNumber": "M48",
       "isAue": true,
@@ -26540,9 +26620,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Fortis 11 G9 Q Chromebook/Chromebook Enterprise": {
@@ -26618,9 +26698,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 513, CP513-1H/1HL, R841T/LT": {
@@ -26696,9 +26776,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 511 (C741L/C741LT)": {
@@ -26774,9 +26854,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Libera-Merdeka Chromebook C100/C110/C120/C150": {
@@ -26793,8 +26873,8 @@
             }
           },
           "brandNames": [
-            "Orbic Chromebook",
-            "Libera-Merdeka Chromebook C100/C110/C120/C150"
+            "Libera-Merdeka Chromebook C100/C110/C120/C150",
+            "Orbic Chromebook"
           ],
           "fsiMilestoneNumber": "M100",
           "isAue": false,
@@ -26859,9 +26939,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Prowise Chromebook 360 G1": {
@@ -26937,9 +27017,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Dynabook Chromebook C1": {
@@ -27143,9 +27223,9 @@
       },
       "brandNames": [
         "Lava Xolo Chromebook",
+        "Medion Chromebook Akoya S2013",
         "True IDC Chromebook 11",
-        "Haier Chromebook 11",
-        "Medion Chromebook Akoya S2013"
+        "Haier Chromebook 11"
       ],
       "fsiMilestoneNumber": "M41",
       "isAue": true,
@@ -27240,15 +27320,15 @@
         }
       },
       "brandNames": [
-        "EduGear Chromebook K",
-        "Positivo Chromebook CH1190",
-        "Mecer Chromebook",
-        "CTL J2 / J4 Chromebook",
         "HiSense Chromebook 11",
-        "Poin2 Chromebook 11",
-        "Epik 11.6\" Chromebook  ELB1101",
+        "Mecer Chromebook",
         "VideoNet Chromebook BL10",
-        "NComputing Chromebook CX100"
+        "Poin2 Chromebook 11",
+        "NComputing Chromebook CX100",
+        "Positivo Chromebook CH1190",
+        "Epik 11.6\" Chromebook  ELB1101",
+        "EduGear Chromebook K",
+        "CTL J2 / J4 Chromebook"
       ],
       "fsiMilestoneNumber": "M41",
       "isAue": true,
@@ -27388,15 +27468,15 @@
         }
       },
       "brandNames": [
-        "Nexian Chromebook 11.6\"",
-        "Haier Chromebook 11e",
-        "Lumos Education Chromebook",
         "Sector 5 E1 Rugged Chromebook",
+        "Viglen Chromebook 11",
         "EduGear Chromebook M",
-        "Prowise Chromebook Entryline",
+        "Haier Chromebook 11e",
         "PCMerge Chromebook PCM-116E/PCM-116EB",
+        "Lumos Education Chromebook",
+        "Prowise Chromebook Entryline",
         "MEDION Chromebook S2015",
-        "Viglen Chromebook 11"
+        "Nexian Chromebook 11.6\""
       ],
       "fsiMilestoneNumber": "M41",
       "isAue": true,
@@ -27602,9 +27682,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "FMV Chromebook 14F, FMV Chromebook WM1/F3": {
@@ -27680,9 +27760,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook Flip CX3": {
@@ -27758,9 +27838,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook Flip CX5 (CX5400)": {
@@ -27836,9 +27916,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook Flip CX5 (CX5500), ASUS Chromebook Flip C536": {
@@ -27855,8 +27935,8 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebook Vibe CX55 Flip",
-            "ASUS Chromebook Flip CX5 (CX5500), ASUS Chromebook Flip C536"
+            "ASUS Chromebook Flip CX5 (CX5500), ASUS Chromebook Flip C536",
+            "ASUS Chromebook Vibe CX55 Flip"
           ],
           "fsiMilestoneNumber": "M87",
           "isAue": false,
@@ -27921,9 +28001,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook CX9 (CX9400)": {
@@ -27999,9 +28079,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Chromebook x360 14c-cc0": {
@@ -28077,9 +28157,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Chromebook 14b-nb0": {
@@ -28155,9 +28235,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "IdeaPad Flex 5i Chromebook (13\", 6)": {
@@ -28233,9 +28313,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo 5i-14 Chromebook": {
@@ -28252,8 +28332,8 @@
             }
           },
           "brandNames": [
-            "Lenovo Slim 5 Chromebook",
-            "Lenovo 5i-14 Chromebook"
+            "Lenovo 5i-14 Chromebook",
+            "Lenovo Slim 5 Chromebook"
           ],
           "fsiMilestoneNumber": "M90",
           "isAue": false,
@@ -28318,9 +28398,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 514 (CP514-2H)": {
@@ -28396,9 +28476,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 515 (CB515-1W/CB515-1WT)": {
@@ -28474,9 +28554,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook 514 (CB514-1W/CB514-1WT)": {
@@ -28552,9 +28632,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 713 (CP713-3W)": {
@@ -28712,13 +28792,13 @@
         }
       },
       "brandNames": [
-        "PCMerge Chromebook PCM-116T-432B",
+        "Viglen Chromebook 360",
+        "Prowise Chromebook Proline",
         "Edugear CMT Chromebook",
         "Multilaser Chromebook M11C",
-        "Viglen Chromebook 360",
-        "CTL J5 Chromebook",
-        "Prowise Chromebook Proline",
-        "Haier Chromebook 11 C"
+        "PCMerge Chromebook PCM-116T-432B",
+        "Haier Chromebook 11 C",
+        "CTL J5 Chromebook"
       ],
       "fsiMilestoneNumber": "M52",
       "isAue": true,
@@ -29004,9 +29084,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Chromebook 14b-na0": {
@@ -29080,9 +29160,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook 14a-nd0": {
@@ -29158,9 +29238,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebook Spin 514  (CP514-1H, CP514-1W, CP514-1WH, CP514-1HH)": {
@@ -29236,9 +29316,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "HP Chromebook x360 14a-cb0": {
@@ -29314,9 +29394,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook Flip CM1 (CM1400)": {
@@ -29392,9 +29472,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo ThinkPad C13 Yoga Chromebook / Lenovo ThinkPad C13 Yoga Chromebook Enterprise": {
@@ -29470,9 +29550,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo 100e Chromebook Gen 3": {
@@ -29548,9 +29628,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo 14e Chromebook Gen 2": {
@@ -29626,9 +29706,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "Lenovo 300e Chromebook Gen 3": {
@@ -29711,9 +29791,9 @@
             "version": "16267.66.0"
           },
           "138": {
-            "chromeVersion": "138.0.7204.163",
+            "chromeVersion": "138.0.7204.178",
             "comparedToMostCommon": 0,
-            "version": "16295.54.0"
+            "version": "16295.65.0"
           },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebook Flip CM5": {
@@ -29775,8 +29855,8 @@
       }
     }
   },
-  "creationDate": "2025-08-04",
-  "creationTime": "17:28 PT",
+  "creationDate": "2025-08-05",
+  "creationTime": "15:59 PT",
   "enterprisePins": [
     138,
     137,
