@@ -40,20 +40,20 @@
   {
     "channel": "STABLE",
     "desc": "",
-    "file": "chromeos_16295.54.0_reven_recovery_stable-channel_mp-v7.bin",
+    "file": "chromeos_16295.65.0_reven_recovery_stable-channel_mp-v7.bin",
     "filesize": 9523261952,
     "hwidmatch": "^REVEN($|-.*)",
     "manufacturer": "Google ChromeOS Flex",
-    "md5": "a5a1b29294e3700153a9de263ecd41b2",
+    "md5": "727e791f2a197b4a5ee0dc7b17513b95",
     "model": "ChromeOS Flex",
     "name": "ChromeOS Flex",
     "photourl": "",
-    "sha1": "fcc76e92b98d5ee41157e3206658360638ed12e7",
+    "sha1": "a5475f47fe8b90ff1cd3a2e6407375143f5952db",
     "sku": "",
-    "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.54.0_reven_recovery_stable-channel_mp-v7.bin.zip",
-    "version": "16295.54.0",
-    "zipfilesize": 1276216975,
-    "chrome_version": "138.0.7204.163",
+    "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.65.0_reven_recovery_stable-channel_mp-v7.bin.zip",
+    "version": "16295.65.0",
+    "zipfilesize": 1285108355,
+    "chrome_version": "138.0.7204.178",
     "hwids": []
   }
 ]
