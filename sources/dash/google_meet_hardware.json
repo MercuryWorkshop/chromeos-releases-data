@@ -26,8 +26,8 @@
             }
           },
           "brandNames": [
-            "CTL Meet Compute System (Intel 10th Gen)",
-            "ASUS Meet Compute System (Intel 10th Gen)"
+            "ASUS Meet Compute System (Intel 10th Gen)",
+            "CTL Meet Compute System (Intel 10th Gen)"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -44,7 +44,7 @@
           "servingCanary": {
             "chromeVersion": "140.0.7338.0_pre1496323",
             "comparedToMostCommon": 0,
-            "version": "16373.0.0"
+            "version": "16374.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.182",
@@ -93,7 +93,7 @@
           "servingCanary": {
             "chromeVersion": "140.0.7338.0_pre1496323",
             "comparedToMostCommon": 0,
-            "version": "16373.0.0"
+            "version": "16374.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.182",
@@ -142,7 +142,7 @@
           "servingCanary": {
             "chromeVersion": "140.0.7338.0_pre1496323",
             "comparedToMostCommon": 0,
-            "version": "16373.0.0"
+            "version": "16374.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.182",
@@ -191,7 +191,7 @@
           "servingCanary": {
             "chromeVersion": "140.0.7338.0_pre1496323",
             "comparedToMostCommon": 0,
-            "version": "16373.0.0"
+            "version": "16374.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.182",
@@ -295,7 +295,7 @@
           "servingCanary": {
             "chromeVersion": "140.0.7338.0_pre1496323",
             "comparedToMostCommon": 0,
-            "version": "16373.0.0"
+            "version": "16374.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.182",
@@ -350,7 +350,7 @@
           "servingCanary": {
             "chromeVersion": "140.0.7338.0_pre1496323",
             "comparedToMostCommon": 0,
-            "version": "16373.0.0"
+            "version": "16374.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.182",
@@ -403,7 +403,7 @@
           "servingCanary": {
             "chromeVersion": "140.0.7338.0_pre1496323",
             "comparedToMostCommon": 0,
-            "version": "16373.0.0"
+            "version": "16374.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.182",
@@ -462,7 +462,7 @@
           "servingCanary": {
             "chromeVersion": "140.0.7338.0_pre1496323",
             "comparedToMostCommon": 0,
-            "version": "16373.0.0"
+            "version": "16374.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.182",
@@ -500,8 +500,8 @@
           "isAue": false,
           "isExperimental": false,
           "pushRecoveries": {
-            "120": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15662.80.53_fizz-cfm_recovery_stable-channel_fizz-mp-v15.bin.zip",
-            "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.63.50_fizz-cfm_recovery_stable-channel_fizz-mp-v17.bin.zip"
+            "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.63.50_fizz-cfm_recovery_stable-channel_fizz-mp-v17.bin.zip",
+            "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.26_fizz-cfm_recovery_stable-channel_FizzMPKeys-v17.bin.zip"
           },
           "servingBeta": {
             "chromeVersion": "132.0.6834.182",
@@ -511,7 +511,7 @@
           "servingCanary": {
             "chromeVersion": "140.0.7338.0_pre1496323",
             "comparedToMostCommon": 0,
-            "version": "16373.0.0"
+            "version": "16374.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.182",
@@ -545,8 +545,8 @@
           "isAue": false,
           "isExperimental": false,
           "pushRecoveries": {
-            "120": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15662.80.53_fizz-cfm_recovery_stable-channel_fizz-mp-v15.bin.zip",
-            "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.63.50_fizz-cfm_recovery_stable-channel_fizz-mp-v17.bin.zip"
+            "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.63.50_fizz-cfm_recovery_stable-channel_fizz-mp-v17.bin.zip",
+            "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.26_fizz-cfm_recovery_stable-channel_FizzMPKeys-v17.bin.zip"
           },
           "servingBeta": {
             "chromeVersion": "132.0.6834.182",
@@ -556,7 +556,7 @@
           "servingCanary": {
             "chromeVersion": "140.0.7338.0_pre1496323",
             "comparedToMostCommon": 0,
-            "version": "16373.0.0"
+            "version": "16374.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.182",
@@ -655,7 +655,7 @@
           "servingCanary": {
             "chromeVersion": "140.0.7338.0_pre1496323",
             "comparedToMostCommon": 0,
-            "version": "16373.0.0"
+            "version": "16374.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.182",
@@ -722,8 +722,8 @@
       }
     }
   },
-  "creationDate": "2025-08-06",
-  "creationTime": "15:51 PT",
+  "creationDate": "2025-08-07",
+  "creationTime": "15:55 PT",
   "enterprisePins": [
     132,
     126,
