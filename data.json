@@ -20845,6 +20845,13 @@
         "channel": "stable-channel",
         "last_modified": 1744033403,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.63.50_fizz-cfm_recovery_stable-channel_fizz-mp-v17.bin.zip"
+      },
+      {
+        "platform_version": "16093.68.26",
+        "chrome_version": "132.0.6834.177",
+        "channel": "stable-channel",
+        "last_modified": 1754577978,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.26_fizz-cfm_recovery_stable-channel_FizzMPKeys-v17.bin.zip"
       }
     ],
     "brand_names": [
@@ -36490,6 +36497,8 @@
       "CR1102F",
       "CTL Chromebook Enterprise PX141E / CTL Chromebook Enterprise PX141EX / CTL Chromebook Enterprise PX141EXT / CTL Chromebook PX141E / CTL Chromebook PX141EX / CTL Chromebook PX141EXT",
       "CTL Chromebook NL73",
+      "CTL Chromebook NL73 Gen 2; CTL Chromebook NL73-8 Gen 2",
+      "CTL Chromebook NL73T Gen 2, CTL Chromebook NL73TWB Gen 2, CTL Chromebook NL73TW Gen 2",
       "CTL Chromebook NL73T/CTL Chromebook NL73TW",
       "CTL Chromebook PX111E",
       "CTL Chromebook PX121E",
@@ -47072,6 +47081,27 @@
         "channel": "stable-channel",
         "last_modified": 1753819705,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.54.0_reven_recovery_stable-channel_mp-v7.bin.zip"
+      },
+      {
+        "platform_version": "16295.54.0",
+        "chrome_version": "138.0.7204.163",
+        "channel": "ltc-channel",
+        "last_modified": 1754411321,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.54.0_reven_recovery_ltc-channel_mp-v7.bin.zip"
+      },
+      {
+        "platform_version": "16093.113.0",
+        "chrome_version": "132.0.6834.239",
+        "channel": "lts-channel",
+        "last_modified": 1754411594,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.113.0_reven_recovery_lts-channel_mp-v7.bin.zip"
+      },
+      {
+        "platform_version": "16295.65.0",
+        "chrome_version": "138.0.7204.178",
+        "channel": "stable-channel",
+        "last_modified": 1754497915,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.65.0_reven_recovery_stable-channel_mp-v7.bin.zip"
       }
     ],
     "brand_names": [
