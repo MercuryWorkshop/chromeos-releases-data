@@ -26,8 +26,8 @@
             }
           },
           "brandNames": [
-            "ASUS Meet Compute System (Intel 10th Gen)",
-            "CTL Meet Compute System (Intel 10th Gen)"
+            "CTL Meet Compute System (Intel 10th Gen)",
+            "ASUS Meet Compute System (Intel 10th Gen)"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -52,9 +52,9 @@
             "version": "16093.68.39"
           },
           "servingStable": {
-            "chromeVersion": "132.0.6834.177",
+            "chromeVersion": "132.0.6834.178",
             "comparedToMostCommon": 0,
-            "version": "16093.68.26"
+            "version": "16093.68.30"
           }
         },
         "genesis": {
@@ -101,9 +101,9 @@
             "version": "16093.68.39"
           },
           "servingStable": {
-            "chromeVersion": "132.0.6834.177",
+            "chromeVersion": "132.0.6834.178",
             "comparedToMostCommon": 0,
-            "version": "16093.68.26"
+            "version": "16093.68.30"
           }
         },
         "moonbuggy": {
@@ -150,9 +150,9 @@
             "version": "16093.68.39"
           },
           "servingStable": {
-            "chromeVersion": "132.0.6834.177",
+            "chromeVersion": "132.0.6834.178",
             "comparedToMostCommon": 0,
-            "version": "16093.68.26"
+            "version": "16093.68.30"
           }
         },
         "scout": {
@@ -199,9 +199,9 @@
             "version": "16093.68.39"
           },
           "servingStable": {
-            "chromeVersion": "132.0.6834.177",
+            "chromeVersion": "132.0.6834.178",
             "comparedToMostCommon": 0,
-            "version": "16093.68.26"
+            "version": "16093.68.30"
           }
         }
       }
@@ -303,9 +303,9 @@
             "version": "16093.68.39"
           },
           "servingStable": {
-            "chromeVersion": "132.0.6834.177",
+            "chromeVersion": "132.0.6834.178",
             "comparedToMostCommon": 0,
-            "version": "16093.68.26"
+            "version": "16093.68.30"
           }
         },
         "intrepid": {
@@ -358,9 +358,9 @@
             "version": "16093.68.39"
           },
           "servingStable": {
-            "chromeVersion": "132.0.6834.177",
+            "chromeVersion": "132.0.6834.178",
             "comparedToMostCommon": 0,
-            "version": "16093.68.26"
+            "version": "16093.68.30"
           }
         }
       }
@@ -411,9 +411,9 @@
             "version": "16093.68.39"
           },
           "servingStable": {
-            "chromeVersion": "132.0.6834.177",
+            "chromeVersion": "132.0.6834.178",
             "comparedToMostCommon": 0,
-            "version": "16093.68.26"
+            "version": "16093.68.30"
           }
         }
       }
@@ -470,9 +470,9 @@
             "version": "16093.68.39"
           },
           "servingStable": {
-            "chromeVersion": "132.0.6834.177",
+            "chromeVersion": "132.0.6834.178",
             "comparedToMostCommon": 0,
-            "version": "16093.68.26"
+            "version": "16093.68.30"
           }
         }
       }
@@ -723,7 +723,7 @@
     }
   },
   "creationDate": "2025-08-18",
-  "creationTime": "06:10 PT",
+  "creationTime": "22:12 PT",
   "enterprisePins": [
     132,
     126,
