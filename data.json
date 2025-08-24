@@ -45250,6 +45250,7 @@
       }
     ],
     "brand_names": [
+      "Acer Chromebook Spin 514",
       "Lenovo Chromebook Plus (14\", 10)",
       "Lenovo Chromebook Plus (14\u201d, 10)"
     ],
@@ -47800,13 +47801,6 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.54.0_reven_recovery_stable-channel_mp-v7.bin.zip"
       },
       {
-        "platform_version": "16295.54.0",
-        "chrome_version": "138.0.7204.163",
-        "channel": "ltc-channel",
-        "last_modified": 1754411321,
-        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.54.0_reven_recovery_ltc-channel_mp-v7.bin.zip"
-      },
-      {
         "platform_version": "16093.113.0",
         "chrome_version": "132.0.6834.239",
         "channel": "lts-channel",
@@ -47814,18 +47808,18 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.113.0_reven_recovery_lts-channel_mp-v7.bin.zip"
       },
       {
-        "platform_version": "16295.65.0",
-        "chrome_version": "138.0.7204.178",
+        "platform_version": "16295.74.0",
+        "chrome_version": "138.0.7204.232",
         "channel": "stable-channel",
-        "last_modified": 1754497915,
-        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.65.0_reven_recovery_stable-channel_mp-v7.bin.zip"
+        "last_modified": 1755549162,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.74.0_reven_recovery_stable-channel_mp-v8.bin.zip"
       },
       {
         "platform_version": "16295.70.0",
         "chrome_version": "138.0.7204.221",
-        "channel": "stable-channel",
-        "last_modified": 1754938576,
-        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.70.0_reven_recovery_stable-channel_mp-v8.bin.zip"
+        "channel": "ltc-channel",
+        "last_modified": 1755554369,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.70.0_reven_recovery_ltc-channel_mp-v8.bin.zip"
       }
     ],
     "brand_names": [
