@@ -55,9 +55,9 @@
         "version": "15483.0.0"
       },
       "servingDev": {
-        "chromeVersion": "141.0.7367.0_pre1503598",
+        "chromeVersion": "141.0.7374.0_pre1505586",
         "comparedToMostCommon": 0,
-        "version": "16389.0.0"
+        "version": "16397.0.0"
       },
       "servingLtc": {
         "chromeVersion": "138.0.7204.221",
@@ -70,13 +70,13 @@
         "version": "16093.115.0"
       },
       "servingStable": {
-        "chromeVersion": "139.0.7258.137",
+        "chromeVersion": "138.0.7204.232",
         "comparedToMostCommon": 0,
-        "version": "16328.55.0"
+        "version": "16295.74.0"
       }
     }
   },
-  "creationDate": "2025-08-26",
+  "creationDate": "2025-08-27",
   "creationTime": "15:58 PT",
   "enterprisePins": [
     138,
