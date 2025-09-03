@@ -3,11 +3,6 @@
     "ambassador": {
       "models": {
         "ambassador": {
-          "126": {
-            "chromeVersion": "126.0.6478.206",
-            "comparedToMostCommon": 0,
-            "version": "15886.63.50"
-          },
           "132": {
             "chromeVersion": "132.0.6834.178",
             "comparedToMostCommon": 0,
@@ -37,14 +32,14 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.30_ambassador_recovery_stable-channel_AmbassadorMPKeys-v9.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "132.0.6834.182",
+            "chromeVersion": "132.0.6834.183",
             "comparedToMostCommon": 0,
-            "version": "16093.68.36"
+            "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7386.0_pre1508808",
+            "chromeVersion": "141.0.7388.0_pre1508927",
             "comparedToMostCommon": 0,
-            "version": "16403.0.0"
+            "version": "16404.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -58,11 +53,6 @@
           }
         },
         "genesis": {
-          "126": {
-            "chromeVersion": "126.0.6478.206",
-            "comparedToMostCommon": 0,
-            "version": "15886.63.50"
-          },
           "132": {
             "chromeVersion": "132.0.6834.178",
             "comparedToMostCommon": 0,
@@ -86,14 +76,14 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.30_ambassador_recovery_stable-channel_AmbassadorMPKeys-v9.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "132.0.6834.182",
+            "chromeVersion": "132.0.6834.183",
             "comparedToMostCommon": 0,
-            "version": "16093.68.36"
+            "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7386.0_pre1508808",
+            "chromeVersion": "141.0.7388.0_pre1508927",
             "comparedToMostCommon": 0,
-            "version": "16403.0.0"
+            "version": "16404.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -107,11 +97,6 @@
           }
         },
         "moonbuggy": {
-          "126": {
-            "chromeVersion": "126.0.6478.206",
-            "comparedToMostCommon": 0,
-            "version": "15886.63.50"
-          },
           "132": {
             "chromeVersion": "132.0.6834.178",
             "comparedToMostCommon": 0,
@@ -135,14 +120,14 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.30_ambassador_recovery_stable-channel_AmbassadorMPKeys-v9.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "132.0.6834.182",
+            "chromeVersion": "132.0.6834.183",
             "comparedToMostCommon": 0,
-            "version": "16093.68.36"
+            "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7386.0_pre1508808",
+            "chromeVersion": "141.0.7388.0_pre1508927",
             "comparedToMostCommon": 0,
-            "version": "16403.0.0"
+            "version": "16404.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -156,11 +141,6 @@
           }
         },
         "scout": {
-          "126": {
-            "chromeVersion": "126.0.6478.206",
-            "comparedToMostCommon": 0,
-            "version": "15886.63.50"
-          },
           "132": {
             "chromeVersion": "132.0.6834.178",
             "comparedToMostCommon": 0,
@@ -184,14 +164,14 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.30_ambassador_recovery_stable-channel_AmbassadorMPKeys-v9.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "132.0.6834.182",
+            "chromeVersion": "132.0.6834.183",
             "comparedToMostCommon": 0,
-            "version": "16093.68.36"
+            "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7386.0_pre1508808",
+            "chromeVersion": "141.0.7388.0_pre1508927",
             "comparedToMostCommon": 0,
-            "version": "16403.0.0"
+            "version": "16404.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -260,11 +240,6 @@
     "constitution": {
       "models": {
         "constitution": {
-          "126": {
-            "chromeVersion": "126.0.6478.206",
-            "comparedToMostCommon": 0,
-            "version": "15886.63.50"
-          },
           "132": {
             "chromeVersion": "132.0.6834.178",
             "comparedToMostCommon": 0,
@@ -288,14 +263,14 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.30_constitution_recovery_stable-channel_ConstitutionMPKeys-v8.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "132.0.6834.182",
+            "chromeVersion": "132.0.6834.183",
             "comparedToMostCommon": 0,
-            "version": "16093.68.36"
+            "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7386.0_pre1508808",
+            "chromeVersion": "141.0.7388.0_pre1508927",
             "comparedToMostCommon": 0,
-            "version": "16403.0.0"
+            "version": "16404.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -309,11 +284,6 @@
           }
         },
         "intrepid": {
-          "126": {
-            "chromeVersion": "126.0.6478.206",
-            "comparedToMostCommon": 0,
-            "version": "15886.63.50"
-          },
           "132": {
             "chromeVersion": "132.0.6834.178",
             "comparedToMostCommon": 0,
@@ -332,8 +302,8 @@
             }
           },
           "brandNames": [
-            "ASUS Meet Compute System (Intel 13th Gen)",
-            "CTL Meet Compute System (Intel 13th Gen)"
+            "CTL Meet Compute System (Intel 13th Gen)",
+            "ASUS Meet Compute System (Intel 13th Gen)"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -343,14 +313,14 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.30_constitution_recovery_stable-channel_ConstitutionMPKeys-v8.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "132.0.6834.182",
+            "chromeVersion": "132.0.6834.183",
             "comparedToMostCommon": 0,
-            "version": "16093.68.36"
+            "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7386.0_pre1508808",
+            "chromeVersion": "141.0.7388.0_pre1508927",
             "comparedToMostCommon": 0,
-            "version": "16403.0.0"
+            "version": "16404.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -368,11 +338,6 @@
     "endeavour": {
       "models": {
         "endeavour": {
-          "126": {
-            "chromeVersion": "126.0.6478.206",
-            "comparedToMostCommon": 0,
-            "version": "15886.63.50"
-          },
           "132": {
             "chromeVersion": "132.0.6834.178",
             "comparedToMostCommon": 0,
@@ -396,14 +361,14 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.30_endeavour_recovery_stable-channel_mp-v3.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "132.0.6834.182",
+            "chromeVersion": "132.0.6834.183",
             "comparedToMostCommon": 0,
-            "version": "16093.68.36"
+            "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7386.0_pre1508808",
+            "chromeVersion": "141.0.7388.0_pre1508927",
             "comparedToMostCommon": 0,
-            "version": "16403.0.0"
+            "version": "16404.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -421,11 +386,6 @@
     "excelsior": {
       "models": {
         "excelsior": {
-          "126": {
-            "chromeVersion": "126.0.6478.206",
-            "comparedToMostCommon": 0,
-            "version": "15886.63.50"
-          },
           "132": {
             "chromeVersion": "132.0.6834.178",
             "comparedToMostCommon": 0,
@@ -444,8 +404,8 @@
             }
           },
           "brandNames": [
-            "ASUS Meet Compute System",
-            "CTL Meet Compute System"
+            "CTL Meet Compute System",
+            "ASUS Meet Compute System"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -455,14 +415,14 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.30_excelsior_recovery_stable-channel_mp-v5.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "132.0.6834.182",
+            "chromeVersion": "132.0.6834.183",
             "comparedToMostCommon": 0,
-            "version": "16093.68.36"
+            "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7386.0_pre1508808",
+            "chromeVersion": "141.0.7388.0_pre1508927",
             "comparedToMostCommon": 0,
-            "version": "16403.0.0"
+            "version": "16404.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -504,14 +464,14 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.26_fizz-cfm_recovery_stable-channel_FizzMPKeys-v17.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "132.0.6834.182",
+            "chromeVersion": "132.0.6834.183",
             "comparedToMostCommon": 0,
-            "version": "16093.68.36"
+            "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7386.0_pre1508808",
+            "chromeVersion": "141.0.7388.0_pre1508927",
             "comparedToMostCommon": 0,
-            "version": "16403.0.0"
+            "version": "16404.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -549,14 +509,14 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.26_fizz-cfm_recovery_stable-channel_FizzMPKeys-v17.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "132.0.6834.182",
+            "chromeVersion": "132.0.6834.183",
             "comparedToMostCommon": 0,
-            "version": "16093.68.36"
+            "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7386.0_pre1508808",
+            "chromeVersion": "141.0.7388.0_pre1508927",
             "comparedToMostCommon": 0,
-            "version": "16403.0.0"
+            "version": "16404.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -648,14 +608,14 @@
             "126": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.63.50_kalista-cfm_recovery_stable-channel_kalista-mp-v6.bin.zip"
           },
           "servingBeta": {
-            "chromeVersion": "132.0.6834.182",
+            "chromeVersion": "132.0.6834.183",
             "comparedToMostCommon": 0,
-            "version": "16093.68.36"
+            "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7386.0_pre1508808",
+            "chromeVersion": "141.0.7388.0_pre1508927",
             "comparedToMostCommon": 0,
-            "version": "16403.0.0"
+            "version": "16404.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -722,7 +682,7 @@
       }
     }
   },
-  "creationDate": "2025-09-01",
+  "creationDate": "2025-09-02",
   "creationTime": "16:16 PT",
   "enterprisePins": [
     132,
