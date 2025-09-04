@@ -37,9 +37,9 @@
             "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7388.0_pre1508927",
+            "chromeVersion": "141.0.7389.0_pre1509191",
             "comparedToMostCommon": 0,
-            "version": "16404.0.0"
+            "version": "16406.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -81,9 +81,9 @@
             "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7388.0_pre1508927",
+            "chromeVersion": "141.0.7389.0_pre1509191",
             "comparedToMostCommon": 0,
-            "version": "16404.0.0"
+            "version": "16406.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -125,9 +125,9 @@
             "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7388.0_pre1508927",
+            "chromeVersion": "141.0.7389.0_pre1509191",
             "comparedToMostCommon": 0,
-            "version": "16404.0.0"
+            "version": "16406.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -169,9 +169,9 @@
             "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7388.0_pre1508927",
+            "chromeVersion": "141.0.7389.0_pre1509191",
             "comparedToMostCommon": 0,
-            "version": "16404.0.0"
+            "version": "16406.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -268,9 +268,9 @@
             "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7388.0_pre1508927",
+            "chromeVersion": "141.0.7389.0_pre1509191",
             "comparedToMostCommon": 0,
-            "version": "16404.0.0"
+            "version": "16406.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -302,8 +302,8 @@
             }
           },
           "brandNames": [
-            "CTL Meet Compute System (Intel 13th Gen)",
-            "ASUS Meet Compute System (Intel 13th Gen)"
+            "ASUS Meet Compute System (Intel 13th Gen)",
+            "CTL Meet Compute System (Intel 13th Gen)"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -318,9 +318,9 @@
             "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7388.0_pre1508927",
+            "chromeVersion": "141.0.7389.0_pre1509191",
             "comparedToMostCommon": 0,
-            "version": "16404.0.0"
+            "version": "16406.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -346,7 +346,7 @@
           "brandNameToFormattedDeviceMap": {
             "Meet Compute System - Series One": {
               "architecture": "X86_64",
-              "kernel": "5.4.292",
+              "kernel": "5.4.293",
               "platform": "Cometlake-U"
             }
           },
@@ -366,9 +366,9 @@
             "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7388.0_pre1508927",
+            "chromeVersion": "141.0.7389.0_pre1509191",
             "comparedToMostCommon": 0,
-            "version": "16404.0.0"
+            "version": "16406.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -394,18 +394,18 @@
           "brandNameToFormattedDeviceMap": {
             "ASUS Meet Compute System": {
               "architecture": "X86_64",
-              "kernel": "5.4.292",
+              "kernel": "5.4.293",
               "platform": "Cometlake-U"
             },
             "CTL Meet Compute System": {
               "architecture": "X86_64",
-              "kernel": "5.4.292",
+              "kernel": "5.4.293",
               "platform": "Cometlake-U"
             }
           },
           "brandNames": [
-            "CTL Meet Compute System",
-            "ASUS Meet Compute System"
+            "ASUS Meet Compute System",
+            "CTL Meet Compute System"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -420,9 +420,9 @@
             "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7388.0_pre1508927",
+            "chromeVersion": "141.0.7389.0_pre1509191",
             "comparedToMostCommon": 0,
-            "version": "16404.0.0"
+            "version": "16406.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -449,7 +449,7 @@
             "ASUS Chromebox 3 (CN65)": {
               "architecture": "X86_64",
               "formFactor": "Chromebox",
-              "kernel": "5.4.292",
+              "kernel": "5.4.293",
               "platform": "Kabylake U/R"
             }
           },
@@ -469,9 +469,9 @@
             "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7388.0_pre1508927",
+            "chromeVersion": "141.0.7389.0_pre1509191",
             "comparedToMostCommon": 0,
-            "version": "16404.0.0"
+            "version": "16406.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -494,7 +494,7 @@
             "CTL Chromebox CBx1": {
               "architecture": "X86_64",
               "formFactor": "Chromebox",
-              "kernel": "5.4.292",
+              "kernel": "5.4.293",
               "platform": "Kabylake U/R"
             }
           },
@@ -514,9 +514,9 @@
             "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7388.0_pre1508927",
+            "chromeVersion": "141.0.7389.0_pre1509191",
             "comparedToMostCommon": 0,
-            "version": "16404.0.0"
+            "version": "16406.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -593,7 +593,7 @@
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebase CA24V2": {
               "architecture": "X86_64",
-              "kernel": "5.4.292",
+              "kernel": "5.4.293",
               "platform": "Kabylake U/R"
             }
           },
@@ -613,9 +613,9 @@
             "version": "16093.68.40"
           },
           "servingCanary": {
-            "chromeVersion": "141.0.7388.0_pre1508927",
+            "chromeVersion": "141.0.7389.0_pre1509191",
             "comparedToMostCommon": 0,
-            "version": "16404.0.0"
+            "version": "16406.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
@@ -682,7 +682,7 @@
       }
     }
   },
-  "creationDate": "2025-09-02",
+  "creationDate": "2025-09-03",
   "creationTime": "16:16 PT",
   "enterprisePins": [
     132,
