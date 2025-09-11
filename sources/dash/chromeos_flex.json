@@ -23,7 +23,7 @@
       },
       "brandNameToFormattedDeviceMap": {
         "ChromeOS Flex": {
-          "kernel": "6.6.88"
+          "kernel": "6.6.99"
         }
       },
       "brandNames": [
@@ -55,9 +55,9 @@
         "version": "15483.0.0"
       },
       "servingDev": {
-        "chromeVersion": "141.0.7390.6",
+        "chromeVersion": "141.0.7390.12",
         "comparedToMostCommon": 0,
-        "version": "16404.4.0"
+        "version": "16404.9.0"
       },
       "servingLtc": {
         "chromeVersion": "138.0.7204.255",
@@ -76,7 +76,7 @@
       }
     }
   },
-  "creationDate": "2025-09-09",
+  "creationDate": "2025-09-10",
   "creationTime": "16:15 PT",
   "enterprisePins": [
     139,
