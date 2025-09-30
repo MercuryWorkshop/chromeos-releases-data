@@ -39,7 +39,7 @@
           "servingCanary": {
             "chromeVersion": "142.0.7437.0_pre1521277",
             "comparedToMostCommon": 0,
-            "version": "16431.0.0"
+            "version": "16432.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.185",
@@ -83,7 +83,7 @@
           "servingCanary": {
             "chromeVersion": "142.0.7437.0_pre1521277",
             "comparedToMostCommon": 0,
-            "version": "16431.0.0"
+            "version": "16432.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.185",
@@ -127,7 +127,7 @@
           "servingCanary": {
             "chromeVersion": "142.0.7437.0_pre1521277",
             "comparedToMostCommon": 0,
-            "version": "16431.0.0"
+            "version": "16432.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.185",
@@ -171,7 +171,7 @@
           "servingCanary": {
             "chromeVersion": "142.0.7437.0_pre1521277",
             "comparedToMostCommon": 0,
-            "version": "16431.0.0"
+            "version": "16432.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.185",
@@ -187,6 +187,11 @@
       }
     },
     "buddy-cfm": {
+      "86": {
+        "chromeVersion": "86.0.4240.87",
+        "comparedToMostCommon": 0,
+        "version": "13421.53.5"
+      },
       "88": {
         "chromeVersion": "88.0.4324.171",
         "comparedToMostCommon": 0,
@@ -270,7 +275,7 @@
           "servingCanary": {
             "chromeVersion": "142.0.7437.0_pre1521277",
             "comparedToMostCommon": 0,
-            "version": "16431.0.0"
+            "version": "16432.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.185",
@@ -302,8 +307,8 @@
             }
           },
           "brandNames": [
-            "CTL Meet Compute System (Intel 13th Gen)",
-            "ASUS Meet Compute System (Intel 13th Gen)"
+            "ASUS Meet Compute System (Intel 13th Gen)",
+            "CTL Meet Compute System (Intel 13th Gen)"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -320,7 +325,7 @@
           "servingCanary": {
             "chromeVersion": "142.0.7437.0_pre1521277",
             "comparedToMostCommon": 0,
-            "version": "16431.0.0"
+            "version": "16432.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.185",
@@ -368,7 +373,7 @@
           "servingCanary": {
             "chromeVersion": "142.0.7437.0_pre1521277",
             "comparedToMostCommon": 0,
-            "version": "16431.0.0"
+            "version": "16432.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.185",
@@ -404,8 +409,8 @@
             }
           },
           "brandNames": [
-            "ASUS Meet Compute System",
-            "CTL Meet Compute System"
+            "CTL Meet Compute System",
+            "ASUS Meet Compute System"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -422,7 +427,7 @@
           "servingCanary": {
             "chromeVersion": "142.0.7437.0_pre1521277",
             "comparedToMostCommon": 0,
-            "version": "16431.0.0"
+            "version": "16432.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.185",
@@ -440,11 +445,6 @@
     "fizz-cfm": {
       "models": {
         "teemo": {
-          "126": {
-            "chromeVersion": "126.0.6478.206",
-            "comparedToMostCommon": 0,
-            "version": "15886.63.50"
-          },
           "brandNameToFormattedDeviceMap": {
             "ASUS Chromebox 3 (CN65)": {
               "architecture": "X86_64",
@@ -471,25 +471,15 @@
           "servingCanary": {
             "chromeVersion": "142.0.7437.0_pre1521277",
             "comparedToMostCommon": 0,
-            "version": "16431.0.0"
+            "version": "16432.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.185",
             "comparedToMostCommon": 0,
             "version": "16093.68.43"
-          },
-          "servingStable": {
-            "chromeVersion": "126.0.6478.206",
-            "comparedToMostCommon": 3,
-            "version": "15886.63.50"
           }
         },
         "wukong": {
-          "126": {
-            "chromeVersion": "126.0.6478.206",
-            "comparedToMostCommon": 0,
-            "version": "15886.63.50"
-          },
           "brandNameToFormattedDeviceMap": {
             "CTL Chromebox CBx1": {
               "architecture": "X86_64",
@@ -516,22 +506,22 @@
           "servingCanary": {
             "chromeVersion": "142.0.7437.0_pre1521277",
             "comparedToMostCommon": 0,
-            "version": "16431.0.0"
+            "version": "16432.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.185",
             "comparedToMostCommon": 0,
             "version": "16093.68.43"
-          },
-          "servingStable": {
-            "chromeVersion": "126.0.6478.206",
-            "comparedToMostCommon": 3,
-            "version": "15886.63.50"
           }
         }
       }
     },
     "guado-cfm": {
+      "86": {
+        "chromeVersion": "86.0.4240.87",
+        "comparedToMostCommon": 0,
+        "version": "13421.53.5"
+      },
       "88": {
         "chromeVersion": "88.0.4324.171",
         "comparedToMostCommon": 0,
@@ -585,11 +575,6 @@
     "kalista-cfm": {
       "models": {
         "karma": {
-          "126": {
-            "chromeVersion": "126.0.6478.206",
-            "comparedToMostCommon": 0,
-            "version": "15886.63.50"
-          },
           "brandNameToFormattedDeviceMap": {
             "Acer Chromebase CA24V2": {
               "architecture": "X86_64",
@@ -615,22 +600,22 @@
           "servingCanary": {
             "chromeVersion": "142.0.7437.0_pre1521277",
             "comparedToMostCommon": 0,
-            "version": "16431.0.0"
+            "version": "16432.0.0"
           },
           "servingDev": {
             "chromeVersion": "132.0.6834.183",
             "comparedToMostCommon": 2,
             "version": "16093.68.40"
-          },
-          "servingStable": {
-            "chromeVersion": "126.0.6478.206",
-            "comparedToMostCommon": 3,
-            "version": "15886.63.50"
           }
         }
       }
     },
     "rikku-cfm": {
+      "86": {
+        "chromeVersion": "86.0.4240.87",
+        "comparedToMostCommon": 0,
+        "version": "13421.53.5"
+      },
       "88": {
         "chromeVersion": "88.0.4324.171",
         "comparedToMostCommon": 0,
@@ -682,12 +667,12 @@
       }
     }
   },
-  "creationDate": "2025-09-28",
-  "creationTime": "16:29 PT",
+  "creationDate": "2025-09-29",
+  "creationTime": "16:31 PT",
   "enterprisePins": [
     132,
-    126,
     90,
-    88
+    88,
+    86
   ]
 }
