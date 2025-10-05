@@ -38568,6 +38568,7 @@
       "Dell Chromebook 3120 2-in-1",
       "Edxis Chromebook 11 (S30-C25)",
       "Edxis Chromebook 11 (S30-X25)",
+      "Galaxy Chromebook 3 360",
       "Glassway CBX - Development Project",
       "Glassway Non-X - Development Project",
       "Gothrax",
@@ -49861,6 +49862,13 @@
         "channel": "stable-channel",
         "last_modified": 1758754388,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16371.49.0_reven_recovery_stable-channel_mp-v8.bin.zip"
+      },
+      {
+        "platform_version": "16093.118.0",
+        "chrome_version": "132.0.6834.244",
+        "channel": "lts-channel",
+        "last_modified": 1759160886,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.118.0_reven_recovery_lts-channel_mp-v7.bin.zip"
       }
     ],
     "brand_names": [
@@ -61970,14 +61978,14 @@
       },
       {
         "platform_version": "15437.57.0",
-        "chrome_version": "114.0.5735.143",
+        "chrome_version": "114.0.5735.205",
         "channel": "stable-channel",
         "last_modified": 1689604288,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15437.57.0_trogdor_recovery_stable-channel_mp-v10.bin.zip"
       },
       {
         "platform_version": "15437.57.0",
-        "chrome_version": "114.0.5735.205",
+        "chrome_version": "114.0.5735.143",
         "channel": "stable-channel",
         "last_modified": 1689604288,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15437.57.0_trogdor_recovery_stable-channel_mp-v10.bin.zip"
