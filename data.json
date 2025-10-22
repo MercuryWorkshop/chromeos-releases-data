@@ -130,7 +130,9 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_9334.41.3_arkham_recovery_stable-channel_mp.bin.zip"
       }
     ],
-    "brand_names": [],
+    "brand_names": [
+      "OnHub SRT-AC1900"
+    ],
     "hwid_matches": [
       "^ARKHAM .*"
     ]
@@ -22484,7 +22486,9 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_9334.41.3_gale_recovery_stable-channel_mp.bin.zip"
       }
     ],
-    "brand_names": [],
+    "brand_names": [
+      "Google WiFi"
+    ],
     "hwid_matches": [
       "^GALE .*"
     ]
@@ -68585,7 +68589,9 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_9334.41.3_whirlwind_recovery_stable-channel_mp.bin.zip"
       }
     ],
-    "brand_names": [],
+    "brand_names": [
+      "OnHub Router TGR1900"
+    ],
     "hwid_matches": [
       "^WHIRLWIND .*"
     ]
