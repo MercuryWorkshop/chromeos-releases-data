@@ -1,11 +1,6 @@
 {
   "builds": {
     "reven": {
-      "137": {
-        "chromeVersion": "137.0.7151.137",
-        "comparedToMostCommon": 0,
-        "version": "16267.66.0"
-      },
       "138": {
         "chromeVersion": "138.0.7204.232",
         "comparedToMostCommon": 0,
@@ -21,6 +16,11 @@
         "comparedToMostCommon": 0,
         "version": "16371.65.0"
       },
+      "141": {
+        "chromeVersion": "141.0.7390.115",
+        "comparedToMostCommon": 0,
+        "version": "16404.45.0"
+      },
       "brandNameToFormattedDeviceMap": {
         "ChromeOS Flex": {
           "kernel": "6.6.99"
@@ -33,7 +33,6 @@
       "isAue": false,
       "isExperimental": false,
       "pushRecoveries": {
-        "131": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16063.68.0_reven_recovery_stable-channel_mp-v6.bin.zip",
         "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.92.0_reven_recovery_stable-channel_mp-v7.bin.zip",
         "133": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16151.61.0_reven_recovery_stable-channel_mp-v7.bin.zip",
         "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.61.0_reven_recovery_stable-channel_mp-v7.bin.zip",
@@ -42,12 +41,13 @@
         "137": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16267.66.0_reven_recovery_stable-channel_mp-v7.bin.zip",
         "138": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.74.0_reven_recovery_stable-channel_mp-v8.bin.zip",
         "139": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16328.72.0_reven_recovery_stable-channel_mp-v8.bin.zip",
-        "140": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16371.65.0_reven_recovery_stable-channel_mp-v8.bin.zip"
+        "140": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16371.65.0_reven_recovery_stable-channel_mp-v8.bin.zip",
+        "141": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16404.45.0_reven_recovery_stable-channel_mp-v8.bin.zip"
       },
       "servingBeta": {
-        "chromeVersion": "142.0.7444.29",
+        "chromeVersion": "142.0.7444.40",
         "comparedToMostCommon": 0,
-        "version": "16433.17.0"
+        "version": "16433.24.0"
       },
       "servingCanary": {
         "chromeVersion": "116.0.5802.0",
@@ -76,12 +76,12 @@
       }
     }
   },
-  "creationDate": "2025-10-20",
+  "creationDate": "2025-10-22",
   "creationTime": "16:33 PT",
   "enterprisePins": [
+    141,
     140,
     139,
-    138,
-    137
+    138
   ]
 }
