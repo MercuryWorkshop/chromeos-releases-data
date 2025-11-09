@@ -49037,6 +49037,7 @@
     ],
     "brand_names": [
       "Acer Chromebook Spin 514",
+      "Acer Chromebook Spin 514(CP514-5HN, CPE594-2N, CPE584-1N), Acer Chromebook Plus Enterprise Spin 514(CPE594-2N, CPE584-1N)",
       "Lenovo Chromebook Plus (14\", 10)",
       "Lenovo Chromebook Plus (14\u201d, 10)"
     ],
@@ -51859,6 +51860,13 @@
         "channel": "lts-channel",
         "last_modified": 1761755969,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.80.0_reven_recovery_lts-channel_mp-v8.bin.zip"
+      },
+      {
+        "platform_version": "16404.60.0",
+        "chrome_version": "141.0.7390.134",
+        "channel": "stable-channel",
+        "last_modified": 1762286196,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16404.60.0_reven_recovery_stable-channel_mp-v8.bin.zip"
       }
     ],
     "brand_names": [
