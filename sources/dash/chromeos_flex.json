@@ -33,7 +33,6 @@
       "isAue": false,
       "isExperimental": false,
       "pushRecoveries": {
-        "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.92.0_reven_recovery_stable-channel_mp-v7.bin.zip",
         "133": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16151.61.0_reven_recovery_stable-channel_mp-v7.bin.zip",
         "134": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16181.61.0_reven_recovery_stable-channel_mp-v7.bin.zip",
         "135": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16209.67.0_reven_recovery_stable-channel_mp-v7.bin.zip",
@@ -42,12 +41,13 @@
         "138": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.74.0_reven_recovery_stable-channel_mp-v8.bin.zip",
         "139": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16328.72.0_reven_recovery_stable-channel_mp-v8.bin.zip",
         "140": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16371.65.0_reven_recovery_stable-channel_mp-v8.bin.zip",
-        "141": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16404.61.0_reven_recovery_stable-channel_mp-v8.bin.zip"
+        "141": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16404.61.0_reven_recovery_stable-channel_mp-v8.bin.zip",
+        "142": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16433.41.0_reven_recovery_stable-channel_mp-v8.bin.zip"
       },
       "servingBeta": {
-        "chromeVersion": "142.0.7444.97",
+        "chromeVersion": "143.0.7499.28",
         "comparedToMostCommon": 0,
-        "version": "16433.34.0"
+        "version": "16463.20.0"
       },
       "servingCanary": {
         "chromeVersion": "116.0.5802.0",
@@ -76,7 +76,7 @@
       }
     }
   },
-  "creationDate": "2025-11-17",
+  "creationDate": "2025-11-18",
   "creationTime": "15:33 PT",
   "enterprisePins": [
     142,
