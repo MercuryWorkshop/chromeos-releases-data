@@ -17,9 +17,9 @@
         "version": "16404.61.0"
       },
       "142": {
-        "chromeVersion": "142.0.7444.147",
+        "chromeVersion": "142.0.7444.181",
         "comparedToMostCommon": 0,
-        "version": "16433.41.0"
+        "version": "16433.48.0"
       },
       "brandNameToFormattedDeviceMap": {
         "ChromeOS Flex": {
@@ -45,9 +45,9 @@
         "142": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16433.41.0_reven_recovery_stable-channel_mp-v8.bin.zip"
       },
       "servingBeta": {
-        "chromeVersion": "143.0.7499.28",
+        "chromeVersion": "143.0.7499.33",
         "comparedToMostCommon": 0,
-        "version": "16463.20.0"
+        "version": "16463.25.0"
       },
       "servingCanary": {
         "chromeVersion": "116.0.5802.0",
@@ -55,19 +55,19 @@
         "version": "15483.0.0"
       },
       "servingDev": {
-        "chromeVersion": "143.0.7499.11",
+        "chromeVersion": "144.0.7531.0_pre1546105",
         "comparedToMostCommon": 0,
-        "version": "16463.10.0"
+        "version": "16487.0.0"
       },
       "servingLtc": {
-        "chromeVersion": "138.0.7204.296",
+        "chromeVersion": "138.0.7204.298",
         "comparedToMostCommon": 0,
-        "version": "16295.81.0"
+        "version": "16295.83.0"
       },
       "servingLtr": {
-        "chromeVersion": "138.0.7204.296",
+        "chromeVersion": "138.0.7204.298",
         "comparedToMostCommon": 0,
-        "version": "16295.81.0"
+        "version": "16295.83.0"
       },
       "servingStable": {
         "chromeVersion": "142.0.7444.181",
@@ -76,8 +76,8 @@
       }
     }
   },
-  "creationDate": "2025-11-19",
-  "creationTime": "15:33 PT",
+  "creationDate": "2025-11-22",
+  "creationTime": "13:33 PT",
   "enterprisePins": [
     142,
     141,
