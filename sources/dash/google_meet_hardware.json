@@ -21,8 +21,8 @@
             }
           },
           "brandNames": [
-            "CTL Meet Compute System (Intel 10th Gen)",
-            "ASUS Meet Compute System (Intel 10th Gen)"
+            "ASUS Meet Compute System (Intel 10th Gen)",
+            "CTL Meet Compute System (Intel 10th Gen)"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -273,9 +273,9 @@
             "version": "16295.54.32"
           },
           "servingCanary": {
-            "chromeVersion": "145.0.7580.0_pre1558949",
+            "chromeVersion": "145.0.7581.0_pre1559168",
             "comparedToMostCommon": 0,
-            "version": "16524.0.0"
+            "version": "16525.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.199",
@@ -323,9 +323,9 @@
             "version": "16295.54.32"
           },
           "servingCanary": {
-            "chromeVersion": "145.0.7580.0_pre1558949",
+            "chromeVersion": "145.0.7581.0_pre1559168",
             "comparedToMostCommon": 0,
-            "version": "16524.0.0"
+            "version": "16525.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.199",
@@ -371,9 +371,9 @@
             "version": "16295.54.32"
           },
           "servingCanary": {
-            "chromeVersion": "145.0.7580.0_pre1558949",
+            "chromeVersion": "145.0.7581.0_pre1559168",
             "comparedToMostCommon": 0,
-            "version": "16524.0.0"
+            "version": "16525.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.199",
@@ -409,8 +409,8 @@
             }
           },
           "brandNames": [
-            "CTL Meet Compute System",
-            "ASUS Meet Compute System"
+            "ASUS Meet Compute System",
+            "CTL Meet Compute System"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -425,9 +425,9 @@
             "version": "16295.54.32"
           },
           "servingCanary": {
-            "chromeVersion": "145.0.7580.0_pre1558949",
+            "chromeVersion": "145.0.7581.0_pre1559168",
             "comparedToMostCommon": 0,
-            "version": "16524.0.0"
+            "version": "16525.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.199",
@@ -667,8 +667,8 @@
       }
     }
   },
-  "creationDate": "2025-12-17",
-  "creationTime": "19:42 PT",
+  "creationDate": "2025-12-18",
+  "creationTime": "15:42 PT",
   "enterprisePins": [
     132,
     90,
