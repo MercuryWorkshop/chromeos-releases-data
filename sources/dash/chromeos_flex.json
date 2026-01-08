@@ -45,9 +45,9 @@
         "142": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16433.57.0_reven_recovery_stable-channel_mp-v8.bin.zip"
       },
       "servingBeta": {
-        "chromeVersion": "144.0.7559.37",
+        "chromeVersion": "144.0.7559.50",
         "comparedToMostCommon": 0,
-        "version": "16503.25.0"
+        "version": "16503.38.0"
       },
       "servingCanary": {
         "chromeVersion": "116.0.5802.0",
@@ -76,7 +76,7 @@
       }
     }
   },
-  "creationDate": "2026-01-05",
+  "creationDate": "2026-01-07",
   "creationTime": "15:33 PT",
   "enterprisePins": [
     142,
