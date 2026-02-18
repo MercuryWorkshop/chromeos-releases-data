@@ -42,9 +42,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "147.0.7689.0_pre1585168",
+            "chromeVersion": "147.0.7689.0_pre1585196",
             "comparedToMostCommon": 0,
-            "version": "16588.0.0"
+            "version": "16589.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.200",
@@ -91,9 +91,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "147.0.7689.0_pre1585168",
+            "chromeVersion": "147.0.7689.0_pre1585196",
             "comparedToMostCommon": 0,
-            "version": "16588.0.0"
+            "version": "16589.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.200",
@@ -140,9 +140,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "147.0.7689.0_pre1585168",
+            "chromeVersion": "147.0.7689.0_pre1585196",
             "comparedToMostCommon": 0,
-            "version": "16588.0.0"
+            "version": "16589.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.200",
@@ -189,9 +189,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "147.0.7689.0_pre1585168",
+            "chromeVersion": "147.0.7689.0_pre1585196",
             "comparedToMostCommon": 0,
-            "version": "16588.0.0"
+            "version": "16589.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.200",
@@ -273,7 +273,7 @@
           "brandNameToFormattedDeviceMap": {
             "Meet Compute System - Series One (Intel 13th Gen)": {
               "architecture": "X86_64",
-              "kernel": "6.6.99",
+              "kernel": "6.6.104",
               "platform": "RaptorLake-U"
             }
           },
@@ -293,9 +293,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "147.0.7689.0_pre1585168",
+            "chromeVersion": "147.0.7689.0_pre1585196",
             "comparedToMostCommon": 0,
-            "version": "16588.0.0"
+            "version": "16589.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.200",
@@ -322,12 +322,12 @@
           "brandNameToFormattedDeviceMap": {
             "ASUS Meet Compute System (Intel 13th Gen)": {
               "architecture": "X86_64",
-              "kernel": "6.6.99",
+              "kernel": "6.6.104",
               "platform": "RaptorLake-U"
             },
             "CTL Meet Compute System (Intel 13th Gen)": {
               "architecture": "X86_64",
-              "kernel": "6.6.99",
+              "kernel": "6.6.104",
               "platform": "RaptorLake-U"
             }
           },
@@ -348,9 +348,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "147.0.7689.0_pre1585168",
+            "chromeVersion": "147.0.7689.0_pre1585196",
             "comparedToMostCommon": 0,
-            "version": "16588.0.0"
+            "version": "16589.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.200",
@@ -401,9 +401,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "147.0.7689.0_pre1585168",
+            "chromeVersion": "147.0.7689.0_pre1585196",
             "comparedToMostCommon": 0,
-            "version": "16588.0.0"
+            "version": "16589.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.200",
@@ -444,8 +444,8 @@
             }
           },
           "brandNames": [
-            "ASUS Meet Compute System",
-            "CTL Meet Compute System"
+            "CTL Meet Compute System",
+            "ASUS Meet Compute System"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -460,9 +460,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "147.0.7689.0_pre1585168",
+            "chromeVersion": "147.0.7689.0_pre1585196",
             "comparedToMostCommon": 0,
-            "version": "16588.0.0"
+            "version": "16589.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.200",
@@ -504,9 +504,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "147.0.7689.0_pre1585168",
+            "chromeVersion": "147.0.7689.0_pre1585196",
             "comparedToMostCommon": 0,
-            "version": "16588.0.0"
+            "version": "16589.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.200",
@@ -539,9 +539,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "147.0.7689.0_pre1585168",
+            "chromeVersion": "147.0.7689.0_pre1585196",
             "comparedToMostCommon": 0,
-            "version": "16588.0.0"
+            "version": "16589.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.200",
@@ -692,7 +692,7 @@
       }
     }
   },
-  "creationDate": "2026-02-16",
+  "creationDate": "2026-02-17",
   "creationTime": "15:48 PT",
   "enterprisePins": [
     138,
