@@ -3,11 +3,6 @@
     "ambassador": {
       "models": {
         "ambassador": {
-          "132": {
-            "chromeVersion": "132.0.6834.185",
-            "comparedToMostCommon": 0,
-            "version": "16093.68.43"
-          },
           "138": {
             "chromeVersion": "138.0.7204.199",
             "comparedToMostCommon": 0,
@@ -26,8 +21,8 @@
             }
           },
           "brandNames": [
-            "CTL Meet Compute System (Intel 10th Gen)",
-            "ASUS Meet Compute System (Intel 10th Gen)"
+            "ASUS Meet Compute System (Intel 10th Gen)",
+            "CTL Meet Compute System (Intel 10th Gen)"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -58,11 +53,6 @@
           }
         },
         "genesis": {
-          "132": {
-            "chromeVersion": "132.0.6834.185",
-            "comparedToMostCommon": 0,
-            "version": "16093.68.43"
-          },
           "138": {
             "chromeVersion": "138.0.7204.199",
             "comparedToMostCommon": 0,
@@ -107,11 +97,6 @@
           }
         },
         "moonbuggy": {
-          "132": {
-            "chromeVersion": "132.0.6834.185",
-            "comparedToMostCommon": 0,
-            "version": "16093.68.43"
-          },
           "138": {
             "chromeVersion": "138.0.7204.199",
             "comparedToMostCommon": 0,
@@ -156,11 +141,6 @@
           }
         },
         "scout": {
-          "132": {
-            "chromeVersion": "132.0.6834.185",
-            "comparedToMostCommon": 0,
-            "version": "16093.68.43"
-          },
           "138": {
             "chromeVersion": "138.0.7204.199",
             "comparedToMostCommon": 0,
@@ -207,6 +187,11 @@
       }
     },
     "buddy-cfm": {
+      "86": {
+        "chromeVersion": "86.0.4240.87",
+        "comparedToMostCommon": 0,
+        "version": "13421.53.5"
+      },
       "88": {
         "chromeVersion": "88.0.4324.171",
         "comparedToMostCommon": 0,
@@ -260,11 +245,6 @@
     "constitution": {
       "models": {
         "constitution": {
-          "132": {
-            "chromeVersion": "132.0.6834.185",
-            "comparedToMostCommon": 0,
-            "version": "16093.68.43"
-          },
           "138": {
             "chromeVersion": "138.0.7204.199",
             "comparedToMostCommon": 0,
@@ -309,11 +289,6 @@
           }
         },
         "intrepid": {
-          "132": {
-            "chromeVersion": "132.0.6834.185",
-            "comparedToMostCommon": 0,
-            "version": "16093.68.43"
-          },
           "138": {
             "chromeVersion": "138.0.7204.199",
             "comparedToMostCommon": 0,
@@ -332,8 +307,8 @@
             }
           },
           "brandNames": [
-            "CTL Meet Compute System (Intel 13th Gen)",
-            "ASUS Meet Compute System (Intel 13th Gen)"
+            "ASUS Meet Compute System (Intel 13th Gen)",
+            "CTL Meet Compute System (Intel 13th Gen)"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -368,11 +343,6 @@
     "endeavour": {
       "models": {
         "endeavour": {
-          "132": {
-            "chromeVersion": "132.0.6834.185",
-            "comparedToMostCommon": 0,
-            "version": "16093.68.43"
-          },
           "138": {
             "chromeVersion": "138.0.7204.199",
             "comparedToMostCommon": 0,
@@ -421,11 +391,6 @@
     "excelsior": {
       "models": {
         "excelsior": {
-          "132": {
-            "chromeVersion": "132.0.6834.185",
-            "comparedToMostCommon": 0,
-            "version": "16093.68.43"
-          },
           "138": {
             "chromeVersion": "138.0.7204.199",
             "comparedToMostCommon": 0,
@@ -444,8 +409,8 @@
             }
           },
           "brandNames": [
-            "ASUS Meet Compute System",
-            "CTL Meet Compute System"
+            "CTL Meet Compute System",
+            "ASUS Meet Compute System"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -552,6 +517,11 @@
       }
     },
     "guado-cfm": {
+      "86": {
+        "chromeVersion": "86.0.4240.87",
+        "comparedToMostCommon": 0,
+        "version": "13421.53.5"
+      },
       "88": {
         "chromeVersion": "88.0.4324.171",
         "comparedToMostCommon": 0,
@@ -641,6 +611,11 @@
       }
     },
     "rikku-cfm": {
+      "86": {
+        "chromeVersion": "86.0.4240.87",
+        "comparedToMostCommon": 0,
+        "version": "13421.53.5"
+      },
       "88": {
         "chromeVersion": "88.0.4324.171",
         "comparedToMostCommon": 0,
@@ -692,12 +667,12 @@
       }
     }
   },
-  "creationDate": "2026-03-09",
+  "creationDate": "2026-03-10",
   "creationTime": "16:49 PT",
   "enterprisePins": [
     138,
-    132,
     90,
-    88
+    88,
+    86
   ]
 }
