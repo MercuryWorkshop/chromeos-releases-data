@@ -17,9 +17,9 @@
         "version": "16503.76.0"
       },
       "145": {
-        "chromeVersion": "145.0.7632.154",
+        "chromeVersion": "145.0.7632.165",
         "comparedToMostCommon": 0,
-        "version": "16552.47.0"
+        "version": "16552.53.0"
       },
       "brandNameToFormattedDeviceMap": {
         "ChromeOS Flex": {
@@ -45,9 +45,9 @@
         "144": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.60.0_reven_recovery_stable-channel_RevenMPKeys-v8.bin.zip"
       },
       "servingBeta": {
-        "chromeVersion": "146.0.7680.60",
+        "chromeVersion": "146.0.7680.143",
         "comparedToMostCommon": 0,
-        "version": "16581.24.0"
+        "version": "16581.29.0"
       },
       "servingCanary": {
         "chromeVersion": "116.0.5802.0",
@@ -55,9 +55,9 @@
         "version": "15483.0.0"
       },
       "servingDev": {
-        "chromeVersion": "147.0.7710.0_pre1591974",
+        "chromeVersion": "147.0.7727.0",
         "comparedToMostCommon": 0,
-        "version": "16602.0.0"
+        "version": "16610.2.0"
       },
       "servingLtc": {
         "chromeVersion": "144.0.7559.231",
@@ -76,7 +76,7 @@
       }
     }
   },
-  "creationDate": "2026-03-10",
+  "creationDate": "2026-03-11",
   "creationTime": "16:33 PT",
   "enterprisePins": [
     145,
