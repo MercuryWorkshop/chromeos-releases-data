@@ -33,7 +33,6 @@
       "isAue": false,
       "isExperimental": false,
       "pushRecoveries": {
-        "135": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16209.67.0_reven_recovery_stable-channel_mp-v7.bin.zip",
         "136": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16238.64.0_reven_recovery_stable-channel_mp-v7.bin.zip",
         "137": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16267.66.0_reven_recovery_stable-channel_mp-v7.bin.zip",
         "138": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.74.0_reven_recovery_stable-channel_mp-v8.bin.zip",
@@ -42,7 +41,8 @@
         "141": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16404.61.0_reven_recovery_stable-channel_mp-v8.bin.zip",
         "142": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16433.57.0_reven_recovery_stable-channel_mp-v8.bin.zip",
         "143": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16463.79.0_reven_recovery_stable-channel_mp-v8.bin.zip",
-        "144": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.60.0_reven_recovery_stable-channel_RevenMPKeys-v8.bin.zip"
+        "144": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.60.0_reven_recovery_stable-channel_RevenMPKeys-v8.bin.zip",
+        "145": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16552.53.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip"
       },
       "servingBeta": {
         "chromeVersion": "146.0.7680.143",
@@ -65,9 +65,9 @@
         "version": "16503.77.0"
       },
       "servingLtr": {
-        "chromeVersion": "138.0.7204.305",
+        "chromeVersion": "138.0.7204.306",
         "comparedToMostCommon": 0,
-        "version": "16295.90.0"
+        "version": "16295.91.0"
       },
       "servingStable": {
         "chromeVersion": "145.0.7632.165",
@@ -76,7 +76,7 @@
       }
     }
   },
-  "creationDate": "2026-03-11",
+  "creationDate": "2026-03-12",
   "creationTime": "16:33 PT",
   "enterprisePins": [
     145,
