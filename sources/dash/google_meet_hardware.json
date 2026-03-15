@@ -11,18 +11,18 @@
           "brandNameToFormattedDeviceMap": {
             "ASUS Meet Compute System (Intel 10th Gen)": {
               "architecture": "X86_64",
-              "kernel": "5.15.186",
+              "kernel": "5.15.195",
               "platform": "Cometlake-U"
             },
             "CTL Meet Compute System (Intel 10th Gen)": {
               "architecture": "X86_64",
-              "kernel": "5.15.186",
+              "kernel": "5.15.195",
               "platform": "Cometlake-U"
             }
           },
           "brandNames": [
-            "CTL Meet Compute System (Intel 10th Gen)",
-            "ASUS Meet Compute System (Intel 10th Gen)"
+            "ASUS Meet Compute System (Intel 10th Gen)",
+            "CTL Meet Compute System (Intel 10th Gen)"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -37,9 +37,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "148.0.7729.0_pre1597507",
+            "chromeVersion": "148.0.7731.0_pre1598301",
             "comparedToMostCommon": 0,
-            "version": "16614.0.0"
+            "version": "16615.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.201",
@@ -61,7 +61,7 @@
           "brandNameToFormattedDeviceMap": {
             "Meet Compute System - Series One (Intel 10th Gen)": {
               "architecture": "X86_64",
-              "kernel": "5.15.186",
+              "kernel": "5.15.195",
               "platform": "Cometlake-U"
             }
           },
@@ -81,9 +81,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "148.0.7729.0_pre1597507",
+            "chromeVersion": "148.0.7731.0_pre1598301",
             "comparedToMostCommon": 0,
-            "version": "16614.0.0"
+            "version": "16615.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.201",
@@ -105,7 +105,7 @@
           "brandNameToFormattedDeviceMap": {
             "Series One Board 65": {
               "architecture": "X86_64",
-              "kernel": "5.15.186",
+              "kernel": "5.15.195",
               "platform": "Cometlake-U"
             }
           },
@@ -125,9 +125,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "148.0.7729.0_pre1597507",
+            "chromeVersion": "148.0.7731.0_pre1598301",
             "comparedToMostCommon": 0,
-            "version": "16614.0.0"
+            "version": "16615.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.201",
@@ -149,7 +149,7 @@
           "brandNameToFormattedDeviceMap": {
             "Series One Desk 27": {
               "architecture": "X86_64",
-              "kernel": "5.15.186",
+              "kernel": "5.15.195",
               "platform": "Cometlake-U"
             }
           },
@@ -169,9 +169,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "148.0.7729.0_pre1597507",
+            "chromeVersion": "148.0.7731.0_pre1598301",
             "comparedToMostCommon": 0,
-            "version": "16614.0.0"
+            "version": "16615.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.201",
@@ -273,9 +273,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "148.0.7729.0_pre1597507",
+            "chromeVersion": "148.0.7731.0_pre1598301",
             "comparedToMostCommon": 0,
-            "version": "16614.0.0"
+            "version": "16615.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.201",
@@ -323,9 +323,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "148.0.7729.0_pre1597507",
+            "chromeVersion": "148.0.7731.0_pre1598301",
             "comparedToMostCommon": 0,
-            "version": "16614.0.0"
+            "version": "16615.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.201",
@@ -371,9 +371,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "148.0.7729.0_pre1597507",
+            "chromeVersion": "148.0.7731.0_pre1598301",
             "comparedToMostCommon": 0,
-            "version": "16614.0.0"
+            "version": "16615.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.201",
@@ -409,8 +409,8 @@
             }
           },
           "brandNames": [
-            "ASUS Meet Compute System",
-            "CTL Meet Compute System"
+            "CTL Meet Compute System",
+            "ASUS Meet Compute System"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -425,9 +425,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "148.0.7729.0_pre1597507",
+            "chromeVersion": "148.0.7731.0_pre1598301",
             "comparedToMostCommon": 0,
-            "version": "16614.0.0"
+            "version": "16615.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.201",
@@ -469,9 +469,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "148.0.7729.0_pre1597507",
+            "chromeVersion": "148.0.7731.0_pre1598301",
             "comparedToMostCommon": 0,
-            "version": "16614.0.0"
+            "version": "16615.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.201",
@@ -504,9 +504,9 @@
             "version": "16295.54.42"
           },
           "servingCanary": {
-            "chromeVersion": "148.0.7729.0_pre1597507",
+            "chromeVersion": "148.0.7731.0_pre1598301",
             "comparedToMostCommon": 0,
-            "version": "16614.0.0"
+            "version": "16615.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.201",
@@ -667,7 +667,7 @@
       }
     }
   },
-  "creationDate": "2026-03-13",
+  "creationDate": "2026-03-14",
   "creationTime": "16:49 PT",
   "enterprisePins": [
     138,
