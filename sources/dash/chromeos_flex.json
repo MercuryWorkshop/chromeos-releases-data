@@ -17,9 +17,9 @@
         "version": "16503.76.0"
       },
       "145": {
-        "chromeVersion": "145.0.7632.165",
+        "chromeVersion": "145.0.7632.216",
         "comparedToMostCommon": 0,
-        "version": "16552.53.0"
+        "version": "16552.59.0"
       },
       "brandNameToFormattedDeviceMap": {
         "ChromeOS Flex": {
@@ -45,9 +45,9 @@
         "145": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16552.53.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip"
       },
       "servingBeta": {
-        "chromeVersion": "146.0.7680.143",
+        "chromeVersion": "146.0.7680.152",
         "comparedToMostCommon": 0,
-        "version": "16581.29.0"
+        "version": "16581.37.0"
       },
       "servingCanary": {
         "chromeVersion": "116.0.5802.0",
@@ -76,7 +76,7 @@
       }
     }
   },
-  "creationDate": "2026-03-17",
+  "creationDate": "2026-03-18",
   "creationTime": "16:33 PT",
   "enterprisePins": [
     145,
