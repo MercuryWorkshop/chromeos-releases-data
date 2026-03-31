@@ -37,9 +37,9 @@
             "version": "16295.54.47"
           },
           "servingCanary": {
-            "chromeVersion": "148.0.7759.0_pre1606500",
+            "chromeVersion": "148.0.7760.0_pre1606617",
             "comparedToMostCommon": 0,
-            "version": "16630.0.0"
+            "version": "16631.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.202",
@@ -81,9 +81,9 @@
             "version": "16295.54.47"
           },
           "servingCanary": {
-            "chromeVersion": "148.0.7759.0_pre1606500",
+            "chromeVersion": "148.0.7760.0_pre1606617",
             "comparedToMostCommon": 0,
-            "version": "16630.0.0"
+            "version": "16631.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.202",
@@ -125,9 +125,9 @@
             "version": "16295.54.47"
           },
           "servingCanary": {
-            "chromeVersion": "148.0.7759.0_pre1606500",
+            "chromeVersion": "148.0.7760.0_pre1606617",
             "comparedToMostCommon": 0,
-            "version": "16630.0.0"
+            "version": "16631.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.202",
@@ -169,9 +169,9 @@
             "version": "16295.54.47"
           },
           "servingCanary": {
-            "chromeVersion": "148.0.7759.0_pre1606500",
+            "chromeVersion": "148.0.7760.0_pre1606617",
             "comparedToMostCommon": 0,
-            "version": "16630.0.0"
+            "version": "16631.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.202",
@@ -273,9 +273,9 @@
             "version": "16295.54.47"
           },
           "servingCanary": {
-            "chromeVersion": "148.0.7759.0_pre1606500",
+            "chromeVersion": "148.0.7760.0_pre1606617",
             "comparedToMostCommon": 0,
-            "version": "16630.0.0"
+            "version": "16631.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.202",
@@ -307,8 +307,8 @@
             }
           },
           "brandNames": [
-            "CTL Meet Compute System (Intel 13th Gen)",
-            "ASUS Meet Compute System (Intel 13th Gen)"
+            "ASUS Meet Compute System (Intel 13th Gen)",
+            "CTL Meet Compute System (Intel 13th Gen)"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -323,9 +323,9 @@
             "version": "16295.54.47"
           },
           "servingCanary": {
-            "chromeVersion": "148.0.7759.0_pre1606500",
+            "chromeVersion": "148.0.7760.0_pre1606617",
             "comparedToMostCommon": 0,
-            "version": "16630.0.0"
+            "version": "16631.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.202",
@@ -371,9 +371,9 @@
             "version": "16295.54.47"
           },
           "servingCanary": {
-            "chromeVersion": "148.0.7759.0_pre1606500",
+            "chromeVersion": "148.0.7760.0_pre1606617",
             "comparedToMostCommon": 0,
-            "version": "16630.0.0"
+            "version": "16631.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.202",
@@ -425,9 +425,9 @@
             "version": "16295.54.47"
           },
           "servingCanary": {
-            "chromeVersion": "148.0.7759.0_pre1606500",
+            "chromeVersion": "148.0.7760.0_pre1606617",
             "comparedToMostCommon": 0,
-            "version": "16630.0.0"
+            "version": "16631.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.202",
@@ -470,7 +470,7 @@
           },
           "servingCanary": {
             "chromeVersion": "148.0.7759.0_pre1606500",
-            "comparedToMostCommon": 0,
+            "comparedToMostCommon": 3,
             "version": "16630.0.0"
           },
           "servingDev": {
@@ -505,7 +505,7 @@
           },
           "servingCanary": {
             "chromeVersion": "148.0.7759.0_pre1606500",
-            "comparedToMostCommon": 0,
+            "comparedToMostCommon": 3,
             "version": "16630.0.0"
           },
           "servingDev": {
@@ -667,8 +667,8 @@
       }
     }
   },
-  "creationDate": "2026-03-29",
-  "creationTime": "16:51 PT",
+  "creationDate": "2026-03-30",
+  "creationTime": "20:51 PT",
   "enterprisePins": [
     138,
     90,
