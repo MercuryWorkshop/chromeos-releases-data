@@ -719,13 +719,13 @@
             }
           },
           "brandNames": [
-            "Satsuki Chromebox OPS / Satsuki Chromebox Enterprise OPS",
-            "ViewSonic Chromebox OPS",
-            "Bujia Development Product",
             "AOPEN Chromebox OPS / AOPEN Chromebox Enterprise OPS",
             "Promethean Chromebox OPS",
-            "SMART Chromebox OPS CB13-i3 / SMART Chromebox OPS CB13-i5",
-            "IMAGO Chromebox OPS"
+            "IMAGO Chromebox OPS",
+            "Satsuki Chromebox OPS / Satsuki Chromebox Enterprise OPS",
+            "Bujia Development Product",
+            "ViewSonic Chromebox OPS",
+            "SMART Chromebox OPS CB13-i3 / SMART Chromebox OPS CB13-i5"
           ],
           "fsiMilestoneNumber": "M130",
           "isAue": false,
@@ -1068,11 +1068,11 @@
             }
           },
           "brandNames": [
-            "Lisbon Development Product",
-            "CTL Chromebox CBx3 / CTL Chromebox Enterprise CBx3",
             "Centerm Chromebox D661 / Centerm Chromebox Enterprise D661",
+            "Promethean Chromebox 3",
+            "Lisbon Development Product",
             "AOPEN Chromebox 4 / AOPEN Chromebox Enterprise 4",
-            "Promethean Chromebox 3"
+            "CTL Chromebox CBx3 / CTL Chromebox Enterprise CBx3"
           ],
           "fsiMilestoneNumber": "M114",
           "isAue": false,
@@ -2154,8 +2154,8 @@
             }
           },
           "brandNames": [
-            "Acer Chromebook Spin 714  -- CP714-1WN / Acer Chromebook Enterprise Spin 714 -- CP714-1WN",
-            "Acer Chromebook Spin 714  -- CP714-2WN / Acer Chromebook Enterprise Spin 714 -- CP714-2WN"
+            "Acer Chromebook Spin 714  -- CP714-2WN / Acer Chromebook Enterprise Spin 714 -- CP714-2WN",
+            "Acer Chromebook Spin 714  -- CP714-1WN / Acer Chromebook Enterprise Spin 714 -- CP714-1WN"
           ],
           "fsiMilestoneNumber": "M101",
           "isAue": false,
@@ -2239,8 +2239,8 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebook Plus CX34 CX3402CBA",
-            "ASUS Chromebook Plus CX34 CX3402CVA"
+            "ASUS Chromebook Plus CX34 CX3402CVA",
+            "ASUS Chromebook Plus CX34 CX3402CBA"
           ],
           "fsiMilestoneNumber": "M115",
           "isAue": false,
@@ -2324,8 +2324,8 @@
             }
           },
           "brandNames": [
-            "Asus Chromebook Vibe CX34 Flip (CX3401) / Asus Chromebook Vibe CX34 Flip (CX3401FBA)",
-            "ASUS Chromebook CX34 Flip (CX3401) / ASUS Chromebook CX34 Flip (CX3401FBA) / ASUS Chromebook Enterprise CB34 Flip (CB3401) /  ASUS Chromebook Enterprise CX34 Flip (CX3401)"
+            "ASUS Chromebook CX34 Flip (CX3401) / ASUS Chromebook CX34 Flip (CX3401FBA) / ASUS Chromebook Enterprise CB34 Flip (CB3401) /  ASUS Chromebook Enterprise CX34 Flip (CX3401)",
+            "Asus Chromebook Vibe CX34 Flip (CX3401) / Asus Chromebook Vibe CX34 Flip (CX3401FBA)"
           ],
           "fsiMilestoneNumber": "M106",
           "isAue": false,
@@ -2565,8 +2565,8 @@
             }
           },
           "brandNames": [
-            "Acer Chromebook 516 GE (CBG516-1H)",
-            "Acer Chromebook Plus 516 GE (CBG516-2H)"
+            "Acer Chromebook Plus 516 GE (CBG516-2H)",
+            "Acer Chromebook 516 GE (CBG516-1H)"
           ],
           "fsiMilestoneNumber": "M105",
           "isAue": false,
@@ -2820,8 +2820,8 @@
           "brandNames": [
             "Lenovo Flex 5i Chromebook (14\", 7)",
             "Lenovo 5i Chromebook 16\"/IdeaPad 5i Chromebook (16\", 7)",
-            "IdeaPad Flex 5i Chromebook Plus (14\", 7)",
-            "Lenovo Flex 5i Chromebook 14\"/IdeaPad Flex 5i Chromebook (14\", 7)"
+            "Lenovo Flex 5i Chromebook 14\"/IdeaPad Flex 5i Chromebook (14\", 7)",
+            "IdeaPad Flex 5i Chromebook Plus (14\", 7)"
           ],
           "fsiMilestoneNumber": "M100",
           "isAue": false,
@@ -3915,8 +3915,8 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebook CX1100CNA",
-            "ASUS Chromebook C223"
+            "ASUS Chromebook C223",
+            "ASUS Chromebook CX1100CNA"
           ],
           "fsiMilestoneNumber": "M67",
           "isAue": false,
@@ -4051,11 +4051,11 @@
             }
           },
           "brandNames": [
-            "Edxis Chromebook 11",
-            "CTL chromebook NL7",
             "Multilaser Chromebook M11C-PC912",
-            "Lanix Chromebook C116",
-            "Positivo Chromebook N2110"
+            "CTL chromebook NL7",
+            "Edxis Chromebook 11",
+            "Positivo Chromebook N2110",
+            "Lanix Chromebook C116"
           ],
           "fsiMilestoneNumber": "M66",
           "isAue": false,
@@ -4137,11 +4137,11 @@
             }
           },
           "brandNames": [
+            "Edxis Chromebook X11",
             "Viglen Chromebook 360C",
             "Positivo Chromebook N2112",
-            "CTL Chromebook NL7 / NL7T-360 / NL7TW-360",
-            "Edxis Chromebook X11",
             "Lanix Chromebook C116",
+            "CTL Chromebook NL7 / NL7T-360 / NL7TW-360",
             "Multilaser Chromebook M11HC-PC911"
           ],
           "fsiMilestoneNumber": "M67",
@@ -4570,9 +4570,9 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebook C403",
+            "ASUS Chromebook CX1400CNA",
             "ASUS Chromebook C423",
-            "ASUS Chromebook CX1400CNA"
+            "ASUS Chromebook C403"
           ],
           "fsiMilestoneNumber": "M68",
           "isAue": false,
@@ -4805,10 +4805,10 @@
           },
           "brandNames": [
             "CTL Chromebook J41 / J41T",
-            "Sector 5 E3 Chromebook",
             "Viglen Chromebook 11C",
-            "PCmerge Chromebook AL116",
-            "Prowise Chromebook Eduline"
+            "Sector 5 E3 Chromebook",
+            "Prowise Chromebook Eduline",
+            "PCmerge Chromebook AL116"
           ],
           "fsiMilestoneNumber": "M66",
           "isAue": false,
@@ -5275,8 +5275,8 @@
             }
           },
           "brandNames": [
-            "ponyta360",
-            "Dynabook Chromebook C11"
+            "Dynabook Chromebook C11",
+            "ponyta360"
           ],
           "fsiMilestoneNumber": "M142",
           "isAue": false,
@@ -6341,10 +6341,10 @@
           },
           "brandNames": [
             "Allied Chromebook 11 N5100EO-864180 /  Allied Chromebook 11 N4500EO-432180 /  Allied Chromebook 11 N5100EO-432180",
-            "Positivo Chromebook N2320",
-            "DINATECH Gen1 Chromebook  SG20JL1C",
             "Multilaser Chromebook M11C-PC919",
-            "Evolve III Chromebook 11 E1"
+            "DINATECH Gen1 Chromebook  SG20JL1C",
+            "Evolve III Chromebook 11 E1",
+            "Positivo Chromebook N2320"
           ],
           "fsiMilestoneNumber": "M105",
           "isAue": false,
@@ -6584,8 +6584,8 @@
             }
           },
           "brandNames": [
-            "Lenovo Chromebook (11\", 9) / Lenovo Chrome 11IJL9",
-            "Lenovo 100e Chromebook Gen 3 (Intel)"
+            "Lenovo 100e Chromebook Gen 3 (Intel)",
+            "Lenovo Chromebook (11\", 9) / Lenovo Chrome 11IJL9"
           ],
           "fsiMilestoneNumber": "M99",
           "isAue": false,
@@ -6669,8 +6669,8 @@
             }
           },
           "brandNames": [
-            "Lenovo 500e Chromebook Gen 3",
-            "Lenovo Flex 3i-11 Chromebook / IdeaPad Flex 3i Chromebook (11\", 6)"
+            "Lenovo Flex 3i-11 Chromebook / IdeaPad Flex 3i Chromebook (11\", 6)",
+            "Lenovo 500e Chromebook Gen 3"
           ],
           "fsiMilestoneNumber": "M90",
           "isAue": false,
@@ -8137,14 +8137,14 @@
             }
           },
           "brandNames": [
-            "Positivo Chromebook N2310",
-            "ADVAN Chromebook 116J",
-            "Centerm Chromebook M610",
-            "CTL Chromebook NL72",
             "Poin2 Chromebook 11B",
+            "Positivo Chromebook N2310",
             "Edxis Chromebook 11 (S30-C) / Edxis Chromebook 11 (S30-CT)",
+            "CTL Chromebook NL72",
+            "Multilaser Chromebook M11C-PC916 (clamshell) / Multilaser Chromebook M11HC-PC917 (convertible)",
+            "Centerm Chromebook M610",
             "Zyrex Chromebook M432-64/Zyrex Chromebook M432-11",
-            "Multilaser Chromebook M11C-PC916 (clamshell) / Multilaser Chromebook M11HC-PC917 (convertible)"
+            "ADVAN Chromebook 116J"
           ],
           "fsiMilestoneNumber": "M93",
           "isAue": false,
@@ -8226,6 +8226,12 @@
               "kernel": "6.6.52",
               "platform": "Jasperlake/JSL+"
             },
+            "Multilaser Chromebook M11HC-PC917": {
+              "architecture": "X86_64",
+              "formFactor": "Chromebook - Convertible",
+              "kernel": "6.6.52",
+              "platform": "Jasperlake/JSL+"
+            },
             "Poin2 Chromebook 11E": {
               "architecture": "X86_64",
               "formFactor": "Chromebook - Convertible",
@@ -8240,10 +8246,11 @@
             }
           },
           "brandNames": [
-            "Positivo Chromebook N2312",
-            "Poin2 Chromebook 11E",
             "CTL Chromebook NL72T",
-            "LG Chromebook 11TC50Q/11TQ50Q"
+            "Multilaser Chromebook M11HC-PC917",
+            "Positivo Chromebook N2312",
+            "LG Chromebook 11TC50Q/11TQ50Q",
+            "Poin2 Chromebook 11E"
           ],
           "fsiMilestoneNumber": "M94",
           "isAue": false,
@@ -9035,9 +9042,9 @@
             }
           },
           "brandNames": [
-            "Packard Bell Chromebook 314(PCB314-2 , PCB314-2T)",
+            "Acer Chromebook 314 (CB314-3H , CB314-3HT, C934, C934T)",
             "Packard Bell Chromebook 314",
-            "Acer Chromebook 314 (CB314-3H , CB314-3HT, C934, C934T)"
+            "Packard Bell Chromebook 314(PCB314-2 , PCB314-2T)"
           ],
           "fsiMilestoneNumber": "M99",
           "isAue": false,
@@ -9361,9 +9368,9 @@
             }
           },
           "brandNames": [
-            "Acer Chromebook 314 / Acer Chromebook 314 CBOA314-1H",
             "Gateway Chromebook 314",
-            "CA14J2"
+            "CA14J2",
+            "Acer Chromebook 314 / Acer Chromebook 314 CBOA314-1H"
           ],
           "fsiMilestoneNumber": "M122",
           "isAue": false,
@@ -9568,14 +9575,14 @@
             }
           },
           "brandNames": [
-            "CTL Chromebook PX11EG",
-            "Acer Chromebook 311(CO731)",
-            "Multilaser Chromebook M11C-PC924",
             "Edxis E-Lite Chromebook 11",
+            "Multilaser Chromebook M11C-PC924",
+            "Acer Chromebook 311(CO731)",
+            "CA11J2 45Wh",
+            "CTL Chromebook PX11EG",
             "CA11J2",
             "Gateway Chromebook 311",
-            "Zyrex Chromebook M432-2P / Zyrex Chromebook M432-2PT",
-            "CA11J2 45Wh"
+            "Zyrex Chromebook M432-2P / Zyrex Chromebook M432-2PT"
           ],
           "fsiMilestoneNumber": "M119",
           "isAue": false,
@@ -9677,11 +9684,11 @@
             }
           },
           "brandNames": [
-            "Allied Chromebook 11 N5100P",
-            "Zyrex Chromebook M432-2",
             "Axioo Chromebook P11/Axioo Chromebook P432",
+            "Zyrex Chromebook M432-2",
+            "CTL Chromebook PX11E",
             "SPC Chromebook Z1 Mini",
-            "CTL Chromebook PX11E"
+            "Allied Chromebook 11 N5100P"
           ],
           "fsiMilestoneNumber": "M92",
           "isAue": false,
@@ -9783,10 +9790,10 @@
             }
           },
           "brandNames": [
-            "Edxis E-Lite Chromebook 14",
-            "Arai Nimbus S1 Chromebook Enterprise / Arai Nimbus S2 Chromebook Enterprise",
-            "CTL Chromebook Enterprise/PX14E/PX14EX/PX14EXT",
             "Gateway Chromebook 14",
+            "CTL Chromebook Enterprise/PX14E/PX14EX/PX14EXT",
+            "Arai Nimbus S1 Chromebook Enterprise / Arai Nimbus S2 Chromebook Enterprise",
+            "Edxis E-Lite Chromebook 14",
             "Axioo Chromebook P14"
           ],
           "fsiMilestoneNumber": "M98",
@@ -10586,19 +10593,19 @@
         }
       },
       "brandNames": [
-        "M&A Chromebook",
-        "Education Chromebook",
+        "Senkatel C1101 Chromebook",
         "Lenovo N21 Chromebook",
-        "JP Sa Couto Chromebook",
-        "ASI Chromebook",
+        "Edxis Education Chromebook (NL6)",
         "eduGear Chromebook R",
         "Crambo Chromebook",
-        "Edxis Education Chromebook (NL6)",
-        "Videonet Chromebook",
+        "True IDC Chromebook",
+        "ASI Chromebook",
         "RGS Education Chromebook",
+        "Education Chromebook",
         "CTL N6 Education Chromebook",
-        "Senkatel C1101 Chromebook",
-        "True IDC Chromebook"
+        "M&A Chromebook",
+        "JP Sa Couto Chromebook",
+        "Videonet Chromebook"
       ],
       "fsiMilestoneNumber": "M35",
       "isAue": true,
@@ -10725,8 +10732,8 @@
       },
       "brandNames": [
         "Consumer Chromebook",
-        "HEXA Chromebook Pi",
         "Edxis Chromebook",
+        "HEXA Chromebook Pi",
         "Bobicus Chromebook 11"
       ],
       "fsiMilestoneNumber": "M36",
@@ -10834,8 +10841,8 @@
             }
           },
           "brandNames": [
-            "AOpen Chromebox Commercial 2",
-            "Newline Chromebox A10"
+            "Newline Chromebox A10",
+            "AOpen Chromebox Commercial 2"
           ],
           "fsiMilestoneNumber": "M73",
           "isAue": false,
@@ -11071,10 +11078,10 @@
           },
           "brandNames": [
             "OWG",
-            "SMART Chromebox G3",
             "CTL Chromebox CBx1",
             "Promethean Chromebox",
-            "ViewSonic NMP660 Chromebox"
+            "ViewSonic NMP660 Chromebox",
+            "SMART Chromebox G3"
           ],
           "fsiMilestoneNumber": "M65",
           "isAue": false,
@@ -11323,8 +11330,8 @@
         }
       },
       "brandNames": [
-        "Acer Chromebook 11 (CB3-131, C735)",
-        "Acer Chromebook 11 (CB3-111, C730, C730E)"
+        "Acer Chromebook 11 (CB3-111, C730, C730E)",
+        "Acer Chromebook 11 (CB3-131, C735)"
       ],
       "fsiMilestoneNumber": "M36",
       "isAue": true,
@@ -11482,8 +11489,8 @@
             }
           },
           "brandNames": [
-            "HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE",
-            "HP Chromebook 11A G6 EE / HP Chromebook 11A G8 EE"
+            "HP Chromebook 11A G6 EE / HP Chromebook 11A G8 EE",
+            "HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE"
           ],
           "fsiMilestoneNumber": "M71",
           "isAue": false,
@@ -11879,8 +11886,8 @@
             }
           },
           "brandNames": [
-            "IdeaPad 3 Chromebook (11\", 5)",
-            "100e Gen 2 AST"
+            "100e Gen 2 AST",
+            "IdeaPad 3 Chromebook (11\", 5)"
           ],
           "fsiMilestoneNumber": "M80",
           "isAue": false,
@@ -11964,8 +11971,8 @@
             }
           },
           "brandNames": [
-            "Lenovo 300e Gen 2 AST",
-            "NEC Chromebook Y1 Gen2A"
+            "NEC Chromebook Y1 Gen2A",
+            "Lenovo 300e Gen 2 AST"
           ],
           "fsiMilestoneNumber": "M80",
           "isAue": false,
@@ -12297,9 +12304,9 @@
             }
           },
           "brandNames": [
-            "Lenovo 300e/N23 Yoga/Flex 11 Chromebook",
             "Prowise Chromebook Eduline / Prowise Chromebook Eduline 360",
-            "Poin2 Chromebook 11C"
+            "Poin2 Chromebook 11C",
+            "Lenovo 300e/N23 Yoga/Flex 11 Chromebook"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -15250,8 +15257,8 @@
         }
       },
       "brandNames": [
-        "LG Chromebase (22CB25S)",
-        "LG Chromebase (22CV241)"
+        "LG Chromebase (22CV241)",
+        "LG Chromebase (22CB25S)"
       ],
       "fsiMilestoneNumber": "M34",
       "isAue": true,
@@ -16755,8 +16762,8 @@
             }
           },
           "brandNames": [
-            "Acer Chromebook 314(CB314-4H / CB314-4HT)",
             "Acer Chromebook Plus 514(CB514-4H/ CB514-4HT), Acer Chromebook Plus Enterprise 514(CBE594-1/ CBE594-1T)",
+            "Acer Chromebook 314(CB314-4H / CB314-4HT)",
             "Acer Chromebook 314(C936 /C936T /C936-TCO /C936T-TCO)"
           ],
           "fsiMilestoneNumber": "M114",
@@ -17223,8 +17230,8 @@
             }
           },
           "brandNames": [
-            "Acer Chromebook Spin 311",
-            "CA31AC"
+            "CA31AC",
+            "Acer Chromebook Spin 311"
           ],
           "fsiMilestoneNumber": "M133",
           "isAue": false,
@@ -17523,12 +17530,12 @@
             }
           },
           "brandNames": [
-            "Positivo Chromebook N2422",
+            "Multi Chromebook M11HC-PC925",
             "Gothrax",
-            "Centerm Chromebook M612B",
-            "aiwa Chromebook S11",
             "Acer Chromebook Spin 311(ROA732LTN)",
-            "Multi Chromebook M11HC-PC925"
+            "Positivo Chromebook N2422",
+            "Centerm Chromebook M612B",
+            "aiwa Chromebook S11"
           ],
           "fsiMilestoneNumber": "M120",
           "isAue": false,
@@ -17625,9 +17632,9 @@
           },
           "brandNames": [
             "Multi Chromebook M11C-PC926",
+            "Centerm Chromebook M612A",
             "Positivo Chromebook N2420",
-            "GothraxCS",
-            "Centerm Chromebook M612A"
+            "GothraxCS"
           ],
           "fsiMilestoneNumber": "M123",
           "isAue": false,
@@ -17717,9 +17724,9 @@
             }
           },
           "brandNames": [
+            "Acer Chromebook 311 (COA732/COA732T/CB311/CB311T)",
             "CTL Chromebook PX121E, CTL Chromebook PX112CT-L, CTL Chromebook PX112C-L",
-            "Pegatron CA31T",
-            "Acer Chromebook 311 (COA732/COA732T/CB311/CB311T)"
+            "Pegatron CA31T"
           ],
           "fsiMilestoneNumber": "M136",
           "isAue": false,
@@ -17809,9 +17816,9 @@
             }
           },
           "brandNames": [
-            "LG Chromebook 2",
             "Pegatron CA32TC",
-            "Poin2 Chromebook 12P"
+            "Poin2 Chromebook 12P",
+            "LG Chromebook 2"
           ],
           "fsiMilestoneNumber": "M138",
           "isAue": false,
@@ -17889,10 +17896,10 @@
             }
           },
           "brandNames": [
+            "Hideo CBX Development Project",
             "Centerm Chromebook M621 / Centerm Chromebook Enterprise M621",
-            "Centerm Chromebook Plus M621 / Centerm Chromebook Plus Enterprise M621",
             "Hideo non-CBX Development Project",
-            "Hideo CBX Development Project"
+            "Centerm Chromebook Plus M621 / Centerm Chromebook Plus Enterprise M621"
           ],
           "fsiMilestoneNumber": "M124",
           "isAue": false,
@@ -17984,10 +17991,10 @@
             }
           },
           "brandNames": [
-            "HP Chromebook x360 14b-cd0",
+            "HP Chromebook Plus x360 14b-cd0",
             "HP Chromebook Plus x360 14b-cc0",
             "HP Chromebook x360 14b-cc0",
-            "HP Chromebook Plus x360 14b-cd0"
+            "HP Chromebook x360 14b-cd0"
           ],
           "fsiMilestoneNumber": "M120",
           "isAue": false,
@@ -18138,8 +18145,8 @@
             }
           },
           "brandNames": [
-            "HP Chromebook Plus 14 inch 14c-na0xxx",
-            "HP Chromebook 14 inch 14a-nk0xxx"
+            "HP Chromebook 14 inch 14a-nk0xxx",
+            "HP Chromebook Plus 14 inch 14c-na0xxx"
           ],
           "fsiMilestoneNumber": "M143",
           "isAue": false,
@@ -18736,8 +18743,8 @@
             }
           },
           "brandNames": [
-            "Lenovo Chromebook Plus 2-in-1 14ITN10",
-            "Lenovo Chromebook 2-in-1 14ITN10"
+            "Lenovo Chromebook 2-in-1 14ITN10",
+            "Lenovo Chromebook Plus 2-in-1 14ITN10"
           ],
           "fsiMilestoneNumber": "M137",
           "isAue": false,
@@ -18820,8 +18827,8 @@
             }
           },
           "brandNames": [
-            "Lenovo Chromebook Plus (15\", 10)",
-            "Lenovo Chromebook (15\", 10)"
+            "Lenovo Chromebook (15\", 10)",
+            "Lenovo Chromebook Plus (15\", 10)"
           ],
           "fsiMilestoneNumber": "M142",
           "isAue": false,
@@ -18906,9 +18913,9 @@
             }
           },
           "brandNames": [
-            "Lenovo 14e Chromebook Gen 3",
             "Lenovo 14e Chromebook Gen 3/Lenovo Slim 3i Chromebook 14\"",
             "Lenovo 14e Chromebook Gen 3 CB 5",
+            "Lenovo 14e Chromebook Gen 3",
             "IdeaPad Slim 3i Chromebook Plus (14\" Intel)"
           ],
           "fsiMilestoneNumber": "M110",
@@ -19065,9 +19072,9 @@
             }
           },
           "brandNames": [
+            "Edxis Chromebook 11 (S30-C25)",
             "CTL Chromebook NL73",
-            "LI7A",
-            "Edxis Chromebook 11 (S30-C25)"
+            "LI7A"
           ],
           "fsiMilestoneNumber": "M121",
           "isAue": false,
@@ -19157,9 +19164,9 @@
             }
           },
           "brandNames": [
+            "LI7C",
             "CTL Chromebook NL73 Gen 2; CTL Chromebook NL73-8 Gen 2",
-            "Chromebook M11C-PC928",
-            "LI7C"
+            "Chromebook M11C-PC928"
           ],
           "fsiMilestoneNumber": "M135",
           "isAue": false,
@@ -19256,9 +19263,9 @@
           },
           "brandNames": [
             "mouse Chromebook U1-DAU01GY-A",
+            "CTL Chromebook NL73T/CTL Chromebook NL73TW",
             "LI7B",
-            "Edxis Chromebook 11 (S30-X25)",
-            "CTL Chromebook NL73T/CTL Chromebook NL73TW"
+            "Edxis Chromebook 11 (S30-X25)"
           ],
           "fsiMilestoneNumber": "M121",
           "isAue": false,
@@ -19348,9 +19355,9 @@
             }
           },
           "brandNames": [
-            "LI7D",
             "CTL Chromebook NL73T Gen 2, CTL Chromebook NL73TWB Gen 2, CTL Chromebook NL73TW Gen 2",
-            "Chromebook M11HC-PC927"
+            "Chromebook M11HC-PC927",
+            "LI7D"
           ],
           "fsiMilestoneNumber": "M135",
           "isAue": false,
@@ -20136,8 +20143,8 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebook CX15 (CX1505CTA) / ASUS Chromebook Enterprise CX15 (CX1505CTA) / ASUS Chromebook CB15 (CB1505CTA)",
-            "ASUS Chromebook Plus CX15 (CX1505CTA) / ASUS Chromebook Plus Enterprise CX15 (CX1505CTA) / ASUS Chromebook Plus CB15 (CB1505CTA)"
+            "ASUS Chromebook Plus CX15 (CX1505CTA) / ASUS Chromebook Plus Enterprise CX15 (CX1505CTA) / ASUS Chromebook Plus CB15 (CB1505CTA)",
+            "ASUS Chromebook CX15 (CX1505CTA) / ASUS Chromebook Enterprise CX15 (CX1505CTA) / ASUS Chromebook CB15 (CB1505CTA)"
           ],
           "fsiMilestoneNumber": "M133",
           "isAue": false,
@@ -20221,8 +20228,8 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebook CX14 (CX1405CTA) / ASUS Chromebook Enterprise CX14 (CX1405CTA) / ASUS Chromebook CB14 (CB1405CTA)",
-            "ASUS Chromebook Plus CX14 (CX1405CTA) / ASUS Chromebook Plus Enterprise CX14 (CX1405CTA) / ASUS Chromebook Plus CB14 (CB1405CTA)"
+            "ASUS Chromebook Plus CX14 (CX1405CTA) / ASUS Chromebook Plus Enterprise CX14 (CX1405CTA) / ASUS Chromebook Plus CB14 (CB1405CTA)",
+            "ASUS Chromebook CX14 (CX1405CTA) / ASUS Chromebook Enterprise CX14 (CX1405CTA) / ASUS Chromebook CB14 (CB1405CTA)"
           ],
           "fsiMilestoneNumber": "M133",
           "isAue": false,
@@ -20765,8 +20772,8 @@
             }
           },
           "brandNames": [
-            "HP Chromebook 14a-nf0xxx",
-            "HP Chromebook Plus 14a-nf0xxx"
+            "HP Chromebook Plus 14a-nf0xxx",
+            "HP Chromebook 14a-nf0xxx"
           ],
           "fsiMilestoneNumber": "M120",
           "isAue": false,
@@ -20934,8 +20941,8 @@
             }
           },
           "brandNames": [
-            "HP Chromebook 15.6\"",
             "HP Chromebook Plus 15",
+            "HP Chromebook 15.6\"",
             "HP Chromebook 15.6\" 15w"
           ],
           "fsiMilestoneNumber": "M111",
@@ -21792,8 +21799,8 @@
             }
           },
           "brandNames": [
-            "Chromebook x360 14a-ca0",
-            "Chromebook x360 14b-ca0"
+            "Chromebook x360 14b-ca0",
+            "Chromebook x360 14a-ca0"
           ],
           "fsiMilestoneNumber": "M77",
           "isAue": false,
@@ -22443,9 +22450,9 @@
             }
           },
           "brandNames": [
-            "Packard Bell Chromebook 314 (PCB314)",
+            "Acer Chromebook 314 (CB314)",
             "Acer Chromebook 314 (C933L/LT)",
-            "Acer Chromebook 314 (CB314)"
+            "Packard Bell Chromebook 314 (PCB314)"
           ],
           "fsiMilestoneNumber": "M76",
           "isAue": false,
@@ -22614,8 +22621,8 @@
             }
           },
           "brandNames": [
-            "Poin2 Chromebook 11P",
-            "CTL Chromebook VX11,  CTL Chromebook VX11T"
+            "CTL Chromebook VX11,  CTL Chromebook VX11T",
+            "Poin2 Chromebook 11P"
           ],
           "fsiMilestoneNumber": "M83",
           "isAue": false,
@@ -22953,21 +22960,21 @@
             }
           },
           "brandNames": [
-            "ADVAN Chromebook 116",
-            "Axioo Chromebook",
-            "WS Chromebook A101",
-            "Multilaser Chromebook M11C-PC914",
-            "JOI Chromebook C100",
-            "SPC Chromebook X1 Mini",
-            "XO Chromebook",
-            "Poin2 Chromebook 11A",
-            "EVERCOSS Chromebook CB1/CB1A",
-            "Zyrex Chromebook M432-1/M432-128/Zyrex Chromebook 360-1",
-            "Pixart Rxart Chromebook",
-            "Sector 5 E4 LTE Chromebook",
             "Positivo Chromebook N2210",
+            "EVERCOSS Chromebook CB1/CB1A",
             "CTL Chromebook NL71/CT/LTE",
+            "Sector 5 E4 LTE Chromebook",
+            "Multilaser Chromebook M11C-PC914",
+            "XO Chromebook",
+            "SPC Chromebook X1 Mini",
+            "WS Chromebook A101",
+            "Poin2 Chromebook 11A",
+            "Zyrex Chromebook M432-1/M432-128/Zyrex Chromebook 360-1",
+            "Axioo Chromebook",
+            "Pixart Rxart Chromebook",
+            "JOI Chromebook C100",
             "Baicells Chromebook BB01",
+            "ADVAN Chromebook 116",
             "Edxis Chromebook 11 (S20-C)"
           ],
           "fsiMilestoneNumber": "M83",
@@ -23130,21 +23137,21 @@
             }
           },
           "brandNames": [
-            "WS Chromebook A101",
-            "Pixart Rxart Chromebook",
-            "Ascon Chromebook 11A",
-            "Zyrex Chromebook 360",
-            "CTL Chromebook NL71T/TW/TWB",
-            "Positivo Chromebook N2212",
             "JOI Chromebook C100",
-            "Poin2 Chromebook 11A",
-            "Axioo Chromebook 360",
-            "Baicells Chromebook BB01",
-            "ADVAN Chromebook 116",
             "SPC Chromebook X1 Mini",
-            "Edxis Chromebook 11 (S20-X)",
             "EVERCOSS Chromebook CB1A",
-            "Multilaser Chromebook M11HC-PC915"
+            "Baicells Chromebook BB01",
+            "Zyrex Chromebook 360",
+            "Pixart Rxart Chromebook",
+            "Edxis Chromebook 11 (S20-X)",
+            "Poin2 Chromebook 11A",
+            "WS Chromebook A101",
+            "Ascon Chromebook 11A",
+            "CTL Chromebook NL71T/TW/TWB",
+            "Multilaser Chromebook M11HC-PC915",
+            "ADVAN Chromebook 116",
+            "Axioo Chromebook 360",
+            "Positivo Chromebook N2212"
           ],
           "fsiMilestoneNumber": "M83",
           "isAue": false,
@@ -23799,11 +23806,11 @@
             }
           },
           "brandNames": [
-            "Lenovo 300e/500e Chromebook 2nd Gen",
-            "IdeaPad Flex 3 CB 11IGL05",
-            "NEC Chromebook Y1 Gen 2",
             "NEC Chromebook Y1",
-            "Lenovo Chromebook C340-11/300e/500e Chromebook 2nd Gen"
+            "NEC Chromebook Y1 Gen 2",
+            "IdeaPad Flex 3 CB 11IGL05",
+            "Lenovo Chromebook C340-11/300e/500e Chromebook 2nd Gen",
+            "Lenovo 300e/500e Chromebook 2nd Gen"
           ],
           "fsiMilestoneNumber": "M72",
           "isAue": false,
@@ -24966,8 +24973,8 @@
           },
           "brandNames": [
             "CTL Chromebox CBx2/Enterprise CBx2",
-            "Wyvern MobLab",
             "Promethean Chromebox 2",
+            "Wyvern MobLab",
             "ViewSonic NMP760 Chromebox"
           ],
           "fsiMilestoneNumber": "M86",
@@ -25582,10 +25589,10 @@
         }
       },
       "brandNames": [
-        "Lenovo N42 Chromebook",
-        "Lenovo N22 Chromebook",
         "Lenovo N23 Chromebook (Touch)",
-        "Lenovo N23 Chromebook"
+        "Lenovo N42 Chromebook",
+        "Lenovo N23 Chromebook",
+        "Lenovo N22 Chromebook"
       ],
       "fsiMilestoneNumber": "M48",
       "isAue": true,
@@ -25684,14 +25691,14 @@
         }
       },
       "brandNames": [
-        "CTL NL61 Chromebook",
-        "Positivo Chromebook C216B",
         "N/A",
-        "HP Chromebook 11 G5 EE",
+        "CTL NL61 Chromebook",
+        "Mecer V2 Chromebook",
         "EduGear Chromebook R",
+        "Positivo Chromebook C216B",
         "Acer Chromebook 11 N7 (C731, C731T)",
-        "Edxis Education Chromebook (NL6D)",
-        "Mecer V2 Chromebook"
+        "HP Chromebook 11 G5 EE",
+        "Edxis Education Chromebook (NL6D)"
       ],
       "fsiMilestoneNumber": "M52",
       "isAue": true,
@@ -26627,8 +26634,8 @@
             }
           },
           "brandNames": [
-            "Crystaldrift Development Product",
-            "SPC Chromebook V1"
+            "SPC Chromebook V1",
+            "Crystaldrift Development Product"
           ],
           "fsiMilestoneNumber": "M117",
           "isAue": false,
@@ -27684,8 +27691,8 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebook CM30",
-            "ASUS Chromebook CM3001"
+            "ASUS Chromebook CM3001",
+            "ASUS Chromebook CM30"
           ],
           "fsiMilestoneNumber": "M118",
           "isAue": false,
@@ -27847,8 +27854,8 @@
             }
           },
           "brandNames": [
-            "NB7605A",
-            "Acer Chromebook Tab 311, Acer Chromebook Enterprise Tab  311"
+            "Acer Chromebook Tab 311, Acer Chromebook Enterprise Tab  311",
+            "NB7605A"
           ],
           "fsiMilestoneNumber": "M134",
           "isAue": false,
@@ -28838,8 +28845,8 @@
             }
           },
           "brandNames": [
-            "Libera-Merdeka Chromebook C100/C110/C120/C150",
-            "Orbic Chromebook"
+            "Orbic Chromebook",
+            "Libera-Merdeka Chromebook C100/C110/C120/C150"
           ],
           "fsiMilestoneNumber": "M100",
           "isAue": false,
@@ -29187,10 +29194,10 @@
         }
       },
       "brandNames": [
-        "Medion Chromebook Akoya S2013",
-        "Lava Xolo Chromebook",
+        "True IDC Chromebook 11",
         "Haier Chromebook 11",
-        "True IDC Chromebook 11"
+        "Medion Chromebook Akoya S2013",
+        "Lava Xolo Chromebook"
       ],
       "fsiMilestoneNumber": "M41",
       "isAue": true,
@@ -29285,15 +29292,15 @@
         }
       },
       "brandNames": [
-        "HiSense Chromebook 11",
+        "Poin2 Chromebook 11",
+        "Positivo Chromebook CH1190",
         "Epik 11.6\" Chromebook  ELB1101",
         "NComputing Chromebook CX100",
-        "Positivo Chromebook CH1190",
-        "Poin2 Chromebook 11",
+        "EduGear Chromebook K",
+        "HiSense Chromebook 11",
         "Mecer Chromebook",
         "CTL J2 / J4 Chromebook",
-        "VideoNet Chromebook BL10",
-        "EduGear Chromebook K"
+        "VideoNet Chromebook BL10"
       ],
       "fsiMilestoneNumber": "M41",
       "isAue": true,
@@ -29433,15 +29440,15 @@
         }
       },
       "brandNames": [
-        "Haier Chromebook 11e",
-        "Prowise Chromebook Entryline",
-        "Lumos Education Chromebook",
-        "Nexian Chromebook 11.6\"",
-        "MEDION Chromebook S2015",
-        "PCMerge Chromebook PCM-116E/PCM-116EB",
-        "Viglen Chromebook 11",
         "Sector 5 E1 Rugged Chromebook",
-        "EduGear Chromebook M"
+        "Haier Chromebook 11e",
+        "Lumos Education Chromebook",
+        "MEDION Chromebook S2015",
+        "EduGear Chromebook M",
+        "Prowise Chromebook Entryline",
+        "PCMerge Chromebook PCM-116E/PCM-116EB",
+        "Nexian Chromebook 11.6\"",
+        "Viglen Chromebook 11"
       ],
       "fsiMilestoneNumber": "M41",
       "isAue": true,
@@ -30745,13 +30752,13 @@
         }
       },
       "brandNames": [
-        "Edugear CMT Chromebook",
-        "Haier Chromebook 11 C",
-        "PCMerge Chromebook PCM-116T-432B",
-        "Viglen Chromebook 360",
-        "Multilaser Chromebook M11C",
         "CTL J5 Chromebook",
-        "Prowise Chromebook Proline"
+        "Prowise Chromebook Proline",
+        "Edugear CMT Chromebook",
+        "Viglen Chromebook 360",
+        "PCMerge Chromebook PCM-116T-432B",
+        "Haier Chromebook 11 C",
+        "Multilaser Chromebook M11C"
       ],
       "fsiMilestoneNumber": "M52",
       "isAue": true,
@@ -31810,8 +31817,8 @@
       }
     }
   },
-  "creationDate": "2026-04-06",
-  "creationTime": "15:51 PT",
+  "creationDate": "2026-04-07",
+  "creationTime": "17:25 PT",
   "enterprisePins": [
     146,
     145,
