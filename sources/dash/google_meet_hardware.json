@@ -42,9 +42,9 @@
             "version": "16653.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.202",
+            "chromeVersion": "138.0.7204.203",
             "comparedToMostCommon": 0,
-            "version": "16295.54.54"
+            "version": "16295.54.55"
           },
           "servingStable": {
             "chromeVersion": "138.0.7204.199",
@@ -86,9 +86,9 @@
             "version": "16653.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.202",
+            "chromeVersion": "138.0.7204.203",
             "comparedToMostCommon": 0,
-            "version": "16295.54.54"
+            "version": "16295.54.55"
           },
           "servingStable": {
             "chromeVersion": "138.0.7204.199",
@@ -130,9 +130,9 @@
             "version": "16653.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.202",
+            "chromeVersion": "138.0.7204.203",
             "comparedToMostCommon": 0,
-            "version": "16295.54.54"
+            "version": "16295.54.55"
           },
           "servingStable": {
             "chromeVersion": "138.0.7204.199",
@@ -174,9 +174,9 @@
             "version": "16653.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.202",
+            "chromeVersion": "138.0.7204.203",
             "comparedToMostCommon": 0,
-            "version": "16295.54.54"
+            "version": "16295.54.55"
           },
           "servingStable": {
             "chromeVersion": "138.0.7204.199",
@@ -279,7 +279,7 @@
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.202",
-            "comparedToMostCommon": 0,
+            "comparedToMostCommon": 2,
             "version": "16295.54.54"
           },
           "servingStable": {
@@ -307,8 +307,8 @@
             }
           },
           "brandNames": [
-            "CTL Meet Compute System (Intel 13th Gen)",
-            "ASUS Meet Compute System (Intel 13th Gen)"
+            "ASUS Meet Compute System (Intel 13th Gen)",
+            "CTL Meet Compute System (Intel 13th Gen)"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -329,7 +329,7 @@
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.202",
-            "comparedToMostCommon": 0,
+            "comparedToMostCommon": 2,
             "version": "16295.54.54"
           },
           "servingStable": {
@@ -377,7 +377,7 @@
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.202",
-            "comparedToMostCommon": 0,
+            "comparedToMostCommon": 2,
             "version": "16295.54.54"
           },
           "servingStable": {
@@ -431,7 +431,7 @@
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.202",
-            "comparedToMostCommon": 0,
+            "comparedToMostCommon": 2,
             "version": "16295.54.54"
           },
           "servingStable": {
@@ -667,7 +667,7 @@
       }
     }
   },
-  "creationDate": "2026-04-19",
+  "creationDate": "2026-04-20",
   "creationTime": "18:02 PT",
   "enterprisePins": [
     138,
