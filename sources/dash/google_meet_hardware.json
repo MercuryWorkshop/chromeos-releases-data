@@ -21,8 +21,8 @@
             }
           },
           "brandNames": [
-            "ASUS Meet Compute System (Intel 10th Gen)",
-            "CTL Meet Compute System (Intel 10th Gen)"
+            "CTL Meet Compute System (Intel 10th Gen)",
+            "ASUS Meet Compute System (Intel 10th Gen)"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -42,9 +42,9 @@
             "version": "16653.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.203",
+            "chromeVersion": "138.0.7204.204",
             "comparedToMostCommon": 0,
-            "version": "16295.54.55"
+            "version": "16295.54.56"
           },
           "servingStable": {
             "chromeVersion": "138.0.7204.199",
@@ -86,9 +86,9 @@
             "version": "16653.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.203",
+            "chromeVersion": "138.0.7204.204",
             "comparedToMostCommon": 0,
-            "version": "16295.54.55"
+            "version": "16295.54.56"
           },
           "servingStable": {
             "chromeVersion": "138.0.7204.199",
@@ -130,9 +130,9 @@
             "version": "16653.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.203",
+            "chromeVersion": "138.0.7204.204",
             "comparedToMostCommon": 0,
-            "version": "16295.54.55"
+            "version": "16295.54.56"
           },
           "servingStable": {
             "chromeVersion": "138.0.7204.199",
@@ -174,9 +174,9 @@
             "version": "16653.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.203",
+            "chromeVersion": "138.0.7204.204",
             "comparedToMostCommon": 0,
-            "version": "16295.54.55"
+            "version": "16295.54.56"
           },
           "servingStable": {
             "chromeVersion": "138.0.7204.199",
@@ -278,9 +278,9 @@
             "version": "16653.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.202",
-            "comparedToMostCommon": 2,
-            "version": "16295.54.54"
+            "chromeVersion": "138.0.7204.204",
+            "comparedToMostCommon": 0,
+            "version": "16295.54.56"
           },
           "servingStable": {
             "chromeVersion": "138.0.7204.199",
@@ -307,8 +307,8 @@
             }
           },
           "brandNames": [
-            "ASUS Meet Compute System (Intel 13th Gen)",
-            "CTL Meet Compute System (Intel 13th Gen)"
+            "CTL Meet Compute System (Intel 13th Gen)",
+            "ASUS Meet Compute System (Intel 13th Gen)"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -328,9 +328,9 @@
             "version": "16653.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.202",
-            "comparedToMostCommon": 2,
-            "version": "16295.54.54"
+            "chromeVersion": "138.0.7204.204",
+            "comparedToMostCommon": 0,
+            "version": "16295.54.56"
           },
           "servingStable": {
             "chromeVersion": "138.0.7204.199",
@@ -376,9 +376,9 @@
             "version": "16653.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.202",
-            "comparedToMostCommon": 2,
-            "version": "16295.54.54"
+            "chromeVersion": "138.0.7204.204",
+            "comparedToMostCommon": 0,
+            "version": "16295.54.56"
           },
           "servingStable": {
             "chromeVersion": "138.0.7204.199",
@@ -430,9 +430,9 @@
             "version": "16653.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.202",
-            "comparedToMostCommon": 2,
-            "version": "16295.54.54"
+            "chromeVersion": "138.0.7204.204",
+            "comparedToMostCommon": 0,
+            "version": "16295.54.56"
           },
           "servingStable": {
             "chromeVersion": "138.0.7204.199",
@@ -667,7 +667,7 @@
       }
     }
   },
-  "creationDate": "2026-04-20",
+  "creationDate": "2026-04-21",
   "creationTime": "18:02 PT",
   "enterprisePins": [
     138,
