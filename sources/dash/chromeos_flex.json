@@ -17,9 +17,9 @@
         "version": "16581.61.0"
       },
       "147": {
-        "chromeVersion": "147.0.7727.142",
+        "chromeVersion": "147.0.7727.147",
         "comparedToMostCommon": 0,
-        "version": "16610.52.0"
+        "version": "16610.57.0"
       },
       "brandNameToFormattedDeviceMap": {
         "ChromeOS Flex": {
@@ -33,7 +33,6 @@
       "isAue": false,
       "isExperimental": false,
       "pushRecoveries": {
-        "137": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16267.66.0_reven_recovery_stable-channel_mp-v7.bin.zip",
         "138": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.74.0_reven_recovery_stable-channel_mp-v8.bin.zip",
         "139": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16328.72.0_reven_recovery_stable-channel_mp-v8.bin.zip",
         "140": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16371.65.0_reven_recovery_stable-channel_mp-v8.bin.zip",
@@ -42,7 +41,8 @@
         "143": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16463.79.0_reven_recovery_stable-channel_mp-v8.bin.zip",
         "144": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.60.0_reven_recovery_stable-channel_RevenMPKeys-v8.bin.zip",
         "145": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16552.59.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
-        "146": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16581.54.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip"
+        "146": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16581.54.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
+        "147": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16610.57.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip"
       },
       "servingBeta": {
         "chromeVersion": "148.0.7778.158",
@@ -60,14 +60,14 @@
         "version": "16667.5.0"
       },
       "servingLtc": {
-        "chromeVersion": "144.0.7559.249",
+        "chromeVersion": "144.0.7559.250",
         "comparedToMostCommon": 0,
-        "version": "16503.81.0"
+        "version": "16503.82.0"
       },
       "servingLtr": {
-        "chromeVersion": "144.0.7559.249",
+        "chromeVersion": "144.0.7559.250",
         "comparedToMostCommon": 0,
-        "version": "16503.81.0"
+        "version": "16503.82.0"
       },
       "servingStable": {
         "chromeVersion": "147.0.7727.147",
@@ -76,7 +76,7 @@
       }
     }
   },
-  "creationDate": "2026-05-10",
+  "creationDate": "2026-05-11",
   "creationTime": "17:48 PT",
   "enterprisePins": [
     147,
