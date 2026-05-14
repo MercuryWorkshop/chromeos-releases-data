@@ -45,9 +45,9 @@
         "147": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16610.57.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip"
       },
       "servingBeta": {
-        "chromeVersion": "148.0.7778.158",
+        "chromeVersion": "148.0.7778.171",
         "comparedToMostCommon": 0,
-        "version": "16640.29.0"
+        "version": "16640.37.0"
       },
       "servingCanary": {
         "chromeVersion": "116.0.5802.0",
@@ -76,7 +76,7 @@
       }
     }
   },
-  "creationDate": "2026-05-12",
+  "creationDate": "2026-05-13",
   "creationTime": "17:48 PT",
   "enterprisePins": [
     147,
