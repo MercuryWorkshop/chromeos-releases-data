@@ -1,11 +1,6 @@
 {
   "builds": {
     "reven": {
-      "144": {
-        "chromeVersion": "144.0.7559.221",
-        "comparedToMostCommon": 0,
-        "version": "16503.76.0"
-      },
       "145": {
         "chromeVersion": "145.0.7632.216",
         "comparedToMostCommon": 0,
@@ -21,6 +16,11 @@
         "comparedToMostCommon": 0,
         "version": "16610.57.0"
       },
+      "148": {
+        "chromeVersion": "148.0.7778.174",
+        "comparedToMostCommon": 0,
+        "version": "16640.40.0"
+      },
       "brandNameToFormattedDeviceMap": {
         "ChromeOS Flex": {
           "kernel": "6.12.54"
@@ -33,7 +33,6 @@
       "isAue": false,
       "isExperimental": false,
       "pushRecoveries": {
-        "138": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.74.0_reven_recovery_stable-channel_mp-v8.bin.zip",
         "139": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16328.72.0_reven_recovery_stable-channel_mp-v8.bin.zip",
         "140": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16371.65.0_reven_recovery_stable-channel_mp-v8.bin.zip",
         "141": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16404.61.0_reven_recovery_stable-channel_mp-v8.bin.zip",
@@ -42,7 +41,8 @@
         "144": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.60.0_reven_recovery_stable-channel_RevenMPKeys-v8.bin.zip",
         "145": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16552.59.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
         "146": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16581.54.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
-        "147": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16610.57.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip"
+        "147": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16610.57.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
+        "148": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16640.40.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip"
       },
       "servingBeta": {
         "chromeVersion": "149.0.7827.40",
@@ -70,18 +70,18 @@
         "version": "16503.84.0"
       },
       "servingStable": {
-        "chromeVersion": "148.0.7778.174",
+        "chromeVersion": "148.0.7778.214",
         "comparedToMostCommon": 0,
-        "version": "16640.40.0"
+        "version": "16640.51.0"
       }
     }
   },
-  "creationDate": "2026-05-26",
+  "creationDate": "2026-05-27",
   "creationTime": "17:55 PT",
   "enterprisePins": [
+    148,
     147,
     146,
-    145,
-    144
+    145
   ]
 }
