@@ -23,7 +23,7 @@
       },
       "brandNameToFormattedDeviceMap": {
         "ChromeOS Flex": {
-          "kernel": "6.12.54"
+          "kernel": "6.12.74"
         }
       },
       "brandNames": [
@@ -42,7 +42,7 @@
         "145": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16552.59.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
         "146": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16581.54.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
         "147": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16610.57.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
-        "148": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16640.51.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip"
+        "148": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16640.57.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip"
       },
       "servingBeta": {
         "chromeVersion": "149.0.7827.88",
@@ -76,7 +76,7 @@
       }
     }
   },
-  "creationDate": "2026-06-06",
+  "creationDate": "2026-06-07",
   "creationTime": "17:57 PT",
   "enterprisePins": [
     148,
