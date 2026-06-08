@@ -253,7 +253,7 @@
           "brandNameToFormattedDeviceMap": {
             "Meet Compute System - Series One (Intel 13th Gen)": {
               "architecture": "X86_64",
-              "kernel": "6.6.119",
+              "kernel": "6.6.135",
               "platform": "RaptorLake-U"
             }
           },
@@ -297,12 +297,12 @@
           "brandNameToFormattedDeviceMap": {
             "ASUS Meet Compute System (Intel 13th Gen)": {
               "architecture": "X86_64",
-              "kernel": "6.6.119",
+              "kernel": "6.6.135",
               "platform": "RaptorLake-U"
             },
             "CTL Meet Compute System (Intel 13th Gen)": {
               "architecture": "X86_64",
-              "kernel": "6.6.119",
+              "kernel": "6.6.135",
               "platform": "RaptorLake-U"
             }
           },
@@ -409,8 +409,8 @@
             }
           },
           "brandNames": [
-            "CTL Meet Compute System",
-            "ASUS Meet Compute System"
+            "ASUS Meet Compute System",
+            "CTL Meet Compute System"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -667,7 +667,7 @@
       }
     }
   },
-  "creationDate": "2026-06-06",
+  "creationDate": "2026-06-07",
   "creationTime": "18:07 PT",
   "enterprisePins": [
     138,
