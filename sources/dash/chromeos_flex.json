@@ -17,9 +17,9 @@
         "version": "16610.57.0"
       },
       "148": {
-        "chromeVersion": "148.0.7778.250",
+        "chromeVersion": "148.0.7778.263",
         "comparedToMostCommon": 0,
-        "version": "16640.57.0"
+        "version": "16640.61.0"
       },
       "brandNameToFormattedDeviceMap": {
         "ChromeOS Flex": {
@@ -42,7 +42,7 @@
         "145": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16552.59.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
         "146": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16581.54.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
         "147": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16610.57.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
-        "148": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16640.57.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip"
+        "148": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16640.61.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip"
       },
       "servingBeta": {
         "chromeVersion": "149.0.7827.136",
@@ -60,14 +60,14 @@
         "version": "16700.11.0"
       },
       "servingLtc": {
-        "chromeVersion": "144.0.7559.254",
+        "chromeVersion": "144.0.7559.255",
         "comparedToMostCommon": 0,
-        "version": "16503.86.0"
+        "version": "16503.87.0"
       },
       "servingLtr": {
-        "chromeVersion": "144.0.7559.254",
+        "chromeVersion": "144.0.7559.255",
         "comparedToMostCommon": 0,
-        "version": "16503.86.0"
+        "version": "16503.87.0"
       },
       "servingStable": {
         "chromeVersion": "148.0.7778.263",
@@ -76,8 +76,8 @@
       }
     }
   },
-  "creationDate": "2026-06-11",
-  "creationTime": "17:58 PT",
+  "creationDate": "2026-06-12",
+  "creationTime": "17:59 PT",
   "enterprisePins": [
     148,
     147,
