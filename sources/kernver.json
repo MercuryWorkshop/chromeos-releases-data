@@ -44983,6 +44983,14 @@
     6,
     "6.6.99-09023-g7232af57f054"
   ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.90.0_reven_recovery_ltc-channel_RevenMPKeys-v10.bin.zip": [
+    6,
+    "6.6.99-09023-g7232af57f054"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.90.0_reven_recovery_lts-channel_RevenMPKeys-v10.bin.zip": [
+    6,
+    "6.6.99-09023-g7232af57f054"
+  ],
   "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16552.18.0_asurada_recovery_beta-channel_AsuradaMPKeys-v8.bin.zip": [
     6,
     "6.1.145-17528-g1f2a9e76ffc5"
@@ -49098,5 +49106,181 @@
   "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.20.0_reven_recovery_beta-channel_RevenMPKeys-v10.bin.zip": [
     6,
     "6.12.54-01170-gfe746b15e140"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_asurada_recovery_beta-channel_AsuradaMPKeys-v9.bin.zip": [
+    7,
+    "6.1.166-17630-g5ea4d8f14629"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_atlas_recovery_beta-channel_AtlasMPKeys-v9.bin.zip": [
+    7,
+    "5.10.237-26375-g3268c1d2e20a"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_brask_recovery_beta-channel_BraskMPKeys-v36.bin.zip": [
+    7,
+    "6.6.119-09290-gaaf56902b662"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_brox_recovery_beta-channel_BroxMPKeys-v7.bin.zip": [
+    4,
+    "6.6.119-09290-gaaf56902b662"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_brya_recovery_beta-channel_BryaMPKeys-v22.bin.zip": [
+    7,
+    "6.6.119-09290-gaaf56902b662"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_cherry_recovery_beta-channel_CherryMPKeys-v10.bin.zip": [
+    7,
+    "5.10.237-26375-g3268c1d2e20a"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_coral_recovery_beta-channel_CoralMPKeys-v27.bin.zip": [
+    7,
+    "5.10.237-26375-g3268c1d2e20a"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_corsola_recovery_beta-channel_CorsolaMPKeys-v23.bin.zip": [
+    7,
+    "5.15.195-24653-g302ffab9f0f"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_dedede_recovery_beta-channel_DededeMPKeys-v58.bin.zip": [
+    7,
+    "6.1.166-17630-g5ea4d8f14629"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_drallion_recovery_beta-channel_DrallionMPKeys-v9.bin.zip": [
+    7,
+    "5.15.195-24653-g302ffab9f0fc"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_eve_recovery_beta-channel_EveMPKeys-v10.bin.zip": [
+    7,
+    "6.6.119-09290-gaaf56902b662"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_fizz_recovery_beta-channel_FizzMPKeys-v20.bin.zip": [
+    7,
+    "5.4.302-23860-g99bb19cb02b8"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_geralt_recovery_beta-channel_GeraltMPKeys-v7.bin.zip": [
+    5,
+    "6.1.166-17630-g5ea4d8f14629"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_grunt_recovery_beta-channel_GruntMPKeys-v13.bin.zip": [
+    7,
+    "5.10.237-26375-g3268c1d2e20a"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_guybrush_recovery_beta-channel_GuybrushMPKeys-v11.bin.zip": [
+    7,
+    "6.6.119-09290-gaaf56902b662"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_hana_recovery_beta-channel_HanaMPKeys-v15.bin.zip": [
+    7,
+    "5.15.195-24653-g302ffab9f0f"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_hatch_recovery_beta-channel_HatchMPKeys-v13.bin.zip": [
+    7,
+    "5.15.195-24653-g302ffab9f0fc"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_jacuzzi_recovery_beta-channel_JacuzziMPKeys-v20.bin.zip": [
+    7,
+    "5.10.237-26375-g3268c1d2e20a"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_jedi_recovery_beta-channel_JediMPKeys-v4.bin.zip": [
+    3,
+    "6.6.119-CL7037511-v57-09250-g689d8233d45d-dirty"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_kalista_recovery_beta-channel_KalistaMPKeys-v9.bin.zip": [
+    7,
+    "5.4.302-23860-g99bb19cb02b8"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_kukui_recovery_beta-channel_KukuiMPKeys-v12.bin.zip": [
+    7,
+    "5.10.237-26375-g3268c1d2e20a"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_nami_recovery_beta-channel_NamiMPKeys-v12.bin.zip": [
+    7,
+    "5.4.302-23860-g99bb19cb02b8"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_nautilus_recovery_beta-channel_NautilusMPKeys-v9.bin.zip": [
+    7,
+    "6.6.119-09290-gaaf56902b662"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_nirva_recovery_beta-channel_NissaMPKeys-v70.bin.zip": [
+    7,
+    "6.6.119-09290-gaaf56902b662"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_nocturne_recovery_beta-channel_NocturneMPKeys-v8.bin.zip": [
+    7,
+    "5.10.237-26375-g3268c1d2e20a"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_octopus_recovery_beta-channel_OctopusMPKeys-v38.bin.zip": [
+    7,
+    "5.15.195-24653-g302ffab9f0fc"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_puff_recovery_beta-channel_PuffMPKeys-v18.bin.zip": [
+    7,
+    "5.15.195-24653-g302ffab9f0fc"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_pyro_recovery_beta-channel_PyroMPKeys-v8.bin.zip": [
+    7,
+    "5.10.237-26375-g3268c1d2e20a"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_rammus_recovery_beta-channel_RammusMPKeys-v9.bin.zip": [
+    7,
+    "5.10.237-26375-g3268c1d2e20a"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_rauru_recovery_beta-channel_RauruMPKeys-v7.bin.zip": [
+    4,
+    "6.6.119-09290-gaaf56902b662"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_reef_recovery_beta-channel_ReefMPKeys-v10.bin.zip": [
+    7,
+    "5.10.237-26375-g3268c1d2e20a"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_reven_recovery_beta-channel_RevenMPKeys-v10.bin.zip": [
+    6,
+    "6.12.54-01171-ga66b768eb014"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_rex_recovery_beta-channel_RexMPKeys-v7.bin.zip": [
+    5,
+    "6.6.119-09290-gaaf56902b662"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_sand_recovery_beta-channel_SandMPKeys-v8.bin.zip": [
+    7,
+    "5.10.237-26375-g3268c1d2e20a"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_sarien_recovery_beta-channel_SarienMPKeys-v10.bin.zip": [
+    7,
+    "5.10.237-26375-g3268c1d2e20a"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_skyrim_recovery_beta-channel_SkyrimMPKeys-v12.bin.zip": [
+    6,
+    "6.6.119-09290-gaaf56902b662"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_skywalker_recovery_beta-channel_SkywalkerMPKeys-v9.bin.zip": [
+    2,
+    "6.6.119-09290-gaaf56902b662"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_snappy_recovery_beta-channel_SnappyMPKeys-v8.bin.zip": [
+    7,
+    "5.10.237-26375-g3268c1d2e20a"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_soraka_recovery_beta-channel_SorakaMPKeys-v8.bin.zip": [
+    7,
+    "6.6.119-09290-gaaf56902b662"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_staryu_recovery_beta-channel_StaryuMPKeys-v10.bin.zip": [
+    6,
+    "5.15.195-24653-g302ffab9f0f"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_strongbad_recovery_beta-channel_StrongbadMPKeys-v12.bin.zip": [
+    7,
+    "6.6.119-09290-gaaf56902b662"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_trogdor_recovery_beta-channel_TrogdorMPKeys-v18.bin.zip": [
+    7,
+    "6.6.119-09290-gaaf56902b662"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_volteer_recovery_beta-channel_VolteerMPKeys-v14.bin.zip": [
+    7,
+    "6.12.54-01171-ga66b768eb014"
+  ],
+  "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.40.0_zork_recovery_beta-channel_ZorkMPKeys-v14.bin.zip": [
+    7,
+    "6.6.119-09290-gaaf56902b662"
   ]
 }
