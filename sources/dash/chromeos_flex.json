@@ -42,12 +42,12 @@
         "146": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16581.54.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
         "147": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16610.57.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
         "148": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16640.61.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
-        "149": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16667.61.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip"
+        "149": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16667.62.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip"
       },
       "servingBeta": {
-        "chromeVersion": "150.0.7871.118",
+        "chromeVersion": "151.0.7922.23",
         "comparedToMostCommon": 0,
-        "version": "16700.40.0"
+        "version": "16733.19.0"
       },
       "servingCanary": {
         "chromeVersion": "116.0.5802.0",
@@ -76,7 +76,7 @@
       }
     }
   },
-  "creationDate": "2026-07-13",
+  "creationDate": "2026-07-14",
   "creationTime": "16:12 PT",
   "enterprisePins": [
     149,
