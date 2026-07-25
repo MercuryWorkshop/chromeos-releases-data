@@ -17,9 +17,9 @@
         "version": "16667.62.0"
       },
       "150": {
-        "chromeVersion": "150.0.7871.150",
+        "chromeVersion": "150.0.7871.185",
         "comparedToMostCommon": 0,
-        "version": "16700.46.0"
+        "version": "16700.53.0"
       },
       "brandNameToFormattedDeviceMap": {
         "ChromeOS Flex": {
@@ -55,9 +55,9 @@
         "version": "15483.0.0"
       },
       "servingDev": {
-        "chromeVersion": "152.0.7949.0_pre1661206",
+        "chromeVersion": "152.0.7965.0_pre1665607",
         "comparedToMostCommon": 0,
-        "version": "16752.0.0"
+        "version": "16760.0.0"
       },
       "servingLtc": {
         "chromeVersion": "150.0.7871.150",
@@ -76,7 +76,7 @@
       }
     }
   },
-  "creationDate": "2026-07-23",
+  "creationDate": "2026-07-24",
   "creationTime": "18:15 PT",
   "enterprisePins": [
     150,
