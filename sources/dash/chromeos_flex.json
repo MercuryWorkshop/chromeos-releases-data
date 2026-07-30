@@ -33,7 +33,6 @@
       "isAue": false,
       "isExperimental": false,
       "pushRecoveries": {
-        "140": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16371.65.0_reven_recovery_stable-channel_mp-v8.bin.zip",
         "141": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16404.61.0_reven_recovery_stable-channel_mp-v8.bin.zip",
         "142": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16433.57.0_reven_recovery_stable-channel_mp-v8.bin.zip",
         "143": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16463.79.0_reven_recovery_stable-channel_mp-v8.bin.zip",
@@ -42,7 +41,8 @@
         "146": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16581.54.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
         "147": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16610.57.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
         "148": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16640.61.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
-        "149": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16667.62.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip"
+        "149": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16667.62.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
+        "150": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.53.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip"
       },
       "servingBeta": {
         "chromeVersion": "151.0.7922.56",
@@ -70,14 +70,14 @@
         "version": "16503.91.0"
       },
       "servingStable": {
-        "chromeVersion": "150.0.7871.185",
+        "chromeVersion": "150.0.7871.213",
         "comparedToMostCommon": 0,
-        "version": "16700.53.0"
+        "version": "16700.60.0"
       }
     }
   },
-  "creationDate": "2026-07-28",
-  "creationTime": "18:18 PT",
+  "creationDate": "2026-07-29",
+  "creationTime": "16:18 PT",
   "enterprisePins": [
     150,
     149,
