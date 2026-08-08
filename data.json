@@ -83513,6 +83513,33 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.60.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip",
         "kernel_version": 7,
         "linux_version": "6.12.54-01180-gb4e10020ba49"
+      },
+      {
+        "platform_version": "16765.12.0",
+        "chrome_version": "152.0.7977.28",
+        "channel": "dev-channel",
+        "last_modified": 1786121293,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.12.0_reven_recovery_dev-channel_RevenMPKeys-v11.bin.zip",
+        "kernel_version": 7,
+        "linux_version": "6.12.91-01397-g781a2917c7ea"
+      },
+      {
+        "platform_version": "16733.40.0",
+        "chrome_version": "151.0.7922.104",
+        "channel": "beta-channel",
+        "last_modified": 1786123020,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16733.40.0_reven_recovery_beta-channel_RevenMPKeys-v11.bin.zip",
+        "kernel_version": 7,
+        "linux_version": "6.12.74-01309-g108aeab299d2"
+      },
+      {
+        "platform_version": "16700.60.0",
+        "chrome_version": "150.0.7871.213",
+        "channel": "ltc-channel",
+        "last_modified": 1786125877,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.60.0_reven_recovery_ltc-channel_RevenMPKeys-v11.bin.zip",
+        "kernel_version": 7,
+        "linux_version": "6.12.54-01180-gb4e10020ba49"
       }
     ],
     "brand_names": [
