@@ -17,9 +17,9 @@
         "version": "16700.61.0"
       },
       "151": {
-        "chromeVersion": "151.0.7922.141",
+        "chromeVersion": "151.0.7922.168",
         "comparedToMostCommon": 0,
-        "version": "16733.48.0"
+        "version": "16733.54.0"
       },
       "brandNameToFormattedDeviceMap": {
         "ChromeOS Flex": {
@@ -45,9 +45,9 @@
         "151": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16733.48.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip"
       },
       "servingBeta": {
-        "chromeVersion": "152.0.7977.39",
+        "chromeVersion": "152.0.7977.63",
         "comparedToMostCommon": 0,
-        "version": "16765.19.0"
+        "version": "16765.31.0"
       },
       "servingCanary": {
         "chromeVersion": "116.0.5802.0",
@@ -55,14 +55,14 @@
         "version": "15483.0.0"
       },
       "servingDev": {
-        "chromeVersion": "153.0.8004.0_pre1677941",
+        "chromeVersion": "154.0.8012.0_pre1682458",
         "comparedToMostCommon": 0,
-        "version": "16786.0.0"
+        "version": "16794.0.0"
       },
       "servingLtc": {
-        "chromeVersion": "150.0.7871.213",
+        "chromeVersion": "150.0.7871.252",
         "comparedToMostCommon": 0,
-        "version": "16700.60.0"
+        "version": "16700.62.0"
       },
       "servingLtr": {
         "chromeVersion": "144.0.7559.259",
@@ -70,14 +70,14 @@
         "version": "16503.92.0"
       },
       "servingStable": {
-        "chromeVersion": "151.0.7922.141",
+        "chromeVersion": "151.0.7922.168",
         "comparedToMostCommon": 0,
-        "version": "16733.48.0"
+        "version": "16733.54.0"
       }
     }
   },
-  "creationDate": "2026-08-19",
-  "creationTime": "16:28 PT",
+  "creationDate": "2026-08-25",
+  "creationTime": "18:29 PT",
   "enterprisePins": [
     151,
     150,
