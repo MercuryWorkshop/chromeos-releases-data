@@ -114,7 +114,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -192,7 +192,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -264,7 +264,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -615,7 +615,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -758,22 +758,22 @@
             }
           },
           "brandNames": [
-            "Prowise OPS",
-            "Evolve III Chromebox OPS Connect",
-            "AOPEN Chromebox OPS / AOPEN Chromebox Enterprise OPS",
-            "Satsuki Chromebox OPS / Satsuki Chromebox Enterprise OPS",
-            "CTL Chromebox OPS OPx1-3 / CTL Chromebox Enterprise OPS OPx1-3 / CTL Chromebox OPS OPx1-7 / CTL Chromebox Enterprise OPS OPx1-7",
-            "Promethean Chromebox OPS",
-            "LG Chromebox OPS CRMQ-1LDGA",
             "Newline Chromebox OPS",
-            "ViewSonic Chromebox OPS",
-            "Centerm Chromebox OPS OP660 / Centerm Chromebox Enterprise OPS OP660",
-            "IMAGO Chromebox OPS",
+            "Evolve III Chromebox OPS Connect",
             "SPC Chromebox OPS",
+            "CTL Chromebox OPS OPx1-3 / CTL Chromebox Enterprise OPS OPx1-3 / CTL Chromebox OPS OPx1-7 / CTL Chromebox Enterprise OPS OPx1-7",
             "Bujia Development Product",
+            "ViewSonic Chromebox OPS",
+            "IMAGO Chromebox OPS",
             "SMART Chromebox OPS CB13-i3 / SMART Chromebox OPS CB13-i5",
+            "Dabliu Chromebox OPS",
             "BenQ Chromebox OPS TEY1C",
-            "Dabliu Chromebox OPS"
+            "AOPEN Chromebox OPS / AOPEN Chromebox Enterprise OPS",
+            "LG Chromebox OPS CRMQ-1LDGA",
+            "Centerm Chromebox OPS OP660 / Centerm Chromebox Enterprise OPS OP660",
+            "Prowise OPS",
+            "Promethean Chromebox OPS",
+            "Satsuki Chromebox OPS / Satsuki Chromebox Enterprise OPS"
           ],
           "fsiMilestoneNumber": "M130",
           "isAue": false,
@@ -798,7 +798,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -876,7 +876,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -954,7 +954,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -1039,7 +1039,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -1109,7 +1109,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -1181,11 +1181,11 @@
             }
           },
           "brandNames": [
+            "Promethean Chromebox 3",
             "CTL Chromebox CBx3 / CTL Chromebox Enterprise CBx3",
             "Lisbon Development Product",
-            "Promethean Chromebox 3",
-            "Centerm Chromebox D661 / Centerm Chromebox Enterprise D661",
-            "AOPEN Chromebox 4 / AOPEN Chromebox Enterprise 4"
+            "AOPEN Chromebox 4 / AOPEN Chromebox Enterprise 4",
+            "Centerm Chromebox D661 / Centerm Chromebox Enterprise D661"
           ],
           "fsiMilestoneNumber": "M114",
           "isAue": false,
@@ -1210,7 +1210,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -1288,7 +1288,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -1366,7 +1366,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -1443,7 +1443,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -1516,7 +1516,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -1589,7 +1589,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -1667,7 +1667,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8012.0_pre1682458",
@@ -1745,7 +1745,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -1827,7 +1827,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -1905,7 +1905,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -1983,7 +1983,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8012.0_pre1682458",
@@ -2061,7 +2061,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -2139,7 +2139,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -2217,7 +2217,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -2276,8 +2276,8 @@
             }
           },
           "brandNames": [
-            "Chromebook x360 14c-cd0",
-            "HP Chromebook Plus X360 14"
+            "HP Chromebook Plus X360 14",
+            "Chromebook x360 14c-cd0"
           ],
           "fsiMilestoneNumber": "M102",
           "isAue": false,
@@ -2302,7 +2302,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -2361,8 +2361,8 @@
             }
           },
           "brandNames": [
-            "Acer Chromebook Spin 714  -- CP714-2WN / Acer Chromebook Enterprise Spin 714 -- CP714-2WN",
-            "Acer Chromebook Spin 714  -- CP714-1WN / Acer Chromebook Enterprise Spin 714 -- CP714-1WN"
+            "Acer Chromebook Spin 714  -- CP714-1WN / Acer Chromebook Enterprise Spin 714 -- CP714-1WN",
+            "Acer Chromebook Spin 714  -- CP714-2WN / Acer Chromebook Enterprise Spin 714 -- CP714-2WN"
           ],
           "fsiMilestoneNumber": "M101",
           "isAue": false,
@@ -2387,7 +2387,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -2446,8 +2446,8 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebook Plus CX34 CX3402CVA",
-            "ASUS Chromebook Plus CX34 CX3402CBA"
+            "ASUS Chromebook Plus CX34 CX3402CBA",
+            "ASUS Chromebook Plus CX34 CX3402CVA"
           ],
           "fsiMilestoneNumber": "M115",
           "isAue": false,
@@ -2472,7 +2472,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -2557,7 +2557,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -2635,7 +2635,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -2713,7 +2713,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -2798,7 +2798,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -2876,7 +2876,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -2954,7 +2954,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -3025,8 +3025,8 @@
             }
           },
           "brandNames": [
-            "IdeaPad Flex 5i Chromebook Plus (14\", 7)",
             "Lenovo 5i Chromebook 16\"/IdeaPad 5i Chromebook (16\", 7)",
+            "IdeaPad Flex 5i Chromebook Plus (14\", 7)",
             "Lenovo Flex 5i Chromebook (14\", 7)",
             "Lenovo Flex 5i Chromebook 14\"/IdeaPad Flex 5i Chromebook (14\", 7)"
           ],
@@ -3053,7 +3053,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -3131,7 +3131,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -3209,7 +3209,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -3287,7 +3287,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -3364,7 +3364,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -3442,7 +3442,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8012.0_pre1682458",
@@ -3885,7 +3885,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -3963,7 +3963,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -4071,7 +4071,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -4130,7 +4130,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -4164,8 +4164,8 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebook C523",
-            "ASUS Chromebook CX1500CNA"
+            "ASUS Chromebook CX1500CNA",
+            "ASUS Chromebook C523"
           ],
           "fsiMilestoneNumber": "M70",
           "isAue": false,
@@ -4189,7 +4189,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -4241,11 +4241,11 @@
             }
           },
           "brandNames": [
-            "CTL chromebook NL7",
-            "Edxis Chromebook 11",
             "Multilaser Chromebook M11C-PC912",
-            "Lanix Chromebook C116",
-            "Positivo Chromebook N2110"
+            "Positivo Chromebook N2110",
+            "Edxis Chromebook 11",
+            "CTL chromebook NL7",
+            "Lanix Chromebook C116"
           ],
           "fsiMilestoneNumber": "M66",
           "isAue": false,
@@ -4269,7 +4269,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -4327,12 +4327,12 @@
             }
           },
           "brandNames": [
-            "Lanix Chromebook C116",
-            "Edxis Chromebook X11",
-            "Multilaser Chromebook M11HC-PC911",
             "Positivo Chromebook N2112",
+            "Viglen Chromebook 360C",
+            "Edxis Chromebook X11",
             "CTL Chromebook NL7 / NL7T-360 / NL7TW-360",
-            "Viglen Chromebook 360C"
+            "Multilaser Chromebook M11HC-PC911",
+            "Lanix Chromebook C116"
           ],
           "fsiMilestoneNumber": "M67",
           "isAue": false,
@@ -4356,7 +4356,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -4408,7 +4408,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -4460,7 +4460,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -4512,7 +4512,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -4564,7 +4564,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -4616,7 +4616,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -4668,7 +4668,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -4720,7 +4720,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -4761,8 +4761,8 @@
           },
           "brandNames": [
             "ASUS Chromebook C403",
-            "ASUS Chromebook C423",
-            "ASUS Chromebook CX1400CNA"
+            "ASUS Chromebook CX1400CNA",
+            "ASUS Chromebook C423"
           ],
           "fsiMilestoneNumber": "M68",
           "isAue": false,
@@ -4786,7 +4786,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -4838,7 +4838,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -4890,7 +4890,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -4942,7 +4942,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -4994,11 +4994,11 @@
             }
           },
           "brandNames": [
-            "Prowise Chromebook Eduline",
-            "CTL Chromebook J41 / J41T",
-            "Sector 5 E3 Chromebook",
             "Viglen Chromebook 11C",
-            "PCmerge Chromebook AL116"
+            "PCmerge Chromebook AL116",
+            "Sector 5 E3 Chromebook",
+            "Prowise Chromebook Eduline",
+            "CTL Chromebook J41 / J41T"
           ],
           "fsiMilestoneNumber": "M66",
           "isAue": false,
@@ -5022,7 +5022,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -5099,7 +5099,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -5177,7 +5177,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -5255,7 +5255,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -5333,7 +5333,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -5411,7 +5411,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -5481,7 +5481,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -5564,7 +5564,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -5642,7 +5642,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -5720,7 +5720,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -5798,7 +5798,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -5876,7 +5876,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -5954,7 +5954,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -6032,7 +6032,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -6110,7 +6110,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -6188,7 +6188,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -6460,7 +6460,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -6538,7 +6538,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -6615,11 +6615,11 @@
             }
           },
           "brandNames": [
-            "Allied Chromebook 11 N5100EO-864180 /  Allied Chromebook 11 N4500EO-432180 /  Allied Chromebook 11 N5100EO-432180",
             "DINATECH Gen1 Chromebook  SG20JL1C",
-            "Multilaser Chromebook M11C-PC919",
             "Positivo Chromebook N2320",
-            "Evolve III Chromebook 11 E1"
+            "Allied Chromebook 11 N5100EO-864180 /  Allied Chromebook 11 N4500EO-432180 /  Allied Chromebook 11 N5100EO-432180",
+            "Evolve III Chromebook 11 E1",
+            "Multilaser Chromebook M11C-PC919"
           ],
           "fsiMilestoneNumber": "M105",
           "isAue": false,
@@ -6644,7 +6644,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -6722,7 +6722,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -6800,7 +6800,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -6885,7 +6885,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -6944,8 +6944,8 @@
             }
           },
           "brandNames": [
-            "Lenovo 500e Chromebook Gen 3",
-            "Lenovo Flex 3i-11 Chromebook / IdeaPad Flex 3i Chromebook (11\", 6)"
+            "Lenovo Flex 3i-11 Chromebook / IdeaPad Flex 3i Chromebook (11\", 6)",
+            "Lenovo 500e Chromebook Gen 3"
           ],
           "fsiMilestoneNumber": "M90",
           "isAue": false,
@@ -6970,7 +6970,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -7048,7 +7048,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -7126,7 +7126,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -7204,7 +7204,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -7282,7 +7282,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -7342,7 +7342,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -7401,8 +7401,8 @@
             }
           },
           "brandNames": [
-            "Acer Chromebox Mini CXM1 / Acer Chromebox Mini Enterprise  CXM1",
-            "AOPEN Chromebox P1 / AOPEN Chromebox Enterprise P1"
+            "AOPEN Chromebox P1 / AOPEN Chromebox Enterprise P1",
+            "Acer Chromebox Mini CXM1 / Acer Chromebox Mini Enterprise  CXM1"
           ],
           "fsiMilestoneNumber": "M124",
           "isAue": false,
@@ -7427,7 +7427,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -7512,7 +7512,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -7590,7 +7590,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "153.0.8010.0",
@@ -7675,7 +7675,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8012.0_pre1682458",
@@ -7753,7 +7753,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -7831,7 +7831,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -7909,7 +7909,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -7987,7 +7987,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -8065,7 +8065,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -8143,7 +8143,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -8221,7 +8221,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -8299,7 +8299,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -8394,13 +8394,13 @@
             }
           },
           "brandNames": [
+            "CTL Chromebook NL72",
+            "ADVAN Chromebook 116J",
             "Multilaser Chromebook M11C-PC916 (clamshell) / Multilaser Chromebook M11HC-PC917 (convertible)",
+            "Positivo Chromebook N2310",
+            "Edxis Chromebook 11 (S30-C) / Edxis Chromebook 11 (S30-CT)",
             "Zyrex Chromebook M432-64/Zyrex Chromebook M432-11",
             "Centerm Chromebook M610",
-            "Edxis Chromebook 11 (S30-C) / Edxis Chromebook 11 (S30-CT)",
-            "Positivo Chromebook N2310",
-            "ADVAN Chromebook 116J",
-            "CTL Chromebook NL72",
             "Poin2 Chromebook 11B"
           ],
           "fsiMilestoneNumber": "M93",
@@ -8426,7 +8426,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -8503,10 +8503,10 @@
             }
           },
           "brandNames": [
-            "LG Chromebook 11TC50Q/11TQ50Q",
+            "CTL Chromebook NL72T",
             "Multilaser Chromebook M11HC-PC917",
             "Poin2 Chromebook 11E",
-            "CTL Chromebook NL72T",
+            "LG Chromebook 11TC50Q/11TQ50Q",
             "Positivo Chromebook N2312"
           ],
           "fsiMilestoneNumber": "M94",
@@ -8532,7 +8532,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -8610,7 +8610,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -8688,7 +8688,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -8766,7 +8766,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -8844,7 +8844,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -8922,7 +8922,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -9000,7 +9000,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -9078,7 +9078,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -9156,7 +9156,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -9234,7 +9234,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -9300,8 +9300,8 @@
           },
           "brandNames": [
             "Packard Bell Chromebook 314(PCB314-2 , PCB314-2T)",
-            "Acer Chromebook 314 (CB314-3H , CB314-3HT, C934, C934T)",
-            "Packard Bell Chromebook 314"
+            "Packard Bell Chromebook 314",
+            "Acer Chromebook 314 (CB314-3H , CB314-3HT, C934, C934T)"
           ],
           "fsiMilestoneNumber": "M99",
           "isAue": false,
@@ -9326,7 +9326,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -9404,7 +9404,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -9482,7 +9482,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -9560,7 +9560,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -9625,8 +9625,8 @@
             }
           },
           "brandNames": [
-            "CA14J2",
             "Gateway Chromebook 314",
+            "CA14J2",
             "Acer Chromebook 314 / Acer Chromebook 314 CBOA314-1H"
           ],
           "fsiMilestoneNumber": "M122",
@@ -9652,7 +9652,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -9711,8 +9711,8 @@
             }
           },
           "brandNames": [
-            "Gateway Chromebook 15",
-            "Edxis E-Lite Chromebook 15"
+            "Edxis E-Lite Chromebook 15",
+            "Gateway Chromebook 15"
           ],
           "fsiMilestoneNumber": "M100",
           "isAue": false,
@@ -9737,7 +9737,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -9832,14 +9832,14 @@
             }
           },
           "brandNames": [
-            "Multilaser Chromebook M11C-PC924",
-            "CA11J2",
             "Acer Chromebook 311(CO731)",
-            "CTL Chromebook PX11EG",
-            "Gateway Chromebook 311",
             "Edxis E-Lite Chromebook 11",
             "Zyrex Chromebook M432-2P / Zyrex Chromebook M432-2PT",
-            "CA11J2 45Wh"
+            "CA11J2 45Wh",
+            "Gateway Chromebook 311",
+            "CTL Chromebook PX11EG",
+            "CA11J2",
+            "Multilaser Chromebook M11C-PC924"
           ],
           "fsiMilestoneNumber": "M119",
           "isAue": false,
@@ -9864,7 +9864,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -9941,11 +9941,11 @@
             }
           },
           "brandNames": [
-            "Axioo Chromebook P11/Axioo Chromebook P432",
-            "SPC Chromebook Z1 Mini",
-            "Zyrex Chromebook M432-2",
             "CTL Chromebook PX11E",
-            "Allied Chromebook 11 N5100P"
+            "Zyrex Chromebook M432-2",
+            "Axioo Chromebook P11/Axioo Chromebook P432",
+            "Allied Chromebook 11 N5100P",
+            "SPC Chromebook Z1 Mini"
           ],
           "fsiMilestoneNumber": "M92",
           "isAue": false,
@@ -9970,7 +9970,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -10047,11 +10047,11 @@
             }
           },
           "brandNames": [
-            "CTL Chromebook Enterprise/PX14E/PX14EX/PX14EXT",
-            "Edxis E-Lite Chromebook 14",
-            "Axioo Chromebook P14",
             "Gateway Chromebook 14",
-            "Arai Nimbus S1 Chromebook Enterprise / Arai Nimbus S2 Chromebook Enterprise"
+            "Axioo Chromebook P14",
+            "Edxis E-Lite Chromebook 14",
+            "Arai Nimbus S1 Chromebook Enterprise / Arai Nimbus S2 Chromebook Enterprise",
+            "CTL Chromebook Enterprise/PX14E/PX14EX/PX14EXT"
           ],
           "fsiMilestoneNumber": "M98",
           "isAue": false,
@@ -10076,7 +10076,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -10154,7 +10154,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -10232,7 +10232,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -10310,7 +10310,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -10388,7 +10388,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -10466,7 +10466,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -10548,7 +10548,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -10626,7 +10626,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -10840,19 +10840,19 @@
         }
       },
       "brandNames": [
-        "Videonet Chromebook",
-        "CTL N6 Education Chromebook",
-        "RGS Education Chromebook",
         "JP Sa Couto Chromebook",
-        "True IDC Chromebook",
-        "Edxis Education Chromebook (NL6)",
-        "Crambo Chromebook",
-        "ASI Chromebook",
-        "Senkatel C1101 Chromebook",
+        "RGS Education Chromebook",
+        "CTL N6 Education Chromebook",
+        "Videonet Chromebook",
+        "Education Chromebook",
         "Lenovo N21 Chromebook",
-        "eduGear Chromebook R",
+        "Senkatel C1101 Chromebook",
         "M&A Chromebook",
-        "Education Chromebook"
+        "True IDC Chromebook",
+        "eduGear Chromebook R",
+        "Crambo Chromebook",
+        "Edxis Education Chromebook (NL6)",
+        "ASI Chromebook"
       ],
       "fsiMilestoneNumber": "M35",
       "isAue": true,
@@ -10930,7 +10930,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -10978,10 +10978,10 @@
         }
       },
       "brandNames": [
-        "HEXA Chromebook Pi",
-        "Consumer Chromebook",
+        "Bobicus Chromebook 11",
         "Edxis Chromebook",
-        "Bobicus Chromebook 11"
+        "HEXA Chromebook Pi",
+        "Consumer Chromebook"
       ],
       "fsiMilestoneNumber": "M36",
       "isAue": true,
@@ -11114,7 +11114,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -11167,7 +11167,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -11220,7 +11220,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -11272,7 +11272,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -11324,11 +11324,11 @@
             }
           },
           "brandNames": [
-            "SMART Chromebox G3",
             "CTL Chromebox CBx1",
-            "Promethean Chromebox",
+            "ViewSonic NMP660 Chromebox",
+            "SMART Chromebox G3",
             "OWG",
-            "ViewSonic NMP660 Chromebox"
+            "Promethean Chromebox"
           ],
           "fsiMilestoneNumber": "M65",
           "isAue": false,
@@ -11353,7 +11353,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -11489,7 +11489,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -11667,7 +11667,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -11737,7 +11737,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -11800,7 +11800,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -11863,7 +11863,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -11926,7 +11926,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -11989,7 +11989,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -12059,7 +12059,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -12103,8 +12103,8 @@
             }
           },
           "brandNames": [
-            "NEC Chromebook Y1 Gen2A",
-            "Lenovo 300e Gen 2 AST"
+            "Lenovo 300e Gen 2 AST",
+            "NEC Chromebook Y1 Gen2A"
           ],
           "fsiMilestoneNumber": "M80",
           "isAue": false,
@@ -12129,7 +12129,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -12251,7 +12251,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -12329,7 +12329,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -12391,7 +12391,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -12432,8 +12432,8 @@
           },
           "brandNames": [
             "Lenovo 300e/N23 Yoga/Flex 11 Chromebook",
-            "Poin2 Chromebook 11C",
-            "Prowise Chromebook Eduline / Prowise Chromebook Eduline 360"
+            "Prowise Chromebook Eduline / Prowise Chromebook Eduline 360",
+            "Poin2 Chromebook 11C"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -12458,7 +12458,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -12511,7 +12511,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -12564,7 +12564,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -12617,7 +12617,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -12670,7 +12670,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -12723,7 +12723,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -12800,7 +12800,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -12878,7 +12878,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -12956,7 +12956,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -13034,7 +13034,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -13112,7 +13112,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -13190,7 +13190,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -13268,7 +13268,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -13346,7 +13346,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -13424,7 +13424,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -13558,7 +13558,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -13636,7 +13636,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -13714,7 +13714,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -13792,7 +13792,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -13870,7 +13870,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -13948,7 +13948,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -14026,7 +14026,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -14085,8 +14085,8 @@
             }
           },
           "brandNames": [
-            "HP Chromebook 11a na0",
-            "HP Chromebook 11a-ne0"
+            "HP Chromebook 11a-ne0",
+            "HP Chromebook 11a na0"
           ],
           "fsiMilestoneNumber": "M84",
           "isAue": false,
@@ -14111,7 +14111,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -14189,7 +14189,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -14267,7 +14267,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -14345,7 +14345,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -14423,7 +14423,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -14500,7 +14500,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -14557,7 +14557,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -14593,8 +14593,8 @@
         }
       },
       "brandNames": [
-        "Dell Chromebook 11 (3180)",
-        "Dell Chromebook 11 2-in-1 (3189)"
+        "Dell Chromebook 11 2-in-1 (3189)",
+        "Dell Chromebook 11 (3180)"
       ],
       "fsiMilestoneNumber": "M55",
       "isAue": true,
@@ -14724,9 +14724,9 @@
         }
       },
       "brandNames": [
+        "HP Chromebook 11 2100-2199 / HP Chromebook 11 G3",
         "HP Chromebook 14 G4",
-        "HP Chromebook 11 G3/G4/G4 EE",
-        "HP Chromebook 11 2100-2199 / HP Chromebook 11 G3"
+        "HP Chromebook 11 G3/G4/G4 EE"
       ],
       "fsiMilestoneNumber": "M36",
       "isAue": true,
@@ -14825,7 +14825,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -14903,7 +14903,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -14981,7 +14981,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -15059,7 +15059,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -15531,7 +15531,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8012.0_pre1682458",
@@ -15584,7 +15584,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8012.0_pre1682458",
@@ -15637,7 +15637,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8012.0_pre1682458",
@@ -15690,7 +15690,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8012.0_pre1682458",
@@ -15750,7 +15750,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8012.0_pre1682458",
@@ -15803,7 +15803,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8012.0_pre1682458",
@@ -15856,7 +15856,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8012.0_pre1682458",
@@ -15909,7 +15909,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8012.0_pre1682458",
@@ -15965,7 +15965,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -16017,7 +16017,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -16145,7 +16145,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -16220,7 +16220,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -16298,7 +16298,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -16376,7 +16376,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -16458,7 +16458,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -16536,7 +16536,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -16614,7 +16614,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -16692,7 +16692,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -16770,7 +16770,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -16848,7 +16848,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -16926,7 +16926,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -16992,8 +16992,8 @@
           },
           "brandNames": [
             "Acer Chromebook 314(C936 /C936T /C936-TCO /C936T-TCO)",
-            "Acer Chromebook Plus 514(CB514-4H/ CB514-4HT), Acer Chromebook Plus Enterprise 514(CBE594-1/ CBE594-1T)",
-            "Acer Chromebook 314(CB314-4H / CB314-4HT)"
+            "Acer Chromebook 314(CB314-4H / CB314-4HT)",
+            "Acer Chromebook Plus 514(CB514-4H/ CB514-4HT), Acer Chromebook Plus Enterprise 514(CBE594-1/ CBE594-1T)"
           ],
           "fsiMilestoneNumber": "M114",
           "isAue": false,
@@ -17018,7 +17018,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -17096,7 +17096,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -17174,7 +17174,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -17252,7 +17252,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -17330,7 +17330,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -17408,7 +17408,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -17467,8 +17467,8 @@
             }
           },
           "brandNames": [
-            "Acer Chromebook Spin 311",
-            "CA31AC"
+            "CA31AC",
+            "Acer Chromebook Spin 311"
           ],
           "fsiMilestoneNumber": "M133",
           "isAue": false,
@@ -17493,7 +17493,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -17552,8 +17552,8 @@
             }
           },
           "brandNames": [
-            "CA21A",
-            "CTL Chromebook PX111E"
+            "CTL Chromebook PX111E",
+            "CA21A"
           ],
           "fsiMilestoneNumber": "M128",
           "isAue": false,
@@ -17578,7 +17578,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -17657,9 +17657,9 @@
           "brandNames": [
             "Glassway CBX - Development Project",
             "Poin2 Chromebook Plus 14, Poin2 Chromebook 14E",
+            "CTL Chromebook Plus PX141GX / CTL Chromebook Plus PX141GXT / CTL Chromebook Plus Entreprise PX141GX / CTL Chromebook Plus Enterprise PX141GXT",
             "Glassway Non-X - Development Project",
-            "CTL Chromebook Enterprise PX141E / CTL Chromebook Enterprise PX141EX / CTL Chromebook Enterprise PX141EXT / CTL Chromebook PX141E / CTL Chromebook PX141EX / CTL Chromebook PX141EXT",
-            "CTL Chromebook Plus PX141GX / CTL Chromebook Plus PX141GXT / CTL Chromebook Plus Entreprise PX141GX / CTL Chromebook Plus Enterprise PX141GXT"
+            "CTL Chromebook Enterprise PX141E / CTL Chromebook Enterprise PX141EX / CTL Chromebook Enterprise PX141EXT / CTL Chromebook PX141E / CTL Chromebook PX141EX / CTL Chromebook PX141EXT"
           ],
           "fsiMilestoneNumber": "M126",
           "isAue": false,
@@ -17684,7 +17684,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -17767,11 +17767,11 @@
             }
           },
           "brandNames": [
-            "Centerm Chromebook M612B",
-            "Acer Chromebook Spin 311(ROA732LTN)",
-            "Multi Chromebook M11HC-PC925",
             "Positivo Chromebook N2422",
             "Gothrax",
+            "Acer Chromebook Spin 311(ROA732LTN)",
+            "Centerm Chromebook M612B",
+            "Multi Chromebook M11HC-PC925",
             "aiwa Chromebook S11"
           ],
           "fsiMilestoneNumber": "M120",
@@ -17797,7 +17797,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -17868,8 +17868,8 @@
             }
           },
           "brandNames": [
-            "Centerm Chromebook M612A",
             "Positivo Chromebook N2420",
+            "Centerm Chromebook M612A",
             "GothraxCS",
             "Multi Chromebook M11C-PC926"
           ],
@@ -17896,7 +17896,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -17961,8 +17961,8 @@
             }
           },
           "brandNames": [
-            "Acer Chromebook 311 (COA732/COA732T/CB311/CB311T)",
             "Pegatron CA31T",
+            "Acer Chromebook 311 (COA732/COA732T/CB311/CB311T)",
             "CTL Chromebook PX121E, CTL Chromebook PX112CT-L, CTL Chromebook PX112C-L"
           ],
           "fsiMilestoneNumber": "M136",
@@ -17988,7 +17988,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -18053,9 +18053,9 @@
             }
           },
           "brandNames": [
-            "Poin2 Chromebook 12P",
             "Pegatron CA32TC",
-            "LG Chromebook 2"
+            "LG Chromebook 2",
+            "Poin2 Chromebook 12P"
           ],
           "fsiMilestoneNumber": "M138",
           "isAue": false,
@@ -18080,7 +18080,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -18151,10 +18151,10 @@
             }
           },
           "brandNames": [
-            "Hideo CBX Development Project",
-            "Centerm Chromebook M621 / Centerm Chromebook Enterprise M621",
             "Hideo non-CBX Development Project",
-            "Centerm Chromebook Plus M621 / Centerm Chromebook Plus Enterprise M621"
+            "Centerm Chromebook M621 / Centerm Chromebook Enterprise M621",
+            "Centerm Chromebook Plus M621 / Centerm Chromebook Plus Enterprise M621",
+            "Hideo CBX Development Project"
           ],
           "fsiMilestoneNumber": "M124",
           "isAue": false,
@@ -18176,7 +18176,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -18247,10 +18247,10 @@
             }
           },
           "brandNames": [
-            "HP Chromebook x360 14b-cc0",
-            "HP Chromebook Plus x360 14b-cd0",
             "HP Chromebook x360 14b-cd0",
-            "HP Chromebook Plus x360 14b-cc0"
+            "HP Chromebook Plus x360 14b-cc0",
+            "HP Chromebook x360 14b-cc0",
+            "HP Chromebook Plus x360 14b-cd0"
           ],
           "fsiMilestoneNumber": "M120",
           "isAue": false,
@@ -18275,7 +18275,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -18334,8 +18334,8 @@
             }
           },
           "brandNames": [
-            "HP Chromebook Plus x360 14 inch 14c-ce0xxx",
-            "HP Chromebook x360 14 inch 14b-ce0xxx"
+            "HP Chromebook x360 14 inch 14b-ce0xxx",
+            "HP Chromebook Plus x360 14 inch 14c-ce0xxx"
           ],
           "fsiMilestoneNumber": "M143",
           "isAue": false,
@@ -18357,7 +18357,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -18438,7 +18438,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -18516,7 +18516,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -18601,7 +18601,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -18679,7 +18679,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -18755,7 +18755,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -18833,7 +18833,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -18911,7 +18911,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -18982,7 +18982,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -19067,7 +19067,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -19126,8 +19126,8 @@
             }
           },
           "brandNames": [
-            "Lenovo Chromebook Plus (15\", 10)",
-            "Lenovo Chromebook (15\", 10)"
+            "Lenovo Chromebook (15\", 10)",
+            "Lenovo Chromebook Plus (15\", 10)"
           ],
           "fsiMilestoneNumber": "M142",
           "isAue": false,
@@ -19151,7 +19151,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -19223,9 +19223,9 @@
           },
           "brandNames": [
             "Lenovo 14e Chromebook Gen 3",
+            "Lenovo 14e Chromebook Gen 3/Lenovo Slim 3i Chromebook 14\"",
             "IdeaPad Slim 3i Chromebook Plus (14\" Intel)",
-            "Lenovo 14e Chromebook Gen 3 CB 5",
-            "Lenovo 14e Chromebook Gen 3/Lenovo Slim 3i Chromebook 14\""
+            "Lenovo 14e Chromebook Gen 3 CB 5"
           ],
           "fsiMilestoneNumber": "M110",
           "isAue": false,
@@ -19250,7 +19250,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -19326,7 +19326,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -19392,8 +19392,8 @@
           },
           "brandNames": [
             "CTL Chromebook NL73",
-            "LI7A",
-            "Edxis Chromebook 11 (S30-C25)"
+            "Edxis Chromebook 11 (S30-C25)",
+            "LI7A"
           ],
           "fsiMilestoneNumber": "M121",
           "isAue": false,
@@ -19418,7 +19418,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -19483,9 +19483,9 @@
             }
           },
           "brandNames": [
-            "CTL Chromebook NL73 Gen 2; CTL Chromebook NL73-8 Gen 2",
+            "Chromebook M11C-PC928",
             "LI7C",
-            "Chromebook M11C-PC928"
+            "CTL Chromebook NL73 Gen 2; CTL Chromebook NL73-8 Gen 2"
           ],
           "fsiMilestoneNumber": "M135",
           "isAue": false,
@@ -19510,7 +19510,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -19581,10 +19581,10 @@
             }
           },
           "brandNames": [
-            "mouse Chromebook U1-DAU01GY-A",
-            "CTL Chromebook NL73T/CTL Chromebook NL73TW",
             "LI7B",
-            "Edxis Chromebook 11 (S30-X25)"
+            "mouse Chromebook U1-DAU01GY-A",
+            "Edxis Chromebook 11 (S30-X25)",
+            "CTL Chromebook NL73T/CTL Chromebook NL73TW"
           ],
           "fsiMilestoneNumber": "M121",
           "isAue": false,
@@ -19609,7 +19609,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -19674,9 +19674,9 @@
             }
           },
           "brandNames": [
-            "Chromebook M11HC-PC927",
             "LI7D",
-            "CTL Chromebook NL73T Gen 2, CTL Chromebook NL73TWB Gen 2, CTL Chromebook NL73TW Gen 2"
+            "CTL Chromebook NL73T Gen 2, CTL Chromebook NL73TWB Gen 2, CTL Chromebook NL73TW Gen 2",
+            "Chromebook M11HC-PC927"
           ],
           "fsiMilestoneNumber": "M135",
           "isAue": false,
@@ -19701,7 +19701,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -19779,7 +19779,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -19857,7 +19857,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -19935,7 +19935,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -20013,7 +20013,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -20091,7 +20091,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -20169,7 +20169,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -20247,7 +20247,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -20325,7 +20325,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -20403,7 +20403,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -20462,8 +20462,8 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebook Plus CX15 (CX1505CTA) / ASUS Chromebook Plus Enterprise CX15 (CX1505CTA) / ASUS Chromebook Plus CB15 (CB1505CTA)",
-            "ASUS Chromebook CX15 (CX1505CTA) / ASUS Chromebook Enterprise CX15 (CX1505CTA) / ASUS Chromebook CB15 (CB1505CTA), ASUS Chromebook Enterprise CB15(CB1505CTA)"
+            "ASUS Chromebook CX15 (CX1505CTA) / ASUS Chromebook Enterprise CX15 (CX1505CTA) / ASUS Chromebook CB15 (CB1505CTA), ASUS Chromebook Enterprise CB15(CB1505CTA)",
+            "ASUS Chromebook Plus CX15 (CX1505CTA) / ASUS Chromebook Plus Enterprise CX15 (CX1505CTA) / ASUS Chromebook Plus CB15 (CB1505CTA)"
           ],
           "fsiMilestoneNumber": "M133",
           "isAue": false,
@@ -20488,7 +20488,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -20573,7 +20573,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -20651,7 +20651,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -20728,7 +20728,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -20806,7 +20806,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -20884,7 +20884,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -20954,7 +20954,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -21032,7 +21032,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -21110,7 +21110,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -21195,7 +21195,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -21273,7 +21273,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -21365,7 +21365,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -21443,7 +21443,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -21521,7 +21521,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -21593,7 +21593,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -21810,7 +21810,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -21888,7 +21888,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -21966,7 +21966,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -22044,7 +22044,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -22122,7 +22122,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -22207,7 +22207,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -22285,7 +22285,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -22363,7 +22363,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -22422,8 +22422,8 @@
             }
           },
           "brandNames": [
-            "Acer Chromebook 311 (CB311-9H, CB311-9HT)",
-            "Acer Chromebook 311 (C733, C733U, C733T)"
+            "Acer Chromebook 311 (C733, C733U, C733T)",
+            "Acer Chromebook 311 (CB311-9H, CB311-9HT)"
           ],
           "fsiMilestoneNumber": "M72",
           "isAue": false,
@@ -22448,7 +22448,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -22507,8 +22507,8 @@
             }
           },
           "brandNames": [
-            "Acer Chromebook Spin 311 (CP311-2H, CP311-2HN)",
-            "Acer Chromebook Spin 511 (R752T, R752TN)"
+            "Acer Chromebook Spin 511 (R752T, R752TN)",
+            "Acer Chromebook Spin 311 (CP311-2H, CP311-2HN)"
           ],
           "fsiMilestoneNumber": "M72",
           "isAue": false,
@@ -22533,7 +22533,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -22611,7 +22611,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -22689,7 +22689,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -22767,7 +22767,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -22832,9 +22832,9 @@
             }
           },
           "brandNames": [
-            "Acer Chromebook 314 (C933L/LT)",
+            "Packard Bell Chromebook 314 (PCB314)",
             "Acer Chromebook 314 (CB314)",
-            "Packard Bell Chromebook 314 (PCB314)"
+            "Acer Chromebook 314 (C933L/LT)"
           ],
           "fsiMilestoneNumber": "M76",
           "isAue": false,
@@ -22859,7 +22859,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -22944,7 +22944,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -23003,8 +23003,8 @@
             }
           },
           "brandNames": [
-            "CTL Chromebook VX11,  CTL Chromebook VX11T",
-            "Poin2 Chromebook 11P"
+            "Poin2 Chromebook 11P",
+            "CTL Chromebook VX11,  CTL Chromebook VX11T"
           ],
           "fsiMilestoneNumber": "M83",
           "isAue": false,
@@ -23029,7 +23029,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -23114,7 +23114,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -23173,8 +23173,8 @@
             }
           },
           "brandNames": [
-            "Multilaser Chromebook M14C-PC918",
-            "CTL Chromebook NL81/NL81T"
+            "CTL Chromebook NL81/NL81T",
+            "Multilaser Chromebook M14C-PC918"
           ],
           "fsiMilestoneNumber": "M86",
           "isAue": false,
@@ -23199,7 +23199,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -23342,22 +23342,22 @@
             }
           },
           "brandNames": [
-            "CTL Chromebook NL71/CT/LTE",
-            "Poin2 Chromebook 11A",
             "Axioo Chromebook",
-            "ADVAN Chromebook 116",
-            "Zyrex Chromebook M432-1/M432-128/Zyrex Chromebook 360-1",
+            "Pixart Rxart Chromebook",
+            "Poin2 Chromebook 11A",
+            "WS Chromebook A101",
+            "CTL Chromebook NL71/CT/LTE",
+            "SPC Chromebook X1 Mini",
+            "Positivo Chromebook N2210",
             "Edxis Chromebook 11 (S20-C)",
-            "XO Chromebook",
+            "Baicells Chromebook BB01",
             "EVERCOSS Chromebook CB1/CB1A",
             "Multilaser Chromebook M11C-PC914",
-            "Baicells Chromebook BB01",
             "JOI Chromebook C100",
             "Sector 5 E4 LTE Chromebook",
-            "Pixart Rxart Chromebook",
-            "WS Chromebook A101",
-            "Positivo Chromebook N2210",
-            "SPC Chromebook X1 Mini"
+            "Zyrex Chromebook M432-1/M432-128/Zyrex Chromebook 360-1",
+            "XO Chromebook",
+            "ADVAN Chromebook 116"
           ],
           "fsiMilestoneNumber": "M83",
           "isAue": false,
@@ -23382,7 +23382,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -23519,21 +23519,21 @@
             }
           },
           "brandNames": [
-            "ADVAN Chromebook 116",
+            "SPC Chromebook X1 Mini",
+            "Zyrex Chromebook 360",
             "Poin2 Chromebook 11A",
-            "Positivo Chromebook N2212",
-            "CTL Chromebook NL71T/TW/TWB",
-            "WS Chromebook A101",
-            "EVERCOSS Chromebook CB1A",
-            "Baicells Chromebook BB01",
-            "Ascon Chromebook 11A",
-            "Axioo Chromebook 360",
             "Pixart Rxart Chromebook",
             "JOI Chromebook C100",
-            "Zyrex Chromebook 360",
-            "SPC Chromebook X1 Mini",
-            "Edxis Chromebook 11 (S20-X)",
-            "Multilaser Chromebook M11HC-PC915"
+            "CTL Chromebook NL71T/TW/TWB",
+            "WS Chromebook A101",
+            "Axioo Chromebook 360",
+            "Multilaser Chromebook M11HC-PC915",
+            "EVERCOSS Chromebook CB1A",
+            "Positivo Chromebook N2212",
+            "Baicells Chromebook BB01",
+            "Ascon Chromebook 11A",
+            "ADVAN Chromebook 116",
+            "Edxis Chromebook 11 (S20-X)"
           ],
           "fsiMilestoneNumber": "M83",
           "isAue": false,
@@ -23558,7 +23558,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -23643,7 +23643,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -23721,7 +23721,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -23799,7 +23799,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -23877,7 +23877,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -23955,7 +23955,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -24033,7 +24033,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -24111,7 +24111,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -24188,11 +24188,11 @@
             }
           },
           "brandNames": [
-            "NEC Chromebook Y1",
-            "NEC Chromebook Y1 Gen 2",
-            "Lenovo 300e/500e Chromebook 2nd Gen",
             "Lenovo Chromebook C340-11/300e/500e Chromebook 2nd Gen",
-            "IdeaPad Flex 3 CB 11IGL05"
+            "IdeaPad Flex 3 CB 11IGL05",
+            "Lenovo 300e/500e Chromebook 2nd Gen",
+            "NEC Chromebook Y1 Gen 2",
+            "NEC Chromebook Y1"
           ],
           "fsiMilestoneNumber": "M72",
           "isAue": false,
@@ -24217,7 +24217,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -24295,7 +24295,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -24373,7 +24373,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -24451,7 +24451,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -24529,7 +24529,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -24660,9 +24660,9 @@
             "version": "16765.38.0"
           },
           "servingCanary": {
-            "chromeVersion": "154.0.8028.0_pre1686970",
-            "comparedToMostCommon": 3,
-            "version": "16802.0.0"
+            "chromeVersion": "154.0.8037.0_pre1689152",
+            "comparedToMostCommon": 0,
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8012.0_pre1682458",
@@ -24979,7 +24979,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -25057,7 +25057,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -25135,7 +25135,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -25213,7 +25213,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -25291,7 +25291,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -25362,10 +25362,10 @@
             }
           },
           "brandNames": [
+            "CTL Chromebox CBx2/Enterprise CBx2",
             "ViewSonic NMP760 Chromebox",
             "Wyvern MobLab",
-            "Promethean Chromebox 2",
-            "CTL Chromebox CBx2/Enterprise CBx2"
+            "Promethean Chromebox 2"
           ],
           "fsiMilestoneNumber": "M86",
           "isAue": false,
@@ -25390,7 +25390,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -25451,7 +25451,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8012.0_pre1682458",
@@ -25565,7 +25565,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -25609,8 +25609,8 @@
             }
           },
           "brandNames": [
-            "ASUS Chromebook Flip C434",
-            "ASUS Chromebook Flip C433"
+            "ASUS Chromebook Flip C433",
+            "ASUS Chromebook Flip C434"
           ],
           "fsiMilestoneNumber": "M72",
           "isAue": false,
@@ -25635,7 +25635,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -25712,7 +25712,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -25790,7 +25790,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -25851,7 +25851,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -25903,7 +25903,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -25951,10 +25951,10 @@
         }
       },
       "brandNames": [
-        "Lenovo N22 Chromebook",
         "Lenovo N23 Chromebook",
-        "Lenovo N23 Chromebook (Touch)",
-        "Lenovo N42 Chromebook"
+        "Lenovo N22 Chromebook",
+        "Lenovo N42 Chromebook",
+        "Lenovo N23 Chromebook (Touch)"
       ],
       "fsiMilestoneNumber": "M48",
       "isAue": true,
@@ -26053,14 +26053,14 @@
         }
       },
       "brandNames": [
+        "Acer Chromebook 11 N7 (C731, C731T)",
+        "HP Chromebook 11 G5 EE",
         "Edxis Education Chromebook (NL6D)",
-        "EduGear Chromebook R",
-        "CTL NL61 Chromebook",
         "Mecer V2 Chromebook",
+        "EduGear Chromebook R",
         "N/A",
         "Positivo Chromebook C216B",
-        "HP Chromebook 11 G5 EE",
-        "Acer Chromebook 11 N7 (C731, C731T)"
+        "CTL NL61 Chromebook"
       ],
       "fsiMilestoneNumber": "M52",
       "isAue": true,
@@ -26163,7 +26163,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -26235,7 +26235,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -26313,7 +26313,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -26471,7 +26471,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8012.0_pre1682458",
@@ -26543,7 +26543,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -26616,7 +26616,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -26981,8 +26981,8 @@
             }
           },
           "brandNames": [
-            "Crystaldrift Development Product",
-            "SPC Chromebook V1"
+            "SPC Chromebook V1",
+            "Crystaldrift Development Product"
           ],
           "fsiMilestoneNumber": "M117",
           "isAue": false,
@@ -27007,7 +27007,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -27092,7 +27092,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -27170,7 +27170,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -27248,7 +27248,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -27329,7 +27329,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -27406,7 +27406,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -27481,7 +27481,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -27553,7 +27553,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -27621,7 +27621,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -27691,7 +27691,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -27761,7 +27761,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -27832,7 +27832,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -27905,7 +27905,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -27964,8 +27964,8 @@
             }
           },
           "brandNames": [
-            "Lenovo Chromebook m (14\", 11)",
-            "Lenovo Chromebook Enterprise m (14\", 11)"
+            "Lenovo Chromebook Enterprise m (14\", 11)",
+            "Lenovo Chromebook m (14\", 11)"
           ],
           "fsiMilestoneNumber": "M143",
           "isAue": false,
@@ -27987,7 +27987,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -28062,7 +28062,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -28134,7 +28134,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -28202,7 +28202,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -28277,7 +28277,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -28349,7 +28349,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -28416,7 +28416,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -28485,7 +28485,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -28544,9 +28544,9 @@
             "version": "16765.38.0"
           },
           "servingCanary": {
-            "chromeVersion": "154.0.8028.0_pre1686970",
-            "comparedToMostCommon": 3,
-            "version": "16802.0.0"
+            "chromeVersion": "154.0.8037.0_pre1689152",
+            "comparedToMostCommon": 0,
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8012.0_pre1682458",
@@ -28596,9 +28596,9 @@
             "version": "16765.38.0"
           },
           "servingCanary": {
-            "chromeVersion": "154.0.8028.0_pre1686970",
-            "comparedToMostCommon": 3,
-            "version": "16802.0.0"
+            "chromeVersion": "154.0.8037.0_pre1689152",
+            "comparedToMostCommon": 0,
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8012.0_pre1682458",
@@ -28648,9 +28648,9 @@
             "version": "16765.38.0"
           },
           "servingCanary": {
-            "chromeVersion": "154.0.8028.0_pre1686970",
-            "comparedToMostCommon": 3,
-            "version": "16802.0.0"
+            "chromeVersion": "154.0.8037.0_pre1689152",
+            "comparedToMostCommon": 0,
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8012.0_pre1682458",
@@ -28706,7 +28706,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -28837,7 +28837,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -28915,7 +28915,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -29000,7 +29000,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -29129,7 +29129,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -29207,7 +29207,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -29285,7 +29285,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -29363,7 +29363,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -29750,7 +29750,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -29828,7 +29828,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -29906,7 +29906,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -29965,8 +29965,8 @@
             }
           },
           "brandNames": [
-            "Orbic Chromebook",
-            "Libera-Merdeka Chromebook C100/C110/C120/C150"
+            "Libera-Merdeka Chromebook C100/C110/C120/C150",
+            "Orbic Chromebook"
           ],
           "fsiMilestoneNumber": "M100",
           "isAue": false,
@@ -29991,7 +29991,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -30069,7 +30069,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -30147,7 +30147,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -30314,10 +30314,10 @@
         }
       },
       "brandNames": [
-        "Lava Xolo Chromebook",
         "Haier Chromebook 11",
-        "Medion Chromebook Akoya S2013",
-        "True IDC Chromebook 11"
+        "True IDC Chromebook 11",
+        "Lava Xolo Chromebook",
+        "Medion Chromebook Akoya S2013"
       ],
       "fsiMilestoneNumber": "M41",
       "isAue": true,
@@ -30412,14 +30412,14 @@
         }
       },
       "brandNames": [
-        "NComputing Chromebook CX100",
-        "VideoNet Chromebook BL10",
-        "CTL J2 / J4 Chromebook",
-        "HiSense Chromebook 11",
-        "Poin2 Chromebook 11",
         "Mecer Chromebook",
         "EduGear Chromebook K",
+        "Poin2 Chromebook 11",
+        "VideoNet Chromebook BL10",
         "Epik 11.6\" Chromebook  ELB1101",
+        "CTL J2 / J4 Chromebook",
+        "NComputing Chromebook CX100",
+        "HiSense Chromebook 11",
         "Positivo Chromebook CH1190"
       ],
       "fsiMilestoneNumber": "M41",
@@ -30560,15 +30560,15 @@
         }
       },
       "brandNames": [
-        "Nexian Chromebook 11.6\"",
-        "Sector 5 E1 Rugged Chromebook",
-        "PCMerge Chromebook PCM-116E/PCM-116EB",
-        "Viglen Chromebook 11",
-        "Haier Chromebook 11e",
         "Lumos Education Chromebook",
-        "Prowise Chromebook Entryline",
+        "Viglen Chromebook 11",
+        "EduGear Chromebook M",
+        "Haier Chromebook 11e",
+        "Nexian Chromebook 11.6\"",
         "MEDION Chromebook S2015",
-        "EduGear Chromebook M"
+        "PCMerge Chromebook PCM-116E/PCM-116EB",
+        "Prowise Chromebook Entryline",
+        "Sector 5 E1 Rugged Chromebook"
       ],
       "fsiMilestoneNumber": "M41",
       "isAue": true,
@@ -30812,7 +30812,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -30890,7 +30890,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -30968,7 +30968,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -31052,7 +31052,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -31130,7 +31130,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -31208,7 +31208,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -31285,7 +31285,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -31363,7 +31363,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -31448,7 +31448,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -31526,7 +31526,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -31604,7 +31604,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -31682,7 +31682,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -31760,7 +31760,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -31882,13 +31882,13 @@
         }
       },
       "brandNames": [
+        "Haier Chromebook 11 C",
+        "Multilaser Chromebook M11C",
+        "Viglen Chromebook 360",
         "PCMerge Chromebook PCM-116T-432B",
         "Edugear CMT Chromebook",
-        "Viglen Chromebook 360",
-        "Multilaser Chromebook M11C",
-        "Haier Chromebook 11 C",
-        "Prowise Chromebook Proline",
-        "CTL J5 Chromebook"
+        "CTL J5 Chromebook",
+        "Prowise Chromebook Proline"
       ],
       "fsiMilestoneNumber": "M52",
       "isAue": true,
@@ -32212,7 +32212,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -32290,7 +32290,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -32368,7 +32368,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -32446,7 +32446,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -32524,7 +32524,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -32602,7 +32602,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -32680,7 +32680,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -32758,7 +32758,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -32843,7 +32843,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -32921,7 +32921,7 @@
           "servingCanary": {
             "chromeVersion": "154.0.8037.0_pre1689152",
             "comparedToMostCommon": 0,
-            "version": "16807.0.0"
+            "version": "16808.0.0"
           },
           "servingDev": {
             "chromeVersion": "154.0.8027.0_pre1686544",
@@ -32947,8 +32947,8 @@
       }
     }
   },
-  "creationDate": "2026-09-02",
-  "creationTime": "17:17 PT",
+  "creationDate": "2026-09-03",
+  "creationTime": "17:48 PT",
   "enterprisePins": [
     151,
     150,
