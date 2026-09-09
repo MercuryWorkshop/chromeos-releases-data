@@ -3,11 +3,6 @@
     "ambassador": {
       "models": {
         "ambassador": {
-          "138": {
-            "chromeVersion": "138.0.7204.204",
-            "comparedToMostCommon": 0,
-            "version": "16295.54.60"
-          },
           "brandNameToFormattedDeviceMap": {
             "ASUS Meet Compute System (Intel 10th Gen)": {
               "architecture": "X86_64",
@@ -39,25 +34,15 @@
           "servingCanary": {
             "chromeVersion": "155.0.8044.0_pre1692594",
             "comparedToMostCommon": 0,
-            "version": "16812.0.0"
+            "version": "16813.0.0"
           },
           "servingDev": {
             "chromeVersion": "138.0.7204.205",
             "comparedToMostCommon": 1,
             "version": "16295.54.72"
-          },
-          "servingStable": {
-            "chromeVersion": "138.0.7204.205",
-            "comparedToMostCommon": 0,
-            "version": "16295.54.71"
           }
         },
         "genesis": {
-          "138": {
-            "chromeVersion": "138.0.7204.204",
-            "comparedToMostCommon": 0,
-            "version": "16295.54.60"
-          },
           "brandNameToFormattedDeviceMap": {
             "Meet Compute System - Series One (Intel 10th Gen)": {
               "architecture": "X86_64",
@@ -83,25 +68,15 @@
           "servingCanary": {
             "chromeVersion": "155.0.8044.0_pre1692594",
             "comparedToMostCommon": 0,
-            "version": "16812.0.0"
+            "version": "16813.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.205",
-            "comparedToMostCommon": 0,
-            "version": "16295.54.71"
-          },
-          "servingStable": {
             "chromeVersion": "138.0.7204.205",
             "comparedToMostCommon": 0,
             "version": "16295.54.71"
           }
         },
         "moonbuggy": {
-          "138": {
-            "chromeVersion": "138.0.7204.204",
-            "comparedToMostCommon": 0,
-            "version": "16295.54.60"
-          },
           "brandNameToFormattedDeviceMap": {
             "Series One Board 65": {
               "architecture": "X86_64",
@@ -127,25 +102,15 @@
           "servingCanary": {
             "chromeVersion": "155.0.8044.0_pre1692594",
             "comparedToMostCommon": 0,
-            "version": "16812.0.0"
+            "version": "16813.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.205",
-            "comparedToMostCommon": 0,
-            "version": "16295.54.71"
-          },
-          "servingStable": {
             "chromeVersion": "138.0.7204.205",
             "comparedToMostCommon": 0,
             "version": "16295.54.71"
           }
         },
         "scout": {
-          "138": {
-            "chromeVersion": "138.0.7204.204",
-            "comparedToMostCommon": 0,
-            "version": "16295.54.60"
-          },
           "brandNameToFormattedDeviceMap": {
             "Series One Desk 27": {
               "architecture": "X86_64",
@@ -171,14 +136,9 @@
           "servingCanary": {
             "chromeVersion": "155.0.8044.0_pre1692594",
             "comparedToMostCommon": 0,
-            "version": "16812.0.0"
+            "version": "16813.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.205",
-            "comparedToMostCommon": 0,
-            "version": "16295.54.71"
-          },
-          "servingStable": {
             "chromeVersion": "138.0.7204.205",
             "comparedToMostCommon": 0,
             "version": "16295.54.71"
@@ -187,6 +147,11 @@
       }
     },
     "buddy-cfm": {
+      "84": {
+        "chromeVersion": "84.0.4147.142",
+        "comparedToMostCommon": 0,
+        "version": "13099.72.33"
+      },
       "86": {
         "chromeVersion": "86.0.4240.87",
         "comparedToMostCommon": 0,
@@ -238,18 +203,13 @@
       },
       "servingStable": {
         "chromeVersion": "90.0.4430.106",
-        "comparedToMostCommon": 3,
+        "comparedToMostCommon": 0,
         "version": "13816.63.21"
       }
     },
     "constitution": {
       "models": {
         "constitution": {
-          "138": {
-            "chromeVersion": "138.0.7204.204",
-            "comparedToMostCommon": 0,
-            "version": "16295.54.60"
-          },
           "brandNameToFormattedDeviceMap": {
             "Meet Compute System - Series One (Intel 13th Gen)": {
               "architecture": "X86_64",
@@ -275,25 +235,15 @@
           "servingCanary": {
             "chromeVersion": "155.0.8044.0_pre1692594",
             "comparedToMostCommon": 0,
-            "version": "16812.0.0"
+            "version": "16813.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.205",
-            "comparedToMostCommon": 0,
-            "version": "16295.54.71"
-          },
-          "servingStable": {
             "chromeVersion": "138.0.7204.205",
             "comparedToMostCommon": 0,
             "version": "16295.54.71"
           }
         },
         "intrepid": {
-          "138": {
-            "chromeVersion": "138.0.7204.204",
-            "comparedToMostCommon": 0,
-            "version": "16295.54.60"
-          },
           "brandNameToFormattedDeviceMap": {
             "ASUS Meet Compute System (Intel 13th Gen)": {
               "architecture": "X86_64",
@@ -325,14 +275,9 @@
           "servingCanary": {
             "chromeVersion": "155.0.8044.0_pre1692594",
             "comparedToMostCommon": 0,
-            "version": "16812.0.0"
+            "version": "16813.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.205",
-            "comparedToMostCommon": 0,
-            "version": "16295.54.71"
-          },
-          "servingStable": {
             "chromeVersion": "138.0.7204.205",
             "comparedToMostCommon": 0,
             "version": "16295.54.71"
@@ -343,11 +288,6 @@
     "endeavour": {
       "models": {
         "endeavour": {
-          "138": {
-            "chromeVersion": "138.0.7204.204",
-            "comparedToMostCommon": 0,
-            "version": "16295.54.60"
-          },
           "brandNameToFormattedDeviceMap": {
             "Meet Compute System - Series One": {
               "architecture": "X86_64",
@@ -373,14 +313,9 @@
           "servingCanary": {
             "chromeVersion": "155.0.8044.0_pre1692594",
             "comparedToMostCommon": 0,
-            "version": "16812.0.0"
+            "version": "16813.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.205",
-            "comparedToMostCommon": 0,
-            "version": "16295.54.71"
-          },
-          "servingStable": {
             "chromeVersion": "138.0.7204.205",
             "comparedToMostCommon": 0,
             "version": "16295.54.71"
@@ -391,11 +326,6 @@
     "excelsior": {
       "models": {
         "excelsior": {
-          "138": {
-            "chromeVersion": "138.0.7204.204",
-            "comparedToMostCommon": 0,
-            "version": "16295.54.60"
-          },
           "brandNameToFormattedDeviceMap": {
             "ASUS Meet Compute System": {
               "architecture": "X86_64",
@@ -409,8 +339,8 @@
             }
           },
           "brandNames": [
-            "CTL Meet Compute System",
-            "ASUS Meet Compute System"
+            "ASUS Meet Compute System",
+            "CTL Meet Compute System"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -427,14 +357,9 @@
           "servingCanary": {
             "chromeVersion": "155.0.8044.0_pre1692594",
             "comparedToMostCommon": 0,
-            "version": "16812.0.0"
+            "version": "16813.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.205",
-            "comparedToMostCommon": 0,
-            "version": "16295.54.71"
-          },
-          "servingStable": {
             "chromeVersion": "138.0.7204.205",
             "comparedToMostCommon": 0,
             "version": "16295.54.71"
@@ -471,14 +396,9 @@
           "servingCanary": {
             "chromeVersion": "155.0.8044.0_pre1692594",
             "comparedToMostCommon": 0,
-            "version": "16812.0.0"
+            "version": "16813.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.205",
-            "comparedToMostCommon": 0,
-            "version": "16295.54.71"
-          },
-          "servingStable": {
             "chromeVersion": "138.0.7204.205",
             "comparedToMostCommon": 0,
             "version": "16295.54.71"
@@ -511,14 +431,9 @@
           "servingCanary": {
             "chromeVersion": "155.0.8044.0_pre1692594",
             "comparedToMostCommon": 0,
-            "version": "16812.0.0"
+            "version": "16813.0.0"
           },
           "servingDev": {
-            "chromeVersion": "138.0.7204.205",
-            "comparedToMostCommon": 0,
-            "version": "16295.54.71"
-          },
-          "servingStable": {
             "chromeVersion": "138.0.7204.205",
             "comparedToMostCommon": 0,
             "version": "16295.54.71"
@@ -527,6 +442,11 @@
       }
     },
     "guado-cfm": {
+      "84": {
+        "chromeVersion": "84.0.4147.142",
+        "comparedToMostCommon": 0,
+        "version": "13099.72.33"
+      },
       "86": {
         "chromeVersion": "86.0.4240.87",
         "comparedToMostCommon": 0,
@@ -578,7 +498,7 @@
       },
       "servingStable": {
         "chromeVersion": "90.0.4430.106",
-        "comparedToMostCommon": 3,
+        "comparedToMostCommon": 0,
         "version": "13816.63.21"
       }
     },
@@ -621,6 +541,11 @@
       }
     },
     "rikku-cfm": {
+      "84": {
+        "chromeVersion": "84.0.4147.142",
+        "comparedToMostCommon": 0,
+        "version": "13099.72.33"
+      },
       "86": {
         "chromeVersion": "86.0.4240.87",
         "comparedToMostCommon": 0,
@@ -672,17 +597,17 @@
       },
       "servingStable": {
         "chromeVersion": "90.0.4430.106",
-        "comparedToMostCommon": 3,
+        "comparedToMostCommon": 0,
         "version": "13816.63.21"
       }
     }
   },
-  "creationDate": "2026-09-07",
+  "creationDate": "2026-09-08",
   "creationTime": "16:39 PT",
   "enterprisePins": [
-    138,
     90,
     88,
-    86
+    86,
+    84
   ]
 }
