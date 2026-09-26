@@ -2976,6 +2976,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_asurada_recovery_stable-channel_AsuradaMPKeys-v10.bin.zip",
         "kernel_version": 8,
         "linux_version": "6.1.174-17659-g0213f0fcfcf5"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_asurada_recovery_stable-channel_AsuradaMPKeys-v10.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.1.174-17659-g0213f0fcfcf5"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_asurada_recovery_ltc-channel_AsuradaMPKeys-v10.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.1.166-17632-g99ec9db10448"
       }
     ],
     "brand_names": [
@@ -4960,6 +4978,15 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_atlas_recovery_lts-channel_AtlasMPKeys-v9.bin.zip",
         "kernel_version": 7,
         "linux_version": "5.10.237-26353-gdcc92db1ebd9"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_atlas_recovery_ltc-channel_AtlasMPKeys-v10.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.10.237-26375-g3268c1d2e20a"
       }
     ],
     "brand_names": [
@@ -9688,6 +9715,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_brask_recovery_stable-channel_BraskMPKeys-v37.bin.zip",
         "kernel_version": 8,
         "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_brask_recovery_stable-channel_BraskMPKeys-v37.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_brask_recovery_ltc-channel_BraskMPKeys-v37.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.6.119-09301-ga173fb671d8a"
       }
     ],
     "brand_names": [
@@ -9738,7 +9783,6 @@
       "^BUJIA-RCPG.*",
       "^BUJIA-TEDS.*",
       "^BUJIA-UDAJ.*",
-      "^BUJIA-WFFE.*",
       "^BUJIA-X.*",
       "^BUJIA-XMII.*",
       "^BUJIA-ZEDN.*",
@@ -10831,6 +10875,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_brox_recovery_stable-channel_BroxMPKeys-v8.bin.zip",
         "kernel_version": 5,
         "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_brox_recovery_stable-channel_BroxMPKeys-v8.bin.zip",
+        "kernel_version": 5,
+        "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_brox_recovery_ltc-channel_BroxMPKeys-v8.bin.zip",
+        "kernel_version": 5,
+        "linux_version": "6.6.119-09301-ga173fb671d8a"
       }
     ],
     "brand_names": [
@@ -12540,6 +12602,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_brya_recovery_stable-channel_BryaMPKeys-v23.bin.zip",
         "kernel_version": 8,
         "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_brya_recovery_stable-channel_BryaMPKeys-v23.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_brya_recovery_ltc-channel_BryaMPKeys-v23.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.6.119-09301-ga173fb671d8a"
       }
     ],
     "brand_names": [
@@ -19112,6 +19192,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_cherry_recovery_stable-channel_CherryMPKeys-v11.bin.zip",
         "kernel_version": 8,
         "linux_version": "5.10.257-26435-gd321309e1817"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_cherry_recovery_stable-channel_CherryMPKeys-v11.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.10.257-26435-gd321309e1817"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_cherry_recovery_ltc-channel_CherryMPKeys-v11.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.10.237-26375-g3268c1d2e20a"
       }
     ],
     "brand_names": [
@@ -21329,6 +21427,15 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_coral_recovery_lts-channel_CoralMPKeys-v27.bin.zip",
         "kernel_version": 7,
         "linux_version": "5.10.237-26353-gdcc92db1ebd9"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_coral_recovery_ltc-channel_CoralMPKeys-v28.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.10.237-26375-g3268c1d2e20a"
       }
     ],
     "brand_names": [
@@ -22873,6 +22980,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_corsola_recovery_stable-channel_CorsolaMPKeys-v25.bin.zip",
         "kernel_version": 8,
         "linux_version": "5.15.208-24701-g30cd1a9e675a"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_corsola_recovery_stable-channel_CorsolaMPKeys-v25.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.15.208-24701-g30cd1a9e675a"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_corsola_recovery_ltc-channel_CorsolaMPKeys-v25.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.15.195-24657-g05bc40169736"
       }
     ],
     "brand_names": [
@@ -26513,6 +26638,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_dedede_recovery_stable-channel_DededeMPKeys-v59.bin.zip",
         "kernel_version": 8,
         "linux_version": "6.1.174-17659-g0213f0fcfcf5"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_dedede_recovery_stable-channel_DededeMPKeys-v59.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.1.174-17659-g0213f0fcfcf5"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_dedede_recovery_ltc-channel_DededeMPKeys-v59.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.1.166-17632-g99ec9db10448"
       }
     ],
     "brand_names": [
@@ -28706,6 +28849,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_drallion_recovery_stable-channel_DrallionMPKeys-v10.bin.zip",
         "kernel_version": 8,
         "linux_version": "5.15.208-24701-g30cd1a9e675a"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_drallion_recovery_stable-channel_DrallionMPKeys-v10.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.15.208-24701-g30cd1a9e675a"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_drallion_recovery_ltc-channel_DrallionMPKeys-v10.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.15.195-24657-g05bc40169736"
       }
     ],
     "brand_names": [
@@ -33313,6 +33474,15 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_eve_recovery_lts-channel_EveMPKeys-v10.bin.zip",
         "kernel_version": 7,
         "linux_version": "6.6.99-09023-g7232af57f054"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_eve_recovery_ltc-channel_EveMPKeys-v11.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.6.119-09301-ga173fb671d8a"
       }
     ],
     "brand_names": [
@@ -36803,6 +36973,15 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_fizz_recovery_lts-channel_FizzMPKeys-v20.bin.zip",
         "kernel_version": 7,
         "linux_version": "5.4.293-23846-g052c0a0800f6"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_fizz_recovery_ltc-channel_FizzMPKeys-v21.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.4.302-23860-g99bb19cb02b8"
       }
     ],
     "brand_names": [
@@ -38703,6 +38882,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_geralt_recovery_lts-channel_GeraltMPKeys-v7.bin.zip",
         "kernel_version": 5,
         "linux_version": "6.1.145-17520-gad71351cfa8"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_geralt_recovery_stable-channel_GeraltMPKeys-v8.bin.zip",
+        "kernel_version": 6,
+        "linux_version": "6.1.174-17659-g0213f0fcfcf5"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_geralt_recovery_ltc-channel_GeraltMPKeys-v8.bin.zip",
+        "kernel_version": 6,
+        "linux_version": "6.1.166-17632-g99ec9db10448"
       }
     ],
     "brand_names": [
@@ -41737,6 +41934,15 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_grunt_recovery_lts-channel_GruntMPKeys-v13.bin.zip",
         "kernel_version": 7,
         "linux_version": "5.10.237-26353-gdcc92db1ebd9"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_grunt_recovery_ltc-channel_GruntMPKeys-v14.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.10.237-26375-g3268c1d2e20a"
       }
     ],
     "brand_names": [
@@ -43905,6 +44111,15 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_guybrush_recovery_stable-channel_GuybrushMPKeys-v12.bin.zip",
         "kernel_version": 8,
         "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_guybrush_recovery_stable-channel_GuybrushMPKeys-v12.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.6.141-09486-g0e760c82fdf4"
       }
     ],
     "brand_names": [
@@ -45718,6 +45933,15 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_hana_recovery_lts-channel_HanaMPKeys-v15.bin.zip",
         "kernel_version": 7,
         "linux_version": "5.15.186-24551-gda919f42ccd1"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_hana_recovery_ltc-channel_HanaMPKeys-v16.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.15.195-24657-g05bc40169736"
       }
     ],
     "brand_names": [
@@ -47833,6 +48057,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_hatch_recovery_stable-channel_HatchMPKeys-v14.bin.zip",
         "kernel_version": 8,
         "linux_version": "5.15.208-24701-g30cd1a9e675a"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_hatch_recovery_stable-channel_HatchMPKeys-v14.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.15.208-24701-g30cd1a9e675a"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_hatch_recovery_ltc-channel_HatchMPKeys-v14.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.15.195-24657-g05bc40169736"
       }
     ],
     "brand_names": [
@@ -50409,6 +50651,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_jacuzzi_recovery_stable-channel_JacuzziMPKeys-v21.bin.zip",
         "kernel_version": 8,
         "linux_version": "5.10.257-26435-gd321309e1817"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_jacuzzi_recovery_stable-channel_JacuzziMPKeys-v21.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.10.257-26435-gd321309e1817"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_jacuzzi_recovery_ltc-channel_JacuzziMPKeys-v21.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.10.237-26375-g3268c1d2e20a"
       }
     ],
     "brand_names": [
@@ -50705,6 +50965,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_jedi_recovery_stable-channel_JediMPKeys-v5.bin.zip",
         "kernel_version": 4,
         "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_jedi_recovery_stable-channel_JediMPKeys-v5.bin.zip",
+        "kernel_version": 4,
+        "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_jedi_recovery_ltc-channel_JediMPKeys-v5.bin.zip",
+        "kernel_version": 4,
+        "linux_version": "6.6.119-CL7037511-v57-09250-g689d8233d45d-dirty"
       }
     ],
     "brand_names": [
@@ -52471,6 +52749,15 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_kalista_recovery_lts-channel_KalistaMPKeys-v9.bin.zip",
         "kernel_version": 7,
         "linux_version": "5.4.293-23846-g052c0a0800f6"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_kalista_recovery_ltc-channel_KalistaMPKeys-v10.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.4.302-23860-g99bb19cb02b8"
       }
     ],
     "brand_names": [
@@ -56798,6 +57085,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_kukui_recovery_stable-channel_KukuiMPKeys-v13.bin.zip",
         "kernel_version": 8,
         "linux_version": "5.10.257-26435-gd321309e1817"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_kukui_recovery_stable-channel_KukuiMPKeys-v13.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.10.257-26435-gd321309e1817"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_kukui_recovery_ltc-channel_KukuiMPKeys-v13.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.10.237-26375-g3268c1d2e20a"
       }
     ],
     "brand_names": [
@@ -62107,6 +62412,15 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_nami_recovery_lts-channel_NamiMPKeys-v12.bin.zip",
         "kernel_version": 7,
         "linux_version": "5.4.293-23846-g052c0a0800f6"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_nami_recovery_ltc-channel_NamiMPKeys-v13.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.4.302-23860-g99bb19cb02b8"
       }
     ],
     "brand_names": [
@@ -63826,6 +64140,15 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_nautilus_recovery_lts-channel_NautilusMPKeys-v9.bin.zip",
         "kernel_version": 7,
         "linux_version": "6.6.99-09023-g7232af57f054"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_nautilus_recovery_ltc-channel_NautilusMPKeys-v10.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.6.119-09301-ga173fb671d8a"
       }
     ],
     "brand_names": [
@@ -65155,6 +65478,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_nirva_recovery_stable-channel_NissaMPKeys-v76.bin.zip",
         "kernel_version": 8,
         "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_nirva_recovery_stable-channel_NissaMPKeys-v76.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_nirva_recovery_ltc-channel_NissaMPKeys-v76.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.6.119-09301-ga173fb671d8a"
       }
     ],
     "brand_names": [
@@ -66684,6 +67025,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_nissa_recovery_stable-channel_NissaMPKeys-v76.bin.zip",
         "kernel_version": 8,
         "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_nissa_recovery_stable-channel_NissaMPKeys-v76.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_nissa_recovery_ltc-channel_NissaMPKeys-v76.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.6.119-09301-ga173fb671d8a"
       }
     ],
     "brand_names": [
@@ -69010,6 +69369,15 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_nocturne_recovery_lts-channel_NocturneMPKeys-v8.bin.zip",
         "kernel_version": 7,
         "linux_version": "5.10.237-26353-gdcc92db1ebd9"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_nocturne_recovery_ltc-channel_NocturneMPKeys-v9.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.10.237-26375-g3268c1d2e20a"
       }
     ],
     "brand_names": [
@@ -72375,6 +72743,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_octopus_recovery_stable-channel_OctopusMPKeys-v39.bin.zip",
         "kernel_version": 8,
         "linux_version": "5.15.208-24701-g30cd1a9e675a"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_octopus_recovery_stable-channel_OctopusMPKeys-v39.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.15.208-24701-g30cd1a9e675a"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_octopus_recovery_ltc-channel_OctopusMPKeys-v39.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.15.195-24657-g05bc40169736"
       }
     ],
     "brand_names": [
@@ -77214,6 +77600,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_puff_recovery_stable-channel_PuffMPKeys-v19.bin.zip",
         "kernel_version": 8,
         "linux_version": "5.15.208-24701-g30cd1a9e675a"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_puff_recovery_stable-channel_PuffMPKeys-v19.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.15.208-24701-g30cd1a9e675a"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_puff_recovery_ltc-channel_PuffMPKeys-v19.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.15.195-24657-g05bc40169736"
       }
     ],
     "brand_names": [
@@ -78897,6 +79301,15 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_pyro_recovery_lts-channel_PyroMPKeys-v8.bin.zip",
         "kernel_version": 7,
         "linux_version": "5.10.237-26353-gdcc92db1ebd9"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_pyro_recovery_ltc-channel_PyroMPKeys-v9.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.10.237-26375-g3268c1d2e20a"
       }
     ],
     "brand_names": [
@@ -81421,6 +81834,15 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_rammus_recovery_lts-channel_RammusMPKeys-v9.bin.zip",
         "kernel_version": 7,
         "linux_version": "5.10.237-26353-gdcc92db1ebd9"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_rammus_recovery_ltc-channel_RammusMPKeys-v10.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.10.237-26375-g3268c1d2e20a"
       }
     ],
     "brand_names": [
@@ -82318,6 +82740,15 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_rauru_recovery_lts-channel_RauruMPKeys-v7.bin.zip",
         "kernel_version": 4,
         "linux_version": "6.6.99-09023-g7232af57f054"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_rauru_recovery_ltc-channel_RauruMPKeys-v8.bin.zip",
+        "kernel_version": 5,
+        "linux_version": "6.6.119-09301-ga173fb671d8a"
       }
     ],
     "brand_names": [
@@ -84023,6 +84454,15 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_reef_recovery_lts-channel_ReefMPKeys-v10.bin.zip",
         "kernel_version": 7,
         "linux_version": "5.10.237-26353-gdcc92db1ebd9"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_reef_recovery_ltc-channel_ReefMPKeys-v11.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.10.237-26375-g3268c1d2e20a"
       }
     ],
     "brand_names": [
@@ -88373,6 +88813,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_rex_recovery_stable-channel_RexMPKeys-v8.bin.zip",
         "kernel_version": 6,
         "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_rex_recovery_stable-channel_RexMPKeys-v8.bin.zip",
+        "kernel_version": 6,
+        "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_rex_recovery_ltc-channel_RexMPKeys-v8.bin.zip",
+        "kernel_version": 6,
+        "linux_version": "6.6.119-09301-ga173fb671d8a"
       }
     ],
     "brand_names": [
@@ -91130,6 +91588,15 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_sand_recovery_lts-channel_SandMPKeys-v8.bin.zip",
         "kernel_version": 7,
         "linux_version": "5.10.237-26353-gdcc92db1ebd9"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_sand_recovery_ltc-channel_SandMPKeys-v9.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.10.237-26375-g3268c1d2e20a"
       }
     ],
     "brand_names": [
@@ -93211,6 +93678,15 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_sarien_recovery_lts-channel_SarienMPKeys-v10.bin.zip",
         "kernel_version": 7,
         "linux_version": "5.10.237-26353-gdcc92db1ebd9"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_sarien_recovery_ltc-channel_SarienMPKeys-v11.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "5.10.237-26375-g3268c1d2e20a"
       }
     ],
     "brand_names": [
@@ -96900,6 +97376,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_skyrim_recovery_stable-channel_SkyrimMPKeys-v13.bin.zip",
         "kernel_version": 7,
         "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_skyrim_recovery_stable-channel_SkyrimMPKeys-v13.bin.zip",
+        "kernel_version": 7,
+        "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_skyrim_recovery_ltc-channel_SkyrimMPKeys-v13.bin.zip",
+        "kernel_version": 7,
+        "linux_version": "6.6.119-09301-ga173fb671d8a"
       }
     ],
     "brand_names": [
@@ -97515,6 +98009,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_skywalker_recovery_stable-channel_SkywalkerMPKeys-v12.bin.zip",
         "kernel_version": 3,
         "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_skywalker_recovery_stable-channel_SkywalkerMPKeys-v12.bin.zip",
+        "kernel_version": 3,
+        "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_skywalker_recovery_ltc-channel_SkywalkerMPKeys-v12.bin.zip",
+        "kernel_version": 3,
+        "linux_version": "6.6.119-09301-ga173fb671d8a"
       }
     ],
     "brand_names": [
@@ -97547,7 +98059,10 @@
       "^BAZE-OVGS.*",
       "^DOOKU-PYHA.*",
       "^GROGU-IVAT.*",
+      "^JAINA-FKKX.*",
       "^JYE-BLUP.*",
+      "^KYLO-QFYR.*",
+      "^LEIA-XJAX.*",
       "^MACE-VEVA.*",
       "^OBIWAN-NJHT.*",
       "^PHASMA-AXFQ.*",
@@ -100901,6 +101416,15 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_soraka_recovery_lts-channel_SorakaMPKeys-v8.bin.zip",
         "kernel_version": 7,
         "linux_version": "6.6.99-09023-g7232af57f054"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_soraka_recovery_ltc-channel_SorakaMPKeys-v9.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.6.119-09301-ga173fb671d8a"
       }
     ],
     "brand_names": [
@@ -102642,6 +103166,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_staryu_recovery_stable-channel_StaryuMPKeys-v11.bin.zip",
         "kernel_version": 7,
         "linux_version": "5.15.208-24701-g30cd1a9e675a"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_staryu_recovery_stable-channel_StaryuMPKeys-v11.bin.zip",
+        "kernel_version": 7,
+        "linux_version": "5.15.208-24701-g30cd1a9e675a"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_staryu_recovery_ltc-channel_StaryuMPKeys-v11.bin.zip",
+        "kernel_version": 7,
+        "linux_version": "5.15.195-24657-g05bc40169736"
       }
     ],
     "brand_names": [
@@ -105003,6 +105545,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_strongbad_recovery_stable-channel_StrongbadMPKeys-v13.bin.zip",
         "kernel_version": 8,
         "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_strongbad_recovery_stable-channel_StrongbadMPKeys-v13.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_strongbad_recovery_ltc-channel_StrongbadMPKeys-v13.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.6.119-09301-ga173fb671d8a"
       }
     ],
     "brand_names": [
@@ -109984,6 +110544,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_trogdor_recovery_stable-channel_TrogdorMPKeys-v19.bin.zip",
         "kernel_version": 8,
         "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_trogdor_recovery_stable-channel_TrogdorMPKeys-v19.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_trogdor_recovery_ltc-channel_TrogdorMPKeys-v19.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.6.119-09301-ga173fb671d8a"
       }
     ],
     "brand_names": [
@@ -116264,6 +116842,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_volteer_recovery_stable-channel_VolteerMPKeys-v15.bin.zip",
         "kernel_version": 8,
         "linux_version": "6.12.91-01399-gab3a8a1524cc"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_volteer_recovery_stable-channel_VolteerMPKeys-v15.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.12.91-01399-gab3a8a1524cc"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_volteer_recovery_ltc-channel_VolteerMPKeys-v15.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.12.54-01180-gb4e10020ba49"
       }
     ],
     "brand_names": [
@@ -121142,6 +121738,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.49.0_zork_recovery_stable-channel_ZorkMPKeys-v15.bin.zip",
         "kernel_version": 8,
         "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790360827,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_zork_recovery_stable-channel_ZorkMPKeys-v15.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.6.141-09486-g0e760c82fdf4"
+      },
+      {
+        "platform_version": "16700.65.0",
+        "chrome_version": "150.0.7871.255",
+        "channel": "ltc-channel",
+        "last_modified": 1790370405,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.65.0_zork_recovery_ltc-channel_ZorkMPKeys-v15.bin.zip",
+        "kernel_version": 8,
+        "linux_version": "6.6.119-09301-ga173fb671d8a"
       }
     ],
     "brand_names": [
