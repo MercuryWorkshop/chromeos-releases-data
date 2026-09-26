@@ -39,11 +39,11 @@
           "servingCanary": {
             "chromeVersion": "156.0.8069.0_pre1702504",
             "comparedToMostCommon": 0,
-            "version": "16831.0.0"
+            "version": "16832.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
-            "comparedToMostCommon": 0,
+            "comparedToMostCommon": 2,
             "version": "16700.25.10"
           },
           "servingStable": {
@@ -83,11 +83,11 @@
           "servingCanary": {
             "chromeVersion": "156.0.8069.0_pre1702504",
             "comparedToMostCommon": 0,
-            "version": "16831.0.0"
+            "version": "16832.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
-            "comparedToMostCommon": 0,
+            "comparedToMostCommon": 2,
             "version": "16700.25.10"
           },
           "servingStable": {
@@ -127,11 +127,11 @@
           "servingCanary": {
             "chromeVersion": "156.0.8069.0_pre1702504",
             "comparedToMostCommon": 0,
-            "version": "16831.0.0"
+            "version": "16832.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
-            "comparedToMostCommon": 0,
+            "comparedToMostCommon": 2,
             "version": "16700.25.10"
           },
           "servingStable": {
@@ -171,11 +171,11 @@
           "servingCanary": {
             "chromeVersion": "156.0.8069.0_pre1702504",
             "comparedToMostCommon": 0,
-            "version": "16831.0.0"
+            "version": "16832.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
-            "comparedToMostCommon": 0,
+            "comparedToMostCommon": 2,
             "version": "16700.25.10"
           },
           "servingStable": {
@@ -270,12 +270,12 @@
           "servingCanary": {
             "chromeVersion": "156.0.8069.0_pre1702504",
             "comparedToMostCommon": 0,
-            "version": "16831.0.0"
+            "version": "16832.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
             "comparedToMostCommon": 0,
-            "version": "16700.25.10"
+            "version": "16700.25.11"
           },
           "servingStable": {
             "chromeVersion": "138.0.7204.205",
@@ -307,8 +307,8 @@
             }
           },
           "brandNames": [
-            "CTL Meet Compute System (Intel 13th Gen)",
-            "ASUS Meet Compute System (Intel 13th Gen)"
+            "ASUS Meet Compute System (Intel 13th Gen)",
+            "CTL Meet Compute System (Intel 13th Gen)"
           ],
           "fsiMilestoneNumber": "M138",
           "isAue": false,
@@ -320,12 +320,12 @@
           "servingCanary": {
             "chromeVersion": "156.0.8069.0_pre1702504",
             "comparedToMostCommon": 0,
-            "version": "16831.0.0"
+            "version": "16832.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
             "comparedToMostCommon": 0,
-            "version": "16700.25.10"
+            "version": "16700.25.11"
           },
           "servingStable": {
             "chromeVersion": "138.0.7204.205",
@@ -368,12 +368,12 @@
           "servingCanary": {
             "chromeVersion": "156.0.8069.0_pre1702504",
             "comparedToMostCommon": 0,
-            "version": "16831.0.0"
+            "version": "16832.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
             "comparedToMostCommon": 0,
-            "version": "16700.25.10"
+            "version": "16700.25.11"
           },
           "servingStable": {
             "chromeVersion": "138.0.7204.205",
@@ -409,8 +409,8 @@
             }
           },
           "brandNames": [
-            "ASUS Meet Compute System",
-            "CTL Meet Compute System"
+            "CTL Meet Compute System",
+            "ASUS Meet Compute System"
           ],
           "fsiMilestoneNumber": "-",
           "isAue": false,
@@ -422,12 +422,12 @@
           "servingCanary": {
             "chromeVersion": "156.0.8069.0_pre1702504",
             "comparedToMostCommon": 0,
-            "version": "16831.0.0"
+            "version": "16832.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
             "comparedToMostCommon": 0,
-            "version": "16700.25.10"
+            "version": "16700.25.11"
           },
           "servingStable": {
             "chromeVersion": "138.0.7204.205",
@@ -461,12 +461,12 @@
           "servingCanary": {
             "chromeVersion": "156.0.8069.0_pre1702504",
             "comparedToMostCommon": 0,
-            "version": "16831.0.0"
+            "version": "16832.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
             "comparedToMostCommon": 0,
-            "version": "16700.25.10"
+            "version": "16700.25.11"
           }
         },
         "wukong": {
@@ -491,12 +491,12 @@
           "servingCanary": {
             "chromeVersion": "156.0.8069.0_pre1702504",
             "comparedToMostCommon": 0,
-            "version": "16831.0.0"
+            "version": "16832.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
             "comparedToMostCommon": 0,
-            "version": "16700.25.10"
+            "version": "16700.25.11"
           }
         }
       }
@@ -642,7 +642,7 @@
       }
     }
   },
-  "creationDate": "2026-09-24",
+  "creationDate": "2026-09-25",
   "creationTime": "16:39 PT",
   "enterprisePins": [
     138,
