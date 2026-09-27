@@ -366,9 +366,9 @@
             "138": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.54.71_endeavour_recovery_stable-channel_EndeavourMPKeys-v6.bin.zip"
           },
           "servingCanary": {
-            "chromeVersion": "156.0.8069.0_pre1702504",
-            "comparedToMostCommon": 0,
-            "version": "16832.0.0"
+            "chromeVersion": "156.0.8073.0_pre1704219",
+            "comparedToMostCommon": 1,
+            "version": "16833.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
@@ -420,9 +420,9 @@
             "138": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.54.71_excelsior_recovery_stable-channel_ExcelsiorMPKeys-v8.bin.zip"
           },
           "servingCanary": {
-            "chromeVersion": "156.0.8069.0_pre1702504",
-            "comparedToMostCommon": 0,
-            "version": "16832.0.0"
+            "chromeVersion": "156.0.8073.0_pre1704219",
+            "comparedToMostCommon": 1,
+            "version": "16833.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
@@ -459,9 +459,9 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.26_fizz-cfm_recovery_stable-channel_FizzMPKeys-v17.bin.zip"
           },
           "servingCanary": {
-            "chromeVersion": "156.0.8069.0_pre1702504",
-            "comparedToMostCommon": 0,
-            "version": "16832.0.0"
+            "chromeVersion": "156.0.8073.0_pre1704219",
+            "comparedToMostCommon": 1,
+            "version": "16833.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
@@ -489,9 +489,9 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.26_fizz-cfm_recovery_stable-channel_FizzMPKeys-v17.bin.zip"
           },
           "servingCanary": {
-            "chromeVersion": "156.0.8069.0_pre1702504",
-            "comparedToMostCommon": 0,
-            "version": "16832.0.0"
+            "chromeVersion": "156.0.8073.0_pre1704219",
+            "comparedToMostCommon": 1,
+            "version": "16833.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
@@ -642,7 +642,7 @@
       }
     }
   },
-  "creationDate": "2026-09-25",
+  "creationDate": "2026-09-26",
   "creationTime": "16:39 PT",
   "enterprisePins": [
     138,
