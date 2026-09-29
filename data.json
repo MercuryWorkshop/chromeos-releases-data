@@ -87551,6 +87551,15 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16828.0.0_reven_recovery_dev-channel_RevenMPKeys-v11.bin.zip",
         "kernel_version": 7,
         "linux_version": "6.12.100-01486-g6d5c34dd8ca1"
+      },
+      {
+        "platform_version": "16765.51.0",
+        "chrome_version": "152.0.7977.132",
+        "channel": "stable-channel",
+        "last_modified": 1790600173,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip",
+        "kernel_version": 7,
+        "linux_version": "6.12.91-01399-gab3a8a1524cc"
       }
     ],
     "brand_names": [
