@@ -36,10 +36,15 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.30_ambassador_recovery_stable-channel_AmbassadorMPKeys-v9.bin.zip",
             "138": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.54.71_ambassador_recovery_stable-channel_AmbassadorMPKeys-v11.bin.zip"
           },
-          "servingCanary": {
-            "chromeVersion": "156.0.8077.0_pre1706005",
+          "servingBeta": {
+            "chromeVersion": "150.0.7871.166",
             "comparedToMostCommon": 0,
-            "version": "16838.0.0"
+            "version": "16700.25.12"
+          },
+          "servingCanary": {
+            "chromeVersion": "157.0.8079.0_pre1707279",
+            "comparedToMostCommon": 0,
+            "version": "16839.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
@@ -80,10 +85,15 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.30_ambassador_recovery_stable-channel_AmbassadorMPKeys-v9.bin.zip",
             "138": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.54.71_ambassador_recovery_stable-channel_AmbassadorMPKeys-v11.bin.zip"
           },
-          "servingCanary": {
-            "chromeVersion": "156.0.8077.0_pre1706005",
+          "servingBeta": {
+            "chromeVersion": "150.0.7871.166",
             "comparedToMostCommon": 0,
-            "version": "16838.0.0"
+            "version": "16700.25.12"
+          },
+          "servingCanary": {
+            "chromeVersion": "157.0.8079.0_pre1707279",
+            "comparedToMostCommon": 0,
+            "version": "16839.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
@@ -124,10 +134,15 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.30_ambassador_recovery_stable-channel_AmbassadorMPKeys-v9.bin.zip",
             "138": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.54.71_ambassador_recovery_stable-channel_AmbassadorMPKeys-v11.bin.zip"
           },
-          "servingCanary": {
-            "chromeVersion": "156.0.8077.0_pre1706005",
+          "servingBeta": {
+            "chromeVersion": "150.0.7871.166",
             "comparedToMostCommon": 0,
-            "version": "16838.0.0"
+            "version": "16700.25.12"
+          },
+          "servingCanary": {
+            "chromeVersion": "157.0.8079.0_pre1707279",
+            "comparedToMostCommon": 0,
+            "version": "16839.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
@@ -168,10 +183,15 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.30_ambassador_recovery_stable-channel_AmbassadorMPKeys-v9.bin.zip",
             "138": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.54.71_ambassador_recovery_stable-channel_AmbassadorMPKeys-v11.bin.zip"
           },
-          "servingCanary": {
-            "chromeVersion": "156.0.8077.0_pre1706005",
+          "servingBeta": {
+            "chromeVersion": "150.0.7871.166",
             "comparedToMostCommon": 0,
-            "version": "16838.0.0"
+            "version": "16700.25.12"
+          },
+          "servingCanary": {
+            "chromeVersion": "157.0.8079.0_pre1707279",
+            "comparedToMostCommon": 0,
+            "version": "16839.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
@@ -218,7 +238,7 @@
       },
       "servingBeta": {
         "chromeVersion": "90.0.4430.106",
-        "comparedToMostCommon": 0,
+        "comparedToMostCommon": 3,
         "version": "13816.63.21"
       },
       "servingCanary": {
@@ -267,10 +287,15 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.30_constitution_recovery_stable-channel_ConstitutionMPKeys-v8.bin.zip",
             "138": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.54.71_constitution_recovery_stable-channel_ConstitutionMPKeys-v10.bin.zip"
           },
-          "servingCanary": {
-            "chromeVersion": "156.0.8077.0_pre1706005",
+          "servingBeta": {
+            "chromeVersion": "150.0.7871.166",
             "comparedToMostCommon": 0,
-            "version": "16838.0.0"
+            "version": "16700.25.12"
+          },
+          "servingCanary": {
+            "chromeVersion": "157.0.8079.0_pre1707279",
+            "comparedToMostCommon": 0,
+            "version": "16839.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
@@ -307,8 +332,8 @@
             }
           },
           "brandNames": [
-            "CTL Meet Compute System (Intel 13th Gen)",
-            "ASUS Meet Compute System (Intel 13th Gen)"
+            "ASUS Meet Compute System (Intel 13th Gen)",
+            "CTL Meet Compute System (Intel 13th Gen)"
           ],
           "fsiMilestoneNumber": "M138",
           "isAue": false,
@@ -317,10 +342,15 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.30_constitution_recovery_stable-channel_ConstitutionMPKeys-v8.bin.zip",
             "138": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.54.71_constitution_recovery_stable-channel_ConstitutionMPKeys-v10.bin.zip"
           },
-          "servingCanary": {
-            "chromeVersion": "156.0.8077.0_pre1706005",
+          "servingBeta": {
+            "chromeVersion": "150.0.7871.166",
             "comparedToMostCommon": 0,
-            "version": "16838.0.0"
+            "version": "16700.25.12"
+          },
+          "servingCanary": {
+            "chromeVersion": "157.0.8079.0_pre1707279",
+            "comparedToMostCommon": 0,
+            "version": "16839.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
@@ -365,10 +395,15 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.30_endeavour_recovery_stable-channel_mp-v3.bin.zip",
             "138": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.54.71_endeavour_recovery_stable-channel_EndeavourMPKeys-v6.bin.zip"
           },
-          "servingCanary": {
-            "chromeVersion": "156.0.8077.0_pre1706005",
+          "servingBeta": {
+            "chromeVersion": "150.0.7871.166",
             "comparedToMostCommon": 0,
-            "version": "16838.0.0"
+            "version": "16700.25.12"
+          },
+          "servingCanary": {
+            "chromeVersion": "157.0.8079.0_pre1707279",
+            "comparedToMostCommon": 0,
+            "version": "16839.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
@@ -419,10 +454,15 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.30_excelsior_recovery_stable-channel_mp-v5.bin.zip",
             "138": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16295.54.71_excelsior_recovery_stable-channel_ExcelsiorMPKeys-v8.bin.zip"
           },
-          "servingCanary": {
-            "chromeVersion": "156.0.8077.0_pre1706005",
+          "servingBeta": {
+            "chromeVersion": "150.0.7871.166",
             "comparedToMostCommon": 0,
-            "version": "16838.0.0"
+            "version": "16700.25.12"
+          },
+          "servingCanary": {
+            "chromeVersion": "157.0.8079.0_pre1707279",
+            "comparedToMostCommon": 0,
+            "version": "16839.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
@@ -459,9 +499,9 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.26_fizz-cfm_recovery_stable-channel_FizzMPKeys-v17.bin.zip"
           },
           "servingCanary": {
-            "chromeVersion": "156.0.8077.0_pre1706005",
+            "chromeVersion": "157.0.8079.0_pre1707279",
             "comparedToMostCommon": 0,
-            "version": "16838.0.0"
+            "version": "16839.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
@@ -489,9 +529,9 @@
             "132": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16093.68.26_fizz-cfm_recovery_stable-channel_FizzMPKeys-v17.bin.zip"
           },
           "servingCanary": {
-            "chromeVersion": "156.0.8077.0_pre1706005",
+            "chromeVersion": "157.0.8079.0_pre1707279",
             "comparedToMostCommon": 0,
-            "version": "16838.0.0"
+            "version": "16839.0.0"
           },
           "servingDev": {
             "chromeVersion": "150.0.7871.166",
@@ -533,7 +573,7 @@
       },
       "servingBeta": {
         "chromeVersion": "90.0.4430.106",
-        "comparedToMostCommon": 0,
+        "comparedToMostCommon": 3,
         "version": "13816.63.21"
       },
       "servingCanary": {
@@ -574,7 +614,7 @@
           },
           "servingBeta": {
             "chromeVersion": "132.0.6834.183",
-            "comparedToMostCommon": 1,
+            "comparedToMostCommon": 3,
             "version": "16093.68.40"
           },
           "servingCanary": {
@@ -622,7 +662,7 @@
       },
       "servingBeta": {
         "chromeVersion": "90.0.4430.106",
-        "comparedToMostCommon": 0,
+        "comparedToMostCommon": 3,
         "version": "13816.63.21"
       },
       "servingCanary": {
@@ -642,7 +682,7 @@
       }
     }
   },
-  "creationDate": "2026-09-30",
+  "creationDate": "2026-10-01",
   "creationTime": "16:39 PT",
   "enterprisePins": [
     138,
