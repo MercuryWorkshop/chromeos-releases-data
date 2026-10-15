@@ -33,8 +33,6 @@
       "isAue": false,
       "isExperimental": false,
       "pushRecoveries": {
-        "143": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16463.79.0_reven_recovery_stable-channel_mp-v8.bin.zip",
-        "144": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.60.0_reven_recovery_stable-channel_RevenMPKeys-v8.bin.zip",
         "145": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16552.59.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
         "146": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16581.54.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
         "147": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16610.57.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
@@ -42,7 +40,8 @@
         "149": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16667.62.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
         "150": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.60.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip",
         "151": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16733.57.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip",
-        "152": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip"
+        "152": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip",
+        "154": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.33.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip"
       },
       "servingBeta": {
         "chromeVersion": "156.0.8078.31",
@@ -76,7 +75,7 @@
       }
     }
   },
-  "creationDate": "2026-10-13",
+  "creationDate": "2026-10-14",
   "creationTime": "16:42 PT",
   "enterprisePins": [
     154,
