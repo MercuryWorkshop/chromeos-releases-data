@@ -68072,6 +68072,8 @@
       "Acer Chromebook Spin 512 (R856T R856T-TCO R856TN R856TN-TCO R856LT R856LT-TCO R856LTN R856LTN-TCO)",
       "Acer Chromebook Spin 512(R857T/R857TN/R857LT/R857LTN/R857T-TCO/R857TN-TCO/R857LT-TCO/R857LTN-TCO)",
       "Acer Chromebox Mini CXM2 (TWL)",
+      "Arai Stratus ME1 Chromebook Convertible, Arai Stratus ME1 Chromebook Enterprise Convertible",
+      "Arai Stratus ME1 Chromebook LTE, Arai Stratus ME1 Chromebook Enterprise LTE",
       "CA21A",
       "CA31AC",
       "CR1102C",
@@ -88874,6 +88876,33 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16847.0.0_reven_recovery_dev-channel_RevenMPKeys-v11.bin.zip",
         "kernel_version": 7,
         "linux_version": "6.12.100-01489-g51f2727a0121"
+      },
+      {
+        "platform_version": "16805.33.0",
+        "chrome_version": "154.0.8037.151",
+        "channel": "stable-channel",
+        "last_modified": 1791983141,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.33.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip",
+        "kernel_version": 7,
+        "linux_version": "6.12.94-01435-g7018d9b975d1"
+      },
+      {
+        "platform_version": "16700.66.0",
+        "chrome_version": "150.0.7871.256",
+        "channel": "ltc-channel",
+        "last_modified": 1791984181,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.66.0_reven_recovery_ltc-channel_RevenMPKeys-v11.bin.zip",
+        "kernel_version": 7,
+        "linux_version": "6.12.54-01180-gb4e10020ba49"
+      },
+      {
+        "platform_version": "16700.66.0",
+        "chrome_version": "150.0.7871.256",
+        "channel": "lts-channel",
+        "last_modified": 1791984897,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.66.0_reven_recovery_lts-channel_RevenMPKeys-v11.bin.zip",
+        "kernel_version": 7,
+        "linux_version": "6.12.54-01180-gb4e10020ba49"
       }
     ],
     "brand_names": [
