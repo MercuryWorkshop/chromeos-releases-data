@@ -1,11 +1,6 @@
 {
   "builds": {
     "reven": {
-      "150": {
-        "chromeVersion": "150.0.7871.222",
-        "comparedToMostCommon": 0,
-        "version": "16700.61.0"
-      },
       "151": {
         "chromeVersion": "151.0.7922.222",
         "comparedToMostCommon": 0,
@@ -20,6 +15,11 @@
         "chromeVersion": "154.0.8037.154",
         "comparedToMostCommon": 0,
         "version": "16805.36.0"
+      },
+      "156": {
+        "chromeVersion": "156.0.8078.77",
+        "comparedToMostCommon": 0,
+        "version": "16836.30.0"
       },
       "brandNameToFormattedDeviceMap": {
         "ChromeOS Flex": {
@@ -54,9 +54,9 @@
         "version": "15483.0.0"
       },
       "servingDev": {
-        "chromeVersion": "157.0.8103.7",
+        "chromeVersion": "158.0.8127.5",
         "comparedToMostCommon": 0,
-        "version": "16852.6.0"
+        "version": "16868.5.0"
       },
       "servingLtc": {
         "chromeVersion": "150.0.7871.287",
@@ -75,12 +75,12 @@
       }
     }
   },
-  "creationDate": "2026-10-30",
+  "creationDate": "2026-10-31",
   "creationTime": "16:42 PT",
   "enterprisePins": [
+    156,
     154,
     152,
-    151,
-    150
+    151
   ]
 }
