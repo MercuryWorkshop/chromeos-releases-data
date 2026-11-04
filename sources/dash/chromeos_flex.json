@@ -33,20 +33,19 @@
       "isAue": false,
       "isExperimental": false,
       "pushRecoveries": {
-        "145": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16552.59.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
-        "146": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16581.54.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
         "147": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16610.57.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
         "148": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16640.61.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
         "149": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16667.62.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
         "150": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.60.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip",
         "151": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16733.57.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip",
         "152": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip",
-        "154": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.36.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip"
+        "154": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.36.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip",
+        "156": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16836.30.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip"
       },
       "servingBeta": {
-        "chromeVersion": "157.0.8103.23",
+        "chromeVersion": "158.0.8127.9",
         "comparedToMostCommon": 0,
-        "version": "16852.15.0"
+        "version": "16868.9.0"
       },
       "servingCanary": {
         "chromeVersion": "116.0.5802.0",
@@ -75,7 +74,7 @@
       }
     }
   },
-  "creationDate": "2026-11-02",
+  "creationDate": "2026-11-03",
   "creationTime": "17:42 PT",
   "enterprisePins": [
     156,
