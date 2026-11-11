@@ -78,20 +78,20 @@
   {
     "channel": "STABLE",
     "desc": "",
-    "file": "chromeos_16836.30.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin",
+    "file": "chromeos_16836.32.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin",
     "filesize": 9523261952,
     "hwidmatch": "^REVEN($|-.*)",
     "manufacturer": "Google ChromeOS Flex",
-    "md5": "5121ab6cef9a644b4d94b45e28f00ca4",
+    "md5": "c7d52a8408dc7ea5c0c5462ef081aa62",
     "model": "ChromeOS Flex",
     "name": "ChromeOS Flex",
     "photourl": "",
-    "sha1": "978f3920026eb25c1b3bdea9e93541033d64084d",
+    "sha1": "c9aee70432d3915064a412cfa0086404969be7c4",
     "sku": "",
-    "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16836.30.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip",
-    "version": "16836.30.0",
-    "zipfilesize": 1376548043,
-    "chrome_version": "156.0.8078.77",
+    "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16836.32.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip",
+    "version": "16836.32.0",
+    "zipfilesize": 1376283934,
+    "chrome_version": "156.0.8078.93",
     "hwids": []
   }
 ]
