@@ -91391,6 +91391,24 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16883.5.0_reven_recovery_dev-channel_RevenMPKeys-v11.bin.zip",
         "kernel_version": 7,
         "linux_version": "6.12.100-01501-g51b95a8c6ae3"
+      },
+      {
+        "platform_version": "16700.70.0",
+        "chrome_version": "150.0.7871.289",
+        "channel": "ltc-channel",
+        "last_modified": 1794843404,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.70.0_reven_recovery_ltc-channel_RevenMPKeys-v11.bin.zip",
+        "kernel_version": 7,
+        "linux_version": "6.12.54-01180-gb4e10020ba49"
+      },
+      {
+        "platform_version": "16700.70.0",
+        "chrome_version": "150.0.7871.289",
+        "channel": "lts-channel",
+        "last_modified": 1794844491,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.70.0_reven_recovery_lts-channel_RevenMPKeys-v11.bin.zip",
+        "kernel_version": 7,
+        "linux_version": "6.12.54-01180-gb4e10020ba49"
       }
     ],
     "brand_names": [
