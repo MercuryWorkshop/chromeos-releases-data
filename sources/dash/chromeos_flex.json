@@ -33,14 +33,13 @@
       "isAue": false,
       "isExperimental": false,
       "pushRecoveries": {
-        "147": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16610.57.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
-        "148": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16640.61.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
         "149": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16667.62.0_reven_recovery_stable-channel_RevenMPKeys-v10.bin.zip",
         "150": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.60.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip",
         "151": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16733.57.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip",
         "152": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.51.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip",
         "154": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.36.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip",
-        "156": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16836.32.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip"
+        "156": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16836.32.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip",
+        "158": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16868.24.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip"
       },
       "servingBeta": {
         "chromeVersion": "159.0.8154.28",
@@ -68,14 +67,14 @@
         "version": "16700.70.0"
       },
       "servingStable": {
-        "chromeVersion": "158.0.8127.65",
+        "chromeVersion": "158.0.8127.98",
         "comparedToMostCommon": 0,
-        "version": "16868.24.0"
+        "version": "16868.29.0"
       }
     }
   },
-  "creationDate": "2026-11-22",
-  "creationTime": "17:45 PT",
+  "creationDate": "2026-11-23",
+  "creationTime": "21:45 PT",
   "enterprisePins": [
     158,
     156,
